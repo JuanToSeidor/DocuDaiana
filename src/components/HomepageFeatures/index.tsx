@@ -11,32 +11,36 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Puede ayudarte con tus ventas',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Información de productos
+        Cotizaciones y propuestas.
+        Asistencia en el proceso de compra y venta.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Colabora con la gestión de tus Recursos Humanos',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Políticas internas y beneficios
+        Formularios y documentos internos
+        Automatización de preguntas frecuentes
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Y en el servicio al Cliente',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        EAtención al cliente 24/7
+        Soporte postventa
+        Gestión de quejas y reclamaciones
+        Resolución de problemas comunes
       </>
     ),
   },
@@ -63,7 +67,10 @@ export default function HomepageFeatures(): ReactNode {
         <div className="row">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
+            
           ))}
+
+
         </div>
       </div>
     </section>

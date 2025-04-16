@@ -101,11 +101,11 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Guia',
+          label: 'Documentación',
         },
         {
           to: '/ReleaseNotes',
-          label: 'Notas de version',
+          label: 'Release Notes',
         },
         
 
@@ -130,7 +130,7 @@ const config: Config = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/intro',
+              to: '/',
             },
           ],
         },
@@ -139,7 +139,7 @@ const config: Config = {
           items: [
             {
               label: 'Buenas practicas',
-              to: './blog/021-02-28-greetings.md'
+              to: '/',
             }
           ],
         },
@@ -147,6 +147,8 @@ const config: Config = {
       ],
       
     },
+
+    
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
