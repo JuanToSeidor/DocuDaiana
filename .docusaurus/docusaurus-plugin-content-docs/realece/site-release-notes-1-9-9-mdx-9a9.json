@@ -1,0 +1,23 @@
+{
+  "id": "1-9-9",
+  "title": "Release Notes",
+  "description": "Historial de versiones y mejoras de la aplicación.",
+  "source": "@site/ReleaseNotes/1-9-9.mdx",
+  "sourceDirName": ".",
+  "slug": "/1-9-9",
+  "permalink": "/ReleaseNotes/1-9-9",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Release Notes",
+    "description": "Historial de versiones y mejoras de la aplicación.",
+    "date": "2025-03-25"
+  },
+  "sidebar": "defaultSidebar",
+  "next": {
+    "title": "Nueva UI",
+    "permalink": "/ReleaseNotes/2-0-0"
+  }
+}

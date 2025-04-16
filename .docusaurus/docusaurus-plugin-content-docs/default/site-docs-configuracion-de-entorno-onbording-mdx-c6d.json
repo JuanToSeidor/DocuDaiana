@@ -1,0 +1,26 @@
+{
+  "id": "Configuración de Entorno/onbording",
+  "title": "🎯 Onbording",
+  "description": "Simplificando la experiencia a cualquier tipo de usuario, creamos un inicio donde se podrá configurar rápidamente el entorno de trabajo y su primer agente",
+  "source": "@site/docs/Configuración de Entorno/onbording.mdx",
+  "sourceDirName": "Configuración de Entorno",
+  "slug": "/Configuración de Entorno/onbording",
+  "permalink": "/en/docs/2.0.0/Configuración de Entorno/onbording",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Configuración de Entorno/onbording.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "onboarding"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduccion",
+    "permalink": "/en/docs/2.0.0/intro"
+  },
+  "next": {
+    "title": "Conexion",
+    "permalink": "/en/docs/2.0.0/Plataforma/Conexion"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ReleaseNotes/1-9-9",
+  "title": "Release Notes",
+  "description": "Historial de versiones y mejoras de la aplicación.",
+  "source": "@site/versioned_docs/version-1.0/ReleaseNotes/1-9-9.mdx",
+  "sourceDirName": "ReleaseNotes",
+  "slug": "/ReleaseNotes/1-9-9",
+  "permalink": "/en/docs/1.0/ReleaseNotes/1-9-9",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/ReleaseNotes/1-9-9.mdx",
+  "tags": [],
+  "version": "1.0",
+  "frontMatter": {
+    "title": "Release Notes",
+    "description": "Historial de versiones y mejoras de la aplicación.",
+    "date": "2025-03-25"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Realece Notes",
+    "permalink": "/en/docs/1.0/category/realece-notes"
+  },
+  "next": {
+    "title": "Nueva UI",
+    "permalink": "/en/docs/1.0/ReleaseNotes/2-0-0"
+  }
+}

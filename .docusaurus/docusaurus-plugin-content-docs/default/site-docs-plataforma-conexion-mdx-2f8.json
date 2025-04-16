@@ -1,0 +1,24 @@
+{
+  "id": "Plataforma/Conexion",
+  "title": "Conexion",
+  "description": "",
+  "source": "@site/docs/Plataforma/Conexion.mdx",
+  "sourceDirName": "Plataforma",
+  "slug": "/Plataforma/Conexion",
+  "permalink": "/en/docs/2.0.0/Plataforma/Conexion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/Conexion.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "onboarding",
+    "permalink": "/en/docs/2.0.0/Configuración de Entorno/onbording"
+  },
+  "next": {
+    "title": "Loguin",
+    "permalink": "/en/docs/2.0.0/Plataforma/Loguin"
+  }
+}

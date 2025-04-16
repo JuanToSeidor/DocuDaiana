@@ -1,0 +1,23 @@
+{
+  "id": "Release Notes/index",
+  "title": "Welcome",
+  "description": "",
+  "source": "@site/docs/Release Notes/index.md",
+  "sourceDirName": "Release Notes",
+  "slug": "/Release Notes/welcome",
+  "permalink": "/docs/2.0.0/Release Notes/welcome",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Release Notes/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Welcome"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Novedades en Imágenes",
+    "permalink": "/docs/2.0.0/Release Notes/2-0-1"
+  }
+}

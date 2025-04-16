@@ -1,0 +1,24 @@
+{
+  "id": "hello",
+  "title": "Hello",
+  "description": "This is my first Docusaurus document!",
+  "source": "@site/versioned_docs/version-1.0/hello.md",
+  "sourceDirName": ".",
+  "slug": "/hello",
+  "permalink": "/en/docs/1.0/hello",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/hello.md",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Hi!",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Tutorial Intro",
+    "permalink": "/en/docs/1.0/intro"
+  }
+}

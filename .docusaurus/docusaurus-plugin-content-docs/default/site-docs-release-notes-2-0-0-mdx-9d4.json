@@ -1,0 +1,27 @@
+{
+  "id": "Release Notes/2-0-0",
+  "title": "Nueva UI",
+  "description": "Detalles sobre las mejoras y correcciones en la versión 1.2.0 de nuestra aplicación.",
+  "source": "@site/docs/Release Notes/2-0-0.mdx",
+  "sourceDirName": "Release Notes",
+  "slug": "/Release Notes/2-0-0",
+  "permalink": "/docs/2.0.0/Release Notes/2-0-0",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Release Notes/2-0-0.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Nueva UI",
+    "description": "Detalles sobre las mejoras y correcciones en la versión 1.2.0 de nuestra aplicación."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Release Notes",
+    "permalink": "/docs/2.0.0/Release Notes/1-9-9"
+  },
+  "next": {
+    "title": "Novedades en Imágenes",
+    "permalink": "/docs/2.0.0/Release Notes/2-0-1"
+  }
+}

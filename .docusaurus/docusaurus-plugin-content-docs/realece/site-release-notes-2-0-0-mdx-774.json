@@ -1,0 +1,26 @@
+{
+  "id": "2-0-0",
+  "title": "V 0.02.00",
+  "description": "Detalles sobre las mejoras y correcciones en la versión 1.2.0 de nuestra aplicación.",
+  "source": "@site/ReleaseNotes/2-0-0.mdx",
+  "sourceDirName": ".",
+  "slug": "/2-0-0",
+  "permalink": "/en/ReleaseNotes/2-0-0",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "V 0.02.00",
+    "description": "Detalles sobre las mejoras y correcciones en la versión 1.2.0 de nuestra aplicación."
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Release Notes",
+    "permalink": "/en/ReleaseNotes/"
+  },
+  "next": {
+    "title": "Novedades en Imágenes",
+    "permalink": "/en/ReleaseNotes/2-0-1"
+  }
+}

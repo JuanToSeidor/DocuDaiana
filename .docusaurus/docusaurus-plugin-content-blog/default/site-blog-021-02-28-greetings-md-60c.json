@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/greetings",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/021-02-28-greetings.md",
+  "source": "@site/blog/021-02-28-greetings.md",
+  "title": "El Futuro de la IA en las Empresas!",
+  "description": "Introducción",
+  "date": "2025-03-25T18:19:38.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Facebook",
+      "permalink": "/blog/tags/facebook",
+      "description": "Facebook tag description"
+    }
+  ],
+  "readingTime": 2.285,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Sébastien Lorber",
+      "title": "Docusaurus maintainer",
+      "url": "https://sebastienlorber.com",
+      "page": {
+        "permalink": "/blog/authors/all-sebastien-lorber-articles"
+      },
+      "socials": {
+        "x": "https://x.com/sebastienlorber",
+        "linkedin": "https://www.linkedin.com/in/sebastienlorber/",
+        "github": "https://github.com/slorber",
+        "newsletter": "https://thisweekinreact.com"
+      },
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber"
+    }
+  ],
+  "frontMatter": {
+    "slug": "greetings",
+    "title": "El Futuro de la IA en las Empresas!",
+    "authors": "slorber",
+    "tags": [
+      "facebook"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Welcome",
+    "permalink": "/blog/welcome"
+  }
+}

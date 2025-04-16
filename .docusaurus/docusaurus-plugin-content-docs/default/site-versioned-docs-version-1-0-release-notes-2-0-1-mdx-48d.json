@@ -1,0 +1,28 @@
+{
+  "id": "ReleaseNotes/2-0-1",
+  "title": "Novedades en Imágenes",
+  "description": "Explora las últimas novedades a través de imágenes explicativas.",
+  "source": "@site/versioned_docs/version-1.0/ReleaseNotes/2-0-1.mdx",
+  "sourceDirName": "ReleaseNotes",
+  "slug": "/ReleaseNotes/2-0-1",
+  "permalink": "/en/docs/1.0/ReleaseNotes/2-0-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/ReleaseNotes/2-0-1.mdx",
+  "tags": [],
+  "version": "1.0",
+  "frontMatter": {
+    "title": "Novedades en Imágenes",
+    "description": "Explora las últimas novedades a través de imágenes explicativas.",
+    "date": "2025-03-25"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Nueva UI",
+    "permalink": "/en/docs/1.0/ReleaseNotes/2-0-0"
+  },
+  "next": {
+    "title": "Release Notes",
+    "permalink": "/en/docs/1.0/ReleaseNotes/"
+  }
+}

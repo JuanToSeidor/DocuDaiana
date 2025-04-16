@@ -1,0 +1,24 @@
+{
+  "id": "Configuración de Entorno/Conexion",
+  "title": "Conexion",
+  "description": "",
+  "source": "@site/docs/Configuración de Entorno/Conexion.mdx",
+  "sourceDirName": "Configuración de Entorno",
+  "slug": "/Configuración de Entorno/Conexion",
+  "permalink": "/docs/2.0.0/Configuración de Entorno/Conexion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Configuración de Entorno/Conexion.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduccion",
+    "permalink": "/docs/2.0.0/intro"
+  },
+  "next": {
+    "title": "onboarding",
+    "permalink": "/docs/2.0.0/Configuración de Entorno/onbording"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Plataforma/Loguin",
+  "title": "Loguin",
+  "description": "",
+  "source": "@site/docs/Plataforma/Loguin.mdx",
+  "sourceDirName": "Plataforma",
+  "slug": "/Plataforma/Loguin",
+  "permalink": "/en/docs/2.0.0/Plataforma/Loguin",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/Loguin.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conexion",
+    "permalink": "/en/docs/2.0.0/Plataforma/Conexion"
+  }
+}
