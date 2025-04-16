@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-1.0/ReleaseNotes/2-0-0.mdx",
   "sourceDirName": "ReleaseNotes",
   "slug": "/ReleaseNotes/2-0-0",
-  "permalink": "/en/docs/1.0/ReleaseNotes/2-0-0",
+  "permalink": "/docs/1.0/ReleaseNotes/2-0-0",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/ReleaseNotes/2-0-0.mdx",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Release Notes",
-    "permalink": "/en/docs/1.0/ReleaseNotes/1-9-9"
+    "permalink": "/docs/1.0/ReleaseNotes/1-9-9"
   },
   "next": {
     "title": "Novedades en Imágenes",
-    "permalink": "/en/docs/1.0/ReleaseNotes/2-0-1"
+    "permalink": "/docs/1.0/ReleaseNotes/2-0-1"
   }
 }

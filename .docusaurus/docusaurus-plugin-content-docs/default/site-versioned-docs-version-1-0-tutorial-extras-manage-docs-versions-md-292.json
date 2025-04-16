@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-1.0/tutorial-extras/manage-docs-versions.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/manage-docs-versions",
-  "permalink": "/en/docs/1.0/tutorial-extras/manage-docs-versions",
+  "permalink": "/docs/1.0/tutorial-extras/manage-docs-versions",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/tutorial-extras/manage-docs-versions.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tutorial - Extras",
-    "permalink": "/en/docs/1.0/category/tutorial---extras"
+    "permalink": "/docs/1.0/category/tutorial---extras"
   },
   "next": {
     "title": "Translate your site",
-    "permalink": "/en/docs/1.0/tutorial-extras/translate-your-site"
+    "permalink": "/docs/1.0/tutorial-extras/translate-your-site"
   }
 }

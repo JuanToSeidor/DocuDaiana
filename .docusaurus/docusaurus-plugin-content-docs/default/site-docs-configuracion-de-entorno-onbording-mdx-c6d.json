@@ -5,7 +5,7 @@
   "source": "@site/docs/Configuración de Entorno/onbording.mdx",
   "sourceDirName": "Configuración de Entorno",
   "slug": "/Configuración de Entorno/onbording",
-  "permalink": "/en/docs/2.0.0/Configuración de Entorno/onbording",
+  "permalink": "/docs/2.0.0/Configuración de Entorno/onbording",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Configuración de Entorno/onbording.mdx",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduccion",
-    "permalink": "/en/docs/2.0.0/intro"
+    "permalink": "/docs/2.0.0/intro"
   },
   "next": {
     "title": "Conexion",
-    "permalink": "/en/docs/2.0.0/Plataforma/Conexion"
+    "permalink": "/docs/2.0.0/Plataforma/Conexion"
   }
 }

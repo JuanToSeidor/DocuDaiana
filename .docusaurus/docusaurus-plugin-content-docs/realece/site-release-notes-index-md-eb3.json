@@ -5,7 +5,7 @@
   "source": "@site/ReleaseNotes/index.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/en/ReleaseNotes/",
+  "permalink": "/ReleaseNotes/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -20,6 +20,6 @@
   "sidebar": "defaultSidebar",
   "next": {
     "title": "V 0.02.00",
-    "permalink": "/en/ReleaseNotes/2-0-0"
+    "permalink": "/ReleaseNotes/2-0-0"
   }
 }

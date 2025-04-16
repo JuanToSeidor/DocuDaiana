@@ -1,33 +1,43 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/en/docs",
+      "path": "/docs",
       "versions": [
         {
           "name": "current",
           "label": "Current",
           "isLast": true,
-          "path": "/en/docs/2.0.0",
+          "path": "/docs/2.0.0",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "Configuración de Entorno/onbording",
-              "path": "/en/docs/2.0.0/Configuración de Entorno/onbording",
+              "path": "/docs/2.0.0/Configuración de Entorno/onbording",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/en/docs/2.0.0/intro",
+              "path": "/docs/2.0.0/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/2.0.0/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Plataforma/Conexion",
-              "path": "/en/docs/2.0.0/Plataforma/Conexion",
+              "path": "/docs/2.0.0/Plataforma/Conexion",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Plataforma/Loguin",
-              "path": "/en/docs/2.0.0/Plataforma/Loguin",
+              "path": "/docs/2.0.0/Plataforma/Loguin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TesterJuan",
+              "path": "/docs/2.0.0/TesterJuan",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -35,7 +45,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/en/docs/2.0.0/intro",
+                "path": "/docs/2.0.0/intro",
                 "label": "Introduccion"
               }
             }
@@ -45,92 +55,92 @@
           "name": "1.0",
           "label": "1.0",
           "isLast": false,
-          "path": "/en/docs/1.0",
+          "path": "/docs/1.0",
           "mainDocId": "hello",
           "docs": [
             {
               "id": "hello",
-              "path": "/en/docs/1.0/hello",
+              "path": "/docs/1.0/hello",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/en/docs/1.0/intro",
+              "path": "/docs/1.0/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "ReleaseNotes/1-9-9",
-              "path": "/en/docs/1.0/ReleaseNotes/1-9-9",
+              "path": "/docs/1.0/ReleaseNotes/1-9-9",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "ReleaseNotes/2-0-0",
-              "path": "/en/docs/1.0/ReleaseNotes/2-0-0",
+              "path": "/docs/1.0/ReleaseNotes/2-0-0",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "ReleaseNotes/2-0-1",
-              "path": "/en/docs/1.0/ReleaseNotes/2-0-1",
+              "path": "/docs/1.0/ReleaseNotes/2-0-1",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "ReleaseNotes/index",
-              "path": "/en/docs/1.0/ReleaseNotes/",
+              "path": "/docs/1.0/ReleaseNotes/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/congratulations",
-              "path": "/en/docs/1.0/tutorial-basics/congratulations",
+              "path": "/docs/1.0/tutorial-basics/congratulations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-blog-post",
-              "path": "/en/docs/1.0/tutorial-basics/create-a-blog-post",
+              "path": "/docs/1.0/tutorial-basics/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-document",
-              "path": "/en/docs/1.0/tutorial-basics/create-a-document",
+              "path": "/docs/1.0/tutorial-basics/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-page",
-              "path": "/en/docs/1.0/tutorial-basics/create-a-page",
+              "path": "/docs/1.0/tutorial-basics/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/deploy-your-site",
-              "path": "/en/docs/1.0/tutorial-basics/deploy-your-site",
+              "path": "/docs/1.0/tutorial-basics/deploy-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/markdown-features",
-              "path": "/en/docs/1.0/tutorial-basics/markdown-features",
+              "path": "/docs/1.0/tutorial-basics/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/manage-docs-versions",
-              "path": "/en/docs/1.0/tutorial-extras/manage-docs-versions",
+              "path": "/docs/1.0/tutorial-extras/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/translate-your-site",
-              "path": "/en/docs/1.0/tutorial-extras/translate-your-site",
+              "path": "/docs/1.0/tutorial-extras/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/realece-notes",
-              "path": "/en/docs/1.0/category/realece-notes",
+              "path": "/docs/1.0/category/realece-notes",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tutorial---basics",
-              "path": "/en/docs/1.0/category/tutorial---basics",
+              "path": "/docs/1.0/category/tutorial---basics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tutorial---extras",
-              "path": "/en/docs/1.0/category/tutorial---extras",
+              "path": "/docs/1.0/category/tutorial---extras",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -138,7 +148,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/en/docs/1.0/hello",
+                "path": "/docs/1.0/hello",
                 "label": "Hi!"
               }
             }
@@ -148,28 +158,28 @@
       "breadcrumbs": true
     },
     "realece": {
-      "path": "/en/ReleaseNotes",
+      "path": "/ReleaseNotes",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/en/ReleaseNotes",
+          "path": "/ReleaseNotes",
           "mainDocId": "index",
           "docs": [
             {
               "id": "2-0-0",
-              "path": "/en/ReleaseNotes/2-0-0",
+              "path": "/ReleaseNotes/2-0-0",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "2-0-1",
-              "path": "/en/ReleaseNotes/2-0-1",
+              "path": "/ReleaseNotes/2-0-1",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "index",
-              "path": "/en/ReleaseNotes/",
+              "path": "/ReleaseNotes/",
               "sidebar": "defaultSidebar"
             }
           ],
@@ -177,7 +187,7 @@
           "sidebars": {
             "defaultSidebar": {
               "link": {
-                "path": "/en/ReleaseNotes/",
+                "path": "/ReleaseNotes/",
                 "label": "index"
               }
             }

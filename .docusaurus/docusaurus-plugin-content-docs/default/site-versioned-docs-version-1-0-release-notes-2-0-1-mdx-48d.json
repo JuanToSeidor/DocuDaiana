@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-1.0/ReleaseNotes/2-0-1.mdx",
   "sourceDirName": "ReleaseNotes",
   "slug": "/ReleaseNotes/2-0-1",
-  "permalink": "/en/docs/1.0/ReleaseNotes/2-0-1",
+  "permalink": "/docs/1.0/ReleaseNotes/2-0-1",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/ReleaseNotes/2-0-1.mdx",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Nueva UI",
-    "permalink": "/en/docs/1.0/ReleaseNotes/2-0-0"
+    "permalink": "/docs/1.0/ReleaseNotes/2-0-0"
   },
   "next": {
     "title": "Release Notes",
-    "permalink": "/en/docs/1.0/ReleaseNotes/"
+    "permalink": "/docs/1.0/ReleaseNotes/"
   }
 }

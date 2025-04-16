@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-1.0/tutorial-basics/congratulations.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/congratulations",
-  "permalink": "/en/docs/1.0/tutorial-basics/congratulations",
+  "permalink": "/docs/1.0/tutorial-basics/congratulations",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/tutorial-basics/congratulations.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Deploy your site",
-    "permalink": "/en/docs/1.0/tutorial-basics/deploy-your-site"
+    "permalink": "/docs/1.0/tutorial-basics/deploy-your-site"
   },
   "next": {
     "title": "Tutorial - Extras",
-    "permalink": "/en/docs/1.0/category/tutorial---extras"
+    "permalink": "/docs/1.0/category/tutorial---extras"
   }
 }
