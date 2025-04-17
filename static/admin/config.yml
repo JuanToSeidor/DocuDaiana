@@ -14,4 +14,5 @@ collections:
     fields:
       - { label: "Título", name: "title", widget: "string" }
       - { label: "Contenido", name: "body", widget: "markdown" }
-
+      - { label: "Etiquetas", name: "tags", widget: "list" }
+      - { label: "sidebar_position", name: "sidebar_position", widget: "Number" }
