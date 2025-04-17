@@ -19,7 +19,7 @@ collections:
       - { label: "Título", name: "title", widget: "string" }
       - { label: "Contenido", name: "body", widget: "markdown" }
       - { label: "Etiquetas", name: "tags", widget: "list" }
-      - { label: "sidebar_position", name: "sidebar_position", widget: "Number" }
+      - { label: "sidebar_position", name: "sidebar_position", widget: "number" }
   - name: "ReleaseNotes"
     label: "Release Notes"
     folder: "/ReleaseNotes"
@@ -33,4 +33,4 @@ collections:
       - { label: "Título", name: "title", widget: "string" }
       - { label: "Contenido", name: "body", widget: "markdown" }
       - { label: "Etiquetas", name: "tags", widget: "list" }
-      - { label: "sidebar_position", name: "sidebar_position", widget: "Number" }
+      - { label: "sidebar_position", name: "sidebar_position", widget: "number" }
