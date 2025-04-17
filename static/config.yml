@@ -11,6 +11,9 @@ collections:
     folder: "docs"
     create: true
     slug: "{{slug}}"
+    extension: "mdx"
+    nested:
+      depth: 10
     fields:
       - { label: "Título", name: "title", widget: "string" }
       - { label: "Contenido", name: "body", widget: "markdown" }
@@ -21,6 +24,9 @@ collections:
     folder: "/ReleaseNotes"
     create: true
     slug: "{{slug}}"
+    extension: "mdx"
+    nested:
+      depth: 10
     fields:
       - { label: "Título", name: "title", widget: "string" }
       - { label: "Contenido", name: "body", widget: "markdown" }
