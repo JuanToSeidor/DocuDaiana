@@ -12,14 +12,14 @@ collections:
     create: true
     slug: "{{slug}}"
     format: "frontmatter"
-    extension: "mdx"
-    nested:
-      depth: 10
+    extension: "mdx"  # o "md" si no usas MDX
+    nested:           # Habilita la visualización de subcarpetas
+      depth: 10       # Define la profundidad máxima de subcarpetas
     fields:
       - { label: "Título", name: "title", widget: "string" }
       - { label: "Contenido", name: "body", widget: "markdown" }
       - { label: "Etiquetas", name: "tags", widget: "list" }
-      - { label: "sidebar_position", name: "sidebar_position", widget: "number" }
+      - { label: "sidebar_position", name: "sidebar_position", widget: "Number" }
   - name: "ReleaseNotes"
     label: "Release Notes"
     folder: "/ReleaseNotes"
@@ -27,10 +27,8 @@ collections:
     slug: "{{slug}}"
     format: "frontmatter"
     extension: "mdx"
-    nested:
-      depth: 10
     fields:
       - { label: "Título", name: "title", widget: "string" }
       - { label: "Contenido", name: "body", widget: "markdown" }
       - { label: "Etiquetas", name: "tags", widget: "list" }
-      - { label: "sidebar_position", name: "sidebar_position", widget: "number" }
+      - { label: "sidebar_position", name: "sidebar_position", widget: "Number" }
