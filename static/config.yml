@@ -8,7 +8,7 @@ public_folder: "/img/uploads"
 collections:
   - name: "docs"
     label: "Documentación"
-    folder: "docs"
+    folder: "docs/*"
     create: true
     slug: "{{slug}}"
     fields:
