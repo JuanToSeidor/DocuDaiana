@@ -22,6 +22,7 @@ function HomepageHeader() {
           {siteConfig.tagline}
           </Translate>
         </p>
+        <meta name="algolia-site-verification"  content="6EFA7B5401DBC730" />
         
       </div>
     </header>
