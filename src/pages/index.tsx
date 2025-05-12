@@ -3,6 +3,7 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
+import Faq from '@site/src/components/faq';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
 
@@ -14,16 +15,17 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
+        <small>Get started now</small>
+          <h1>Help Center</h1>
         <p className="hero__subtitle">
-          <Translate>
+          {/* <Translate>
           {siteConfig.tagline}
-          </Translate>
+          </Translate> */}
+
+          Create virtual assistants powered by artificial intelligence, train them for areas such as sales, human resources or customer support, and get valuable insights directly from your dashboards.
         </p>
-        <meta name="algolia-site-verification"  content="6EFA7B5401DBC730" />
-        
+      
+
       </div>
     </header>
   );
@@ -36,9 +38,23 @@ export default function Home(): ReactNode {
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
-      <main>
+      <main className={styles.bgfull}>
         <HomepageFeatures />
       </main>
+      <div className={styles.studio}>
+          <img src="img/index/logoStudio.png" alt="" />
+          <h2>Ship Faster with Studio</h2>
+          
+          <Link to="/docs/intro">
+            <button className={styles.button}>
+              Get Started
+            </button>
+          </Link>
+      </div>
+
+      <Faq />
     </Layout>
+
+
   );
 }

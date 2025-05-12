@@ -269,7 +269,13 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-132": {
+  "/search-5de": {
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__context": {
+      "plugin": "plugin---searchc-14-0ea"
+    }
+  },
+  "/docs-f96": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
@@ -350,20 +356,16 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-1-0-tutorial-extras-translate-your-sitef-82-ae5"
   },
-  "/docs/2.0.0-5f4": {
+  "/docs/2.0.0-5c5": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-2-0-05-f-0-4cf"
   },
-  "/docs/2.0.0-aab": {
+  "/docs/2.0.0-984": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/2.0.0/Configuración de Entorno/onbording-c55": {
+  "/docs/2.0.0/ConfiguracióndeEntorno/onbording-796": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-0-0-configuracion-de-entorno-onbordingc-6-d-df9"
-  },
-  "/docs/2.0.0/intro-950": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-0-0-intro-0-e-3-5de"
+    "content": "content---docs-2-0-0-configuracionde-entorno-onbordingab-9-b18"
   },
   "/docs/2.0.0/intro-623": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -377,26 +379,22 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-2-0-0-plataforma-loguin-7-c-7-734"
   },
-  "/docs/2.0.0/TesterJuan-c6b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-0-0-tester-juan-56-f-37c"
-  },
-  "/ReleaseNotes-e68": {
+  "/ReleaseNotes-c56": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---release-notes-26-a-588"
     }
   },
-  "/ReleaseNotes-a79": {
+  "/ReleaseNotes-ded": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---release-notesaea-ac9"
   },
-  "/ReleaseNotes-d1c": {
+  "/ReleaseNotes-795": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/ReleaseNotes/-fb2": {
+  "/ReleaseNotes/-4ee": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---release-notes-eb-3-694"
+    "content": "content---release-notes-534-f78"
   },
   "/ReleaseNotes/2-0-0-330": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -69,6 +69,14 @@ export default {
   ],
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
+    "algolia": {
+      "appId": "VH12CAS3I3",
+      "apiKey": "bb5570949492a67065dfd09ea5bf64d0",
+      "indexName": "docudaina_netlify_app_vh12cas3i3_articles",
+      "contextualSearch": true,
+      "searchParameters": {},
+      "searchPagePath": "search"
+    },
     "navbar": {
       "title": "Daiana",
       "logo": {

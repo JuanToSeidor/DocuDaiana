@@ -11,13 +11,8 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "Configuración de Entorno/onbording",
-              "path": "/docs/2.0.0/Configuración de Entorno/onbording",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "intro",
-              "path": "/docs/2.0.0/intro",
+              "id": "ConfiguracióndeEntorno/onbording",
+              "path": "/docs/2.0.0/ConfiguracióndeEntorno/onbording",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -33,11 +28,6 @@
             {
               "id": "Plataforma/Loguin",
               "path": "/docs/2.0.0/Plataforma/Loguin",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "TesterJuan",
-              "path": "/docs/2.0.0/TesterJuan",
               "sidebar": "tutorialSidebar"
             }
           ],

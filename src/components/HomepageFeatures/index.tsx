@@ -2,68 +2,109 @@ import type {ReactNode} from 'react';
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
+import config from '@site/docusaurus.config';
+
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
-  description: ReactNode;
+ description: ReactNode;
+  img: string;
+  link: string;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Puede ayudarte con tus ventas',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Get started',
+    img: './img/index/Start.png',
     description: (
       <>
-        Información de productos
-        Cotizaciones y propuestas.
-        Asistencia en el proceso de compra y venta.
+        Welcome to Daiana docs. get started faster by learn some basic
       </>
     ),
+    link: 'intro'
   },
   {
-    title: 'Colabora con la gestión de tus Recursos Humanos',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Agents',
+    img: './img/index/agent.png',
     description: (
       <>
-        Políticas internas y beneficios
-        Formularios y documentos internos
-        Automatización de preguntas frecuentes
+        Welcome to Daiana docs. get started faster by learn some basic
       </>
     ),
+    link: 'intro'
   },
   {
-    title: 'Y en el servicio al Cliente',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Knowledge bases',
+    img: './img/index/knowledge.png',
     description: (
       <>
-        EAtención al cliente 24/7
-        Soporte postventa
-        Gestión de quejas y reclamaciones
-        Resolución de problemas comunes
+        Welcome to Daiana docs. get started faster by learn some basic
       </>
     ),
+    link: 'intro'
   },
+  {
+    title: 'Integrations',
+    img: './img/index/integrations.png',
+    description: (
+      <>
+        Welcome to Daiana docs. get started faster by learn some basic
+      </>
+    ),
+    link: 'intro'
+  },
+  {
+    title: 'Reports and dashboards',
+    img: './img/index/reports.png',
+    description: (
+      <>
+        Welcome to Daiana docs. get started faster by learn some basic
+      </>
+    ),
+    link: 'intro'
+  },
+  {
+    title: 'History',
+    img: './img/index/history.png',
+    description: (
+      <>
+        Welcome to Daiana docs. get started faster by learn some basic
+      </>
+    ),
+    link: 'intro'
+  },
+
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({title, description, img, link}: FeatureItem) {
+  const versionPath = config.presets[0][1].docs.versions.current.path;
+  
   return (
     <div className={clsx('col col--4')}>
+      
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <Link to={`/docs/${versionPath}/${link}`} className={styles.indexCards}>
+          <img src={img} alt="" />
+        </Link>
       </div>
-      <div className="text--center padding-horiz--md">
+      <div className="padding-horiz--md">
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
       </div>
+      
     </div>
+    
   );
 }
 
 export default function HomepageFeatures(): ReactNode {
   return (
-    <section className={styles.features}>
+    <section className={styles.features}> 
       <div className="container">
+      <div className='name'>
+        <h3>Explore by topics </h3>
+      </div>
         <div className="row">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />

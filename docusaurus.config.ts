@@ -90,6 +90,19 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
+
+    algolia: {
+      // La aplicación ID proporcionada por Algolia
+      appId: 'VH12CAS3I3',
+      // Clave de API pública
+      apiKey: 'bb5570949492a67065dfd09ea5bf64d0',
+      // Nombre del índice proporcionado por Algolia
+      indexName: 'docudaina_netlify_app_vh12cas3i3_articles',
+      // Configuraciones opcionales
+      contextualSearch: true,
+      searchParameters: {},
+    },
+
     navbar: {
       title: 'Daiana',
       logo: {

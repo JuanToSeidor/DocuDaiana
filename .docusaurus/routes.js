@@ -118,8 +118,13 @@ export default [
     exact: true
   },
   {
+    path: '/search',
+    component: ComponentCreator('/search', '5de'),
+    exact: true
+  },
+  {
     path: '/docs',
-    component: ComponentCreator('/docs', '132'),
+    component: ComponentCreator('/docs', 'f96'),
     routes: [
       {
         path: '/docs/1.0',
@@ -237,21 +242,15 @@ export default [
       },
       {
         path: '/docs/2.0.0',
-        component: ComponentCreator('/docs/2.0.0', '5f4'),
+        component: ComponentCreator('/docs/2.0.0', '5c5'),
         routes: [
           {
             path: '/docs/2.0.0',
-            component: ComponentCreator('/docs/2.0.0', 'aab'),
+            component: ComponentCreator('/docs/2.0.0', '984'),
             routes: [
               {
-                path: '/docs/2.0.0/Configuración de Entorno/onbording',
-                component: ComponentCreator('/docs/2.0.0/Configuración de Entorno/onbording', 'c55'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/2.0.0/intro',
-                component: ComponentCreator('/docs/2.0.0/intro', '950'),
+                path: '/docs/2.0.0/ConfiguracióndeEntorno/onbording',
+                component: ComponentCreator('/docs/2.0.0/ConfiguracióndeEntorno/onbording', '796'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -272,12 +271,6 @@ export default [
                 component: ComponentCreator('/docs/2.0.0/Plataforma/Loguin', 'd3f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/2.0.0/TesterJuan',
-                component: ComponentCreator('/docs/2.0.0/TesterJuan', 'c6b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
               }
             ]
           }
@@ -287,19 +280,19 @@ export default [
   },
   {
     path: '/ReleaseNotes',
-    component: ComponentCreator('/ReleaseNotes', 'e68'),
+    component: ComponentCreator('/ReleaseNotes', 'c56'),
     routes: [
       {
         path: '/ReleaseNotes',
-        component: ComponentCreator('/ReleaseNotes', 'a79'),
+        component: ComponentCreator('/ReleaseNotes', 'ded'),
         routes: [
           {
             path: '/ReleaseNotes',
-            component: ComponentCreator('/ReleaseNotes', 'd1c'),
+            component: ComponentCreator('/ReleaseNotes', '795'),
             routes: [
               {
                 path: '/ReleaseNotes/',
-                component: ComponentCreator('/ReleaseNotes/', 'fb2'),
+                component: ComponentCreator('/ReleaseNotes/', '4ee'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },

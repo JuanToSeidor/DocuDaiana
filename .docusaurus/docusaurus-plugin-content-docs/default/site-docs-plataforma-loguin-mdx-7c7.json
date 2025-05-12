@@ -1,7 +1,7 @@
 {
   "id": "Plataforma/Loguin",
   "title": "Loguin",
-  "description": "",
+  "description": "Test de entrada para cargar desde decap",
   "source": "@site/docs/Plataforma/Loguin.mdx",
   "sourceDirName": "Plataforma",
   "slug": "/Plataforma/Loguin",
@@ -11,14 +11,12 @@
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/Loguin.mdx",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "title": "Loguin"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Conexion",
+    "title": "Steps test",
     "permalink": "/docs/2.0.0/Plataforma/Conexion"
-  },
-  "next": {
-    "title": "TesterJuan",
-    "permalink": "/docs/2.0.0/TesterJuan"
   }
 }

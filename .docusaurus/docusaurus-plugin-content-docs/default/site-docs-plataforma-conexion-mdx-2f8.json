@@ -1,6 +1,6 @@
 {
   "id": "Plataforma/Conexion",
-  "title": "Conexion",
+  "title": "Steps test",
   "description": "",
   "source": "@site/docs/Plataforma/Conexion.mdx",
   "sourceDirName": "Plataforma",
@@ -11,11 +11,13 @@
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/Conexion.mdx",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "title": "Steps test"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "onboarding",
-    "permalink": "/docs/2.0.0/Configuración de Entorno/onbording"
+    "permalink": "/docs/2.0.0/ConfiguracióndeEntorno/onbording"
   },
   "next": {
     "title": "Loguin",
