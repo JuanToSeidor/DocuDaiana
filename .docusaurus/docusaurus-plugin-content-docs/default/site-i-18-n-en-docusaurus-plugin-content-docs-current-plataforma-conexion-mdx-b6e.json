@@ -1,0 +1,26 @@
+{
+  "id": "Plataforma/Conexion",
+  "title": "Steps test",
+  "description": "",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/Plataforma/Conexion.mdx",
+  "sourceDirName": "Plataforma",
+  "slug": "/Plataforma/Conexion",
+  "permalink": "/docs/2.0.0/Plataforma/Conexion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/Conexion.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Steps test"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "onboarding",
+    "permalink": "/docs/2.0.0/ConfiguracióndeEntorno/onbording"
+  },
+  "next": {
+    "title": "Loguin",
+    "permalink": "/docs/2.0.0/Plataforma/Loguin"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "es/2-0-1",
+  "title": "Novedades en Imágenes",
+  "description": "Explora las últimas novedades a través de imágenes explicativas.",
+  "source": "@site/ReleaseNotes/es/2-0-1.mdx",
+  "sourceDirName": "es",
+  "slug": "/es/2-0-1",
+  "permalink": "/ReleaseNotes/es/2-0-1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Novedades en Imágenes",
+    "description": "Explora las últimas novedades a través de imágenes explicativas.",
+    "date": "2025-03-25"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "V 0.02.00",
+    "permalink": "/ReleaseNotes/es/2-0-0"
+  }
+}

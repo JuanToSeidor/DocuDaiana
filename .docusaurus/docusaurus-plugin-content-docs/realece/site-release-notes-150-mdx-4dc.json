@@ -1,0 +1,25 @@
+{
+  "id": "150",
+  "title": "V 1.50.00",
+  "description": "",
+  "source": "@site/ReleaseNotes/150.mdx",
+  "sourceDirName": ".",
+  "slug": "/150",
+  "permalink": "/ReleaseNotes/150",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "V 1.50.00"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "V 1.20.00",
+    "permalink": "/ReleaseNotes/120"
+  },
+  "next": {
+    "title": "V 1.70.00",
+    "permalink": "/ReleaseNotes/170"
+  }
+}

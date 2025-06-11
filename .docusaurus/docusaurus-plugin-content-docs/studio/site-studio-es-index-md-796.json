@@ -1,0 +1,21 @@
+{
+  "id": "es/index",
+  "title": "Daiana studio",
+  "description": "Es",
+  "source": "@site/Studio/es/index.md",
+  "sourceDirName": "es",
+  "slug": "/es/",
+  "permalink": "/Studio/es/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Daiana studio"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Daiana studio",
+    "permalink": "/Studio/en/"
+  }
+}

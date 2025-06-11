@@ -1,0 +1,28 @@
+{
+  "id": "nodos",
+  "title": "Nodos",
+  "description": "Comprender los nodos de DAIANA STUDIO",
+  "source": "@site/Studio/nodos.md",
+  "sourceDirName": ".",
+  "slug": "/nodos",
+  "permalink": "/Studio/nodos",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Nodos",
+    "iconName": "book",
+    "sidebar_position": 4
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Aplicaciones LLM",
+    "permalink": "/Studio/Develop"
+  },
+  "next": {
+    "title": "RAG",
+    "permalink": "/Studio/rag"
+  }
+}

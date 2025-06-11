@@ -1,92 +1,35 @@
 ---
 title: "Release Notes"
-description: "Historial de versiones y mejoras de la aplicación."
-date: "2025-03-25"
 sidebar_position: 1
 ---
+import React, { useEffect } from 'react';
+import {Sliderelece, Previouslyedreace} from './slider/Sliderprimarry.tsx'
+import items from './news.json'
+import './index.css';
 
-import Admonition from '@theme/Admonition';
-
-## 📌 Tabla de cambios
-
-| Versión   | Novedades principales |
-|-----------|----------------------|
-| 1.3.0     | Integración con Microsoft Teams, exportación a JSON/CSV |
-| 1.2.0     | Nueva interfaz, compatibilidad con Snowflake y Azure Data Lake |
-| 1.1.0     | Soporte para SAP HANA, modo oscuro, historial de ejecuciones |
-
-Si tienes dudas o sugerencias, ¡contáctanos en nuestro [centro de soporte](#)! 🚀
-
-# 🚀 Release Notes
-
-## Versión 1.3.0 - 10 de abril de 2025
-
-<Admonition type="new" title="Nueva integración con Microsoft Teams">
-  Ahora puedes recibir notificaciones y ejecutar consultas desde Teams.
-</Admonition>
-
-
-<Admonition type="tip">
-  Recuerda actualizar tus permisos de API para habilitar las nuevas funciones.
-</Admonition>
-
-### ✨ Novedades
-- **Integración con Microsoft Teams**: Ahora puedes conectar la aplicación directamente con Teams.
-- **Exportación a formatos adicionales**: Soporte para CSV y JSON.
-- **Mejoras en el sistema de permisos**: Configuración más granular para diferentes roles de usuario.
-
-### 🛠️ Mejoras
-- Optimización de tiempos de respuesta en grandes volúmenes de datos.
-- Mejor manejo de errores en la conexión con bases de datos externas.
-- Interfaz de usuario refinada.
-
-### 🐞 Correcciones de errores
-- Se solucionó un problema con la autenticación en entornos con Single Sign-On (SSO).
-- Corrección de fallos en la sincronización con Snowflake.
-- Mejorada la estabilidad en conexiones OData.
-
----
-
-## Versión 1.2.0 - 25 de marzo de 2025
-
-<Admonition type="new">
-  Ahora puedes conectar Snowflake y Azure Data Lake como fuentes de datos.
-</Admonition>
-
-### ✨ Novedades
-- **Nueva interfaz de usuario**: Rediseñada para mejorar la usabilidad.
-- **Compatibilidad con nuevas fuentes de datos**: Snowflake y Azure Data Lake.
-- **Automatización mejorada**: Agregamos la posibilidad de programar tareas recurrentes.
-
-### 🛠️ Mejoras
-- Optimización del rendimiento en la carga de datos.
-- Mejoras en los logs de ejecución.
-- Reducción del tiempo de respuesta en consultas complejas.
-
-### 🐞 Correcciones de errores
-- Se corrigió un error que impedía la conexión a ciertas bases de datos OData.
-- Solucionado un problema con los permisos de usuario en la exportación de datos.
-- Mejorada la estabilidad en entornos con alta concurrencia.
-
----
-
-## Versión 1.1.0 - 10 de marzo de 2025
-
-### ✨ Novedades
-- **Soporte para SAP HANA**: Ahora puedes extraer datos directamente desde SAP HANA.
-- **Modo oscuro**: Nueva opción de visualización.
-- **Historial de ejecuciones**: Consulta las últimas operaciones realizadas.
-
-### 🛠️ Mejoras
-- Reducción del consumo de memoria en cargas masivas de datos.
-- Compatibilidad mejorada con entornos de red restringidos.
-- Ajustes en la API.
-
-### 🐞 Correcciones de errores
-- Solucionado problema con consultas SAP lentas.
-- Corrección de errores en la interfaz de usuario.
-- Mejor detección de errores en configuraciones de conexión.
-
----
-
+export default function CustomIndex() {
+  useEffect(() => {
+    // Oculta el sidebar
+    const sidebar = document.querySelector('.theme-doc-sidebar-container');
+    if (sidebar) sidebar.style.display = 'none';
+  }, []);
+  const releases = [
+      ...Object.keys(items).map(version => ({
+        version,
+        name: items[version].version,
+        link: version.replace(/\./g, ''), // o ajusta según tu lógica de links
+        date: items[version].date,
+        description: items[version].description
+      })),
+  ];
+  // Obtiene la versión más reciente (la que está más arriba en el JSON)
+  const currentrelece = Object.keys(items)[Object.keys(items).length - 1];
+  return (
+    
+      <>
+      <Sliderelece version={currentrelece} items={items[currentrelece].news} title={items[currentrelece].version} />
+      <Previouslyedreace  releases={releases} />
+      </>
+  );
+}
 

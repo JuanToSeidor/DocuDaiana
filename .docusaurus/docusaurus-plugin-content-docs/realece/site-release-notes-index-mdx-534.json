@@ -1,7 +1,7 @@
 {
   "id": "index",
   "title": "Release Notes",
-  "description": "Historial de versiones y mejoras de la aplicación.",
+  "description": ");",
   "source": "@site/ReleaseNotes/index.mdx",
   "sourceDirName": ".",
   "slug": "/",
@@ -13,13 +13,11 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "title": "Release Notes",
-    "description": "Historial de versiones y mejoras de la aplicación.",
-    "date": "2025-03-25",
     "sidebar_position": 1
   },
   "sidebar": "defaultSidebar",
   "next": {
-    "title": "V 0.02.00",
-    "permalink": "/ReleaseNotes/2-0-0"
+    "title": "V 1.10.00",
+    "permalink": "/ReleaseNotes/110"
   }
 }

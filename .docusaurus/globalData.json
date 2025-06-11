@@ -158,13 +158,28 @@
           "mainDocId": "index",
           "docs": [
             {
-              "id": "2-0-0",
-              "path": "/ReleaseNotes/2-0-0",
+              "id": "110",
+              "path": "/ReleaseNotes/110",
               "sidebar": "defaultSidebar"
             },
             {
-              "id": "2-0-1",
-              "path": "/ReleaseNotes/2-0-1",
+              "id": "120",
+              "path": "/ReleaseNotes/120",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "150",
+              "path": "/ReleaseNotes/150",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "170",
+              "path": "/ReleaseNotes/170",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "180",
+              "path": "/ReleaseNotes/180",
               "sidebar": "defaultSidebar"
             },
             {
@@ -178,6 +193,55 @@
             "defaultSidebar": {
               "link": {
                 "path": "/ReleaseNotes/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "studio": {
+      "path": "/Studio",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/Studio",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "Develop",
+              "path": "/Studio/Develop",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "general",
+              "path": "/Studio/general",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/Studio/",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "nodos",
+              "path": "/Studio/nodos",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "rag",
+              "path": "/Studio/rag",
+              "sidebar": "defaultSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "defaultSidebar": {
+              "link": {
+                "path": "/Studio/",
                 "label": "index"
               }
             }

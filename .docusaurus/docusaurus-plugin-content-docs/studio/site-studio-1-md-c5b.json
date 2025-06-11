@@ -1,0 +1,19 @@
+{
+  "id": "1",
+  "title": "1",
+  "description": "",
+  "source": "@site/Studio/1.md",
+  "sourceDirName": ".",
+  "slug": "/1",
+  "permalink": "/Studio/1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "next": {
+    "title": "Daiana studio",
+    "permalink": "/Studio/"
+  }
+}

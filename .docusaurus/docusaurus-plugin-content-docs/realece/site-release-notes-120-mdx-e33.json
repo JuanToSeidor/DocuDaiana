@@ -1,0 +1,25 @@
+{
+  "id": "120",
+  "title": "V 1.20.00",
+  "description": "",
+  "source": "@site/ReleaseNotes/120.mdx",
+  "sourceDirName": ".",
+  "slug": "/120",
+  "permalink": "/ReleaseNotes/120",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "V 1.20.00"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "V 1.10.00",
+    "permalink": "/ReleaseNotes/110"
+  },
+  "next": {
+    "title": "V 1.50.00",
+    "permalink": "/ReleaseNotes/150"
+  }
+}

@@ -30,7 +30,14 @@ const config: Config = {
   i18n: {
     defaultLocale: 'es',
     locales: ['en', 'es'],
-    
+    localeConfigs: {
+      en: {
+        label: 'English',
+      },
+      es: {
+        label: 'Español',
+      },
+    },
   },
 
   presets: [
@@ -82,9 +89,17 @@ const config: Config = {
         id: 'realece', 
         path: 'ReleaseNotes',
         routeBasePath: 'ReleaseNotes',
-        // ... otras configuraciones específicas para "sistemas"
-      },
-    ],
+        
+      }
+    ],[
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'studio',
+        path: 'Studio',
+        routeBasePath: 'Studio',
+        
+      }
+    ]
   ],
 
   themeConfig: {
@@ -115,6 +130,9 @@ const config: Config = {
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Documentación',
+        },{
+          to: '/Studio',
+          label: 'Studio',
         },
         {
           to: '/ReleaseNotes',

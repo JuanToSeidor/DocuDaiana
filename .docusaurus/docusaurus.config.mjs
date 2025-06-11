@@ -19,8 +19,17 @@ export default {
       "en",
       "es"
     ],
-    "path": "i18n",
-    "localeConfigs": {}
+    "localeConfigs": {
+      "en": {
+        "label": "English",
+        "direction": "ltr"
+      },
+      "es": {
+        "label": "Español",
+        "direction": "ltr"
+      }
+    },
+    "path": "i18n"
   },
   "presets": [
     [
@@ -65,6 +74,14 @@ export default {
         "path": "ReleaseNotes",
         "routeBasePath": "ReleaseNotes"
       }
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        "id": "studio",
+        "path": "Studio",
+        "routeBasePath": "Studio"
+      }
     ]
   ],
   "themeConfig": {
@@ -89,6 +106,11 @@ export default {
           "sidebarId": "tutorialSidebar",
           "position": "left",
           "label": "Documentación"
+        },
+        {
+          "to": "/Studio",
+          "label": "Studio",
+          "position": "left"
         },
         {
           "to": "/ReleaseNotes",
@@ -368,13 +390,19 @@ export default {
   },
   "baseUrlIssueBanner": true,
   "future": {
+    "v4": {
+      "removeLegacyPostBuildHeadAttribute": false,
+      "useCssCascadeLayers": false
+    },
     "experimental_faster": {
       "swcJsLoader": false,
       "swcJsMinimizer": false,
       "swcHtmlMinimizer": false,
       "lightningCssMinimizer": false,
       "mdxCrossCompilerCache": false,
-      "rspackBundler": false
+      "rspackBundler": false,
+      "rspackPersistentCache": false,
+      "ssgWorkerThreads": false
     },
     "experimental_storage": {
       "type": "localStorage",

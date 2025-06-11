@@ -1,0 +1,27 @@
+{
+  "id": "ConfiguracióndeEntorno/onbording",
+  "title": "Onbording",
+  "description": "Simplificando la experiencia a cualquier tipo de usuario, creamos un inicio donde se podrá configurar rápidamente el entorno de trabajo y su primer agente",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/ConfiguracióndeEntorno/onbording.mdx",
+  "sourceDirName": "ConfiguracióndeEntorno",
+  "slug": "/ConfiguracióndeEntorno/onbording",
+  "permalink": "/docs/2.0.0/ConfiguracióndeEntorno/onbording",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/ConfiguracióndeEntorno/onbording.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "onboarding",
+    "title": "Onbording"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduccion",
+    "permalink": "/docs/2.0.0/intro"
+  },
+  "next": {
+    "title": "Steps test",
+    "permalink": "/docs/2.0.0/Plataforma/Conexion"
+  }
+}

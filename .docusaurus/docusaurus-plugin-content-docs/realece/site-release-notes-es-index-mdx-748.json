@@ -1,0 +1,29 @@
+{
+  "id": "es/index",
+  "title": "Release Notes",
+  "description": "Historial de versiones y mejoras de la aplicación.",
+  "source": "@site/ReleaseNotes/es/index.mdx",
+  "sourceDirName": "es",
+  "slug": "/es/",
+  "permalink": "/ReleaseNotes/es/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Release Notes",
+    "description": "Historial de versiones y mejoras de la aplicación.",
+    "date": "2025-03-25",
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Novedades en Imágenes",
+    "permalink": "/ReleaseNotes/en/2-0-1"
+  },
+  "next": {
+    "title": "V 0.02.00",
+    "permalink": "/ReleaseNotes/es/2-0-0"
+  }
+}

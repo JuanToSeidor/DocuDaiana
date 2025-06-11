@@ -1,0 +1,21 @@
+{
+  "id": "en/index",
+  "title": "Daiana studio",
+  "description": "En los últimos años, los campos de la inteligencia artificial (IA) y el aprendizaje automático han experimentado avances significativos. En particular, GPT (Generative Pre-trained Transformer), desarrollado por OpenAI en 2018, ha revolucionado el campo del procesamiento del lenguaje natural (PLN). Con la llegada de GPT-3, se reconoció ampliamente el inmenso poder de los grandes modelos de lenguaje, y GPT-4 mejoró aún más sus capacidades.",
+  "source": "@site/Studio/en/index.md",
+  "sourceDirName": "en",
+  "slug": "/en/",
+  "permalink": "/Studio/en/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Daiana studio"
+  },
+  "sidebar": "defaultSidebar",
+  "next": {
+    "title": "Daiana studio",
+    "permalink": "/Studio/es/"
+  }
+}
