@@ -1,6 +1,6 @@
 {
   "id": "entrenamiento/index",
-  "title": "Entrenamiento Daiana studio",
+  "title": "Entrenamiento Daiana Studio",
   "description": "Introducción",
   "source": "@site/Studio/entrenamiento/index.md",
   "sourceDirName": "entrenamiento",
@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "title": "Entrenamiento Daiana studio",
+    "title": "Entrenamiento Daiana Studio",
     "iconName": "book",
     "sidebar_position": 1
   },

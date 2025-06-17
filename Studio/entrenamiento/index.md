@@ -1,5 +1,5 @@
 ---
-title: 'Entrenamiento Daiana studio'
+title: 'Entrenamiento Daiana Studio'
 iconName: "book"
 sidebar_position: 1
 ---
