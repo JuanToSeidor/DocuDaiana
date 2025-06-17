@@ -1,0 +1,28 @@
+{
+  "id": "secciones/agentsflows",
+  "title": "Agentflows",
+  "description": "Esta documentación explorará tanto el enfoque de Sequential Agent como el de Multi-Agent, explicando sus características y cómo pueden ser utilizados para construir diferentes tipos de flujos de trabajo conversacionales.",
+  "source": "@site/Studio/secciones/agentsflows.md",
+  "sourceDirName": "secciones",
+  "slug": "/secciones/agentsflows",
+  "permalink": "/Studio/secciones/agentsflows",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "iconName": "usersMap",
+    "title": "Agentflows",
+    "sidebar_position": 2
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Chatflows",
+    "permalink": "/Studio/secciones/chatflows"
+  },
+  "next": {
+    "title": "Entrenamiento Daiana studio",
+    "permalink": "/Studio/entrenamiento/"
+  }
+}

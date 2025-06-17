@@ -416,38 +416,62 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---release-notes-180-f-9-f-26e"
   },
-  "/Studio-049": {
+  "/Studio-2ec": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---studio-57-d-6a8"
     }
   },
-  "/Studio-624": {
+  "/Studio-b6a": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---studio-6-d-1-fbe"
   },
-  "/Studio-222": {
+  "/Studio-f3e": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/Studio/-0a8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---studio-17-b-f58"
   },
-  "/Studio/Develop-40e": {
+  "/Studio/entrenamiento/-401": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---studio-developedc-94a"
+    "content": "content---studio-entrenamiento-52-d-e83"
   },
-  "/Studio/general-1b2": {
+  "/Studio/entrenamiento/Develop-466": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---studio-generala-00-e58"
+    "content": "content---studio-entrenamiento-develop-456-cd6"
   },
-  "/Studio/nodos-dbf": {
+  "/Studio/entrenamiento/general-5f9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---studio-nodoscb-3-f6f"
+    "content": "content---studio-entrenamiento-general-1-fe-309"
   },
-  "/Studio/rag-c4e": {
+  "/Studio/entrenamiento/nodos-c40": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---studio-rag-477-f63"
+    "content": "content---studio-entrenamiento-nodos-0-c-4-e5f"
+  },
+  "/Studio/entrenamiento/rag-55d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---studio-entrenamiento-rag-4-be-7a3"
+  },
+  "/Studio/secciones/-352": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---studio-secciones-e-35-e17"
+  },
+  "/Studio/secciones/agentsflows/-84c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---studio-secciones-agentsflows-828-76e"
+  },
+  "/Studio/secciones/agentsflows/Multi-Agents-e29": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---studio-secciones-agentsflows-multi-agents-83-e-033"
+  },
+  "/Studio/secciones/agentsflows/sequential-agents-c29": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---studio-secciones-agentsflows-sequential-agents-20-b-0dc"
+  },
+  "/Studio/secciones/chatflows-c00": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---studio-secciones-chatflowsb-13-b70"
   },
   "/-e5f": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",

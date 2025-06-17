@@ -212,13 +212,28 @@
           "mainDocId": "index",
           "docs": [
             {
-              "id": "Develop",
-              "path": "/Studio/Develop",
+              "id": "entrenamiento/Develop",
+              "path": "/Studio/entrenamiento/Develop",
               "sidebar": "defaultSidebar"
             },
             {
-              "id": "general",
-              "path": "/Studio/general",
+              "id": "entrenamiento/general",
+              "path": "/Studio/entrenamiento/general",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "entrenamiento/index",
+              "path": "/Studio/entrenamiento/",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "entrenamiento/nodos",
+              "path": "/Studio/entrenamiento/nodos",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "entrenamiento/rag",
+              "path": "/Studio/entrenamiento/rag",
               "sidebar": "defaultSidebar"
             },
             {
@@ -227,13 +242,28 @@
               "sidebar": "defaultSidebar"
             },
             {
-              "id": "nodos",
-              "path": "/Studio/nodos",
+              "id": "secciones/agentsflows/index",
+              "path": "/Studio/secciones/agentsflows/",
               "sidebar": "defaultSidebar"
             },
             {
-              "id": "rag",
-              "path": "/Studio/rag",
+              "id": "secciones/agentsflows/Multi-Agents",
+              "path": "/Studio/secciones/agentsflows/Multi-Agents",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "secciones/agentsflows/sequential-agents",
+              "path": "/Studio/secciones/agentsflows/sequential-agents",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "secciones/chatflows",
+              "path": "/Studio/secciones/chatflows",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "secciones/index",
+              "path": "/Studio/secciones/",
               "sidebar": "defaultSidebar"
             }
           ],

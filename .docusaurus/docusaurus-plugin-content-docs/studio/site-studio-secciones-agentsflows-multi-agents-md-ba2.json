@@ -1,0 +1,23 @@
+{
+  "id": "secciones/agentsflows/Multi-Agents.",
+  "title": "Multi-Agents",
+  "description": "Esta guía pretende proporcionar una introducción a la arquitectura del sistema de IA multi-agente dentro de Daiana Studio, detallando sus componentes, restricciones operativas y flujo de trabajo.",
+  "source": "@site/Studio/secciones/agentsflows/Multi-Agents..md",
+  "sourceDirName": "secciones/agentsflows",
+  "slug": "/secciones/agentsflows/Multi-Agents.",
+  "permalink": "/Studio/secciones/agentsflows/Multi-Agents.",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Agentflows",
+    "permalink": "/Studio/secciones/agentsflows/"
+  },
+  "next": {
+    "title": "sequential-agents",
+    "permalink": "/Studio/secciones/agentsflows/sequential-agents"
+  }
+}

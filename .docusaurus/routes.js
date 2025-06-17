@@ -334,15 +334,15 @@ export default [
   },
   {
     path: '/Studio',
-    component: ComponentCreator('/Studio', '049'),
+    component: ComponentCreator('/Studio', '2ec'),
     routes: [
       {
         path: '/Studio',
-        component: ComponentCreator('/Studio', '624'),
+        component: ComponentCreator('/Studio', 'b6a'),
         routes: [
           {
             path: '/Studio',
-            component: ComponentCreator('/Studio', '222'),
+            component: ComponentCreator('/Studio', 'f3e'),
             routes: [
               {
                 path: '/Studio/',
@@ -351,26 +351,62 @@ export default [
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/Studio/Develop',
-                component: ComponentCreator('/Studio/Develop', '40e'),
+                path: '/Studio/entrenamiento/',
+                component: ComponentCreator('/Studio/entrenamiento/', '401'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/Studio/general',
-                component: ComponentCreator('/Studio/general', '1b2'),
+                path: '/Studio/entrenamiento/Develop',
+                component: ComponentCreator('/Studio/entrenamiento/Develop', '466'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/Studio/nodos',
-                component: ComponentCreator('/Studio/nodos', 'dbf'),
+                path: '/Studio/entrenamiento/general',
+                component: ComponentCreator('/Studio/entrenamiento/general', '5f9'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/Studio/rag',
-                component: ComponentCreator('/Studio/rag', 'c4e'),
+                path: '/Studio/entrenamiento/nodos',
+                component: ComponentCreator('/Studio/entrenamiento/nodos', 'c40'),
+                exact: true,
+                sidebar: "defaultSidebar"
+              },
+              {
+                path: '/Studio/entrenamiento/rag',
+                component: ComponentCreator('/Studio/entrenamiento/rag', '55d'),
+                exact: true,
+                sidebar: "defaultSidebar"
+              },
+              {
+                path: '/Studio/secciones/',
+                component: ComponentCreator('/Studio/secciones/', '352'),
+                exact: true,
+                sidebar: "defaultSidebar"
+              },
+              {
+                path: '/Studio/secciones/agentsflows/',
+                component: ComponentCreator('/Studio/secciones/agentsflows/', '84c'),
+                exact: true,
+                sidebar: "defaultSidebar"
+              },
+              {
+                path: '/Studio/secciones/agentsflows/Multi-Agents',
+                component: ComponentCreator('/Studio/secciones/agentsflows/Multi-Agents', 'e29'),
+                exact: true,
+                sidebar: "defaultSidebar"
+              },
+              {
+                path: '/Studio/secciones/agentsflows/sequential-agents',
+                component: ComponentCreator('/Studio/secciones/agentsflows/sequential-agents', 'c29'),
+                exact: true,
+                sidebar: "defaultSidebar"
+              },
+              {
+                path: '/Studio/secciones/chatflows',
+                component: ComponentCreator('/Studio/secciones/chatflows', 'c00'),
                 exact: true,
                 sidebar: "defaultSidebar"
               }

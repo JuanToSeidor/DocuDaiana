@@ -1,0 +1,28 @@
+{
+  "id": "entrenamiento/Develop",
+  "title": "Aplicaciones LLM",
+  "description": "Primeros pasos",
+  "source": "@site/Studio/entrenamiento/Develop.md",
+  "sourceDirName": "entrenamiento",
+  "slug": "/entrenamiento/Develop",
+  "permalink": "/Studio/entrenamiento/Develop",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Aplicaciones LLM",
+    "iconName": "book",
+    "sidebar_position": 3
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Descripción general",
+    "permalink": "/Studio/entrenamiento/general"
+  },
+  "next": {
+    "title": "Nodos",
+    "permalink": "/Studio/entrenamiento/nodos"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "secciones/chatflows",
+  "title": "Chatflows",
+  "description": "Chatflow está diseñado para construir sistemas de agente único, chatbots y flujos simples con modelos de lenguaje (LLM). Es más flexible que Assistant. Los usuarios pueden utilizar técnicas avanzadas como Graph RAG, Reranker, código personalizado, entre otros.",
+  "source": "@site/Studio/secciones/chatflows.md",
+  "sourceDirName": "secciones",
+  "slug": "/secciones/chatflows",
+  "permalink": "/Studio/secciones/chatflows",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "iconName": "network",
+    "title": "Chatflows",
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Interfaz de Usuario",
+    "permalink": "/Studio/secciones/"
+  },
+  "next": {
+    "title": "Agentflows",
+    "permalink": "/Studio/secciones/agentsflows/"
+  }
+}

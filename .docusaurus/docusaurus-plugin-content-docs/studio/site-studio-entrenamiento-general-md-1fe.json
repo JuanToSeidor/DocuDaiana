@@ -1,0 +1,28 @@
+{
+  "id": "entrenamiento/general",
+  "title": "Descripción general",
+  "description": "Historia y antecedentes de DAIANA STUDIO",
+  "source": "@site/Studio/entrenamiento/general.md",
+  "sourceDirName": "entrenamiento",
+  "slug": "/entrenamiento/general",
+  "permalink": "/Studio/entrenamiento/general",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Descripción general",
+    "iconName": "book",
+    "sidebar_position": 2
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Entrenamiento Daiana studio",
+    "permalink": "/Studio/entrenamiento/"
+  },
+  "next": {
+    "title": "Aplicaciones LLM",
+    "permalink": "/Studio/entrenamiento/Develop"
+  }
+}

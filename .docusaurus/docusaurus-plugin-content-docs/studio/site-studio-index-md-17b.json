@@ -1,6 +1,6 @@
 {
   "id": "index",
-  "title": "Daiana studio",
+  "title": "Daiana Studio",
   "description": "Introducción",
   "source": "@site/Studio/index.md",
   "sourceDirName": ".",
@@ -12,13 +12,13 @@
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "title": "Daiana studio",
+    "title": "Daiana Studio",
     "iconName": "book",
     "sidebar_position": 1
   },
   "sidebar": "defaultSidebar",
   "next": {
-    "title": "Descripción general",
-    "permalink": "/Studio/general"
+    "title": "Interfaz de Usuario",
+    "permalink": "/Studio/secciones/"
   }
 }

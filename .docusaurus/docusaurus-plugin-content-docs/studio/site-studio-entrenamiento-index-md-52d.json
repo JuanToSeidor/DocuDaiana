@@ -1,0 +1,28 @@
+{
+  "id": "entrenamiento/index",
+  "title": "Entrenamiento Daiana studio",
+  "description": "Introducción",
+  "source": "@site/Studio/entrenamiento/index.md",
+  "sourceDirName": "entrenamiento",
+  "slug": "/entrenamiento/",
+  "permalink": "/Studio/entrenamiento/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Entrenamiento Daiana studio",
+    "iconName": "book",
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Sequential Agents",
+    "permalink": "/Studio/secciones/agentsflows/sequential-agents"
+  },
+  "next": {
+    "title": "Descripción general",
+    "permalink": "/Studio/entrenamiento/general"
+  }
+}

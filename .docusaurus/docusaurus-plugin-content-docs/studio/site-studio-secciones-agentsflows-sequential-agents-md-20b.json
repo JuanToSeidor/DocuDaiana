@@ -1,0 +1,26 @@
+{
+  "id": "secciones/agentsflows/sequential-agents",
+  "title": "Sequential Agents",
+  "description": "Esta guía ofrece una visión completa de la arquitectura de Sequential Agent AI dentro de Daiana Studio, explorando sus componentes principales y principios de diseño del flujo de trabajo.",
+  "source": "@site/Studio/secciones/agentsflows/sequential-agents.md",
+  "sourceDirName": "secciones/agentsflows",
+  "slug": "/secciones/agentsflows/sequential-agents",
+  "permalink": "/Studio/secciones/agentsflows/sequential-agents",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "iconName": "usersMap",
+    "title": "Sequential Agents"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Multi-Agents",
+    "permalink": "/Studio/secciones/agentsflows/Multi-Agents"
+  },
+  "next": {
+    "title": "Entrenamiento Daiana studio",
+    "permalink": "/Studio/entrenamiento/"
+  }
+}

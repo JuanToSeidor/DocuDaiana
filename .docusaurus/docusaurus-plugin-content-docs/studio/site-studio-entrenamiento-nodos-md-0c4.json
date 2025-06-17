@@ -1,0 +1,28 @@
+{
+  "id": "entrenamiento/nodos",
+  "title": "Nodos",
+  "description": "Comprender los nodos de DAIANA STUDIO",
+  "source": "@site/Studio/entrenamiento/nodos.md",
+  "sourceDirName": "entrenamiento",
+  "slug": "/entrenamiento/nodos",
+  "permalink": "/Studio/entrenamiento/nodos",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Nodos",
+    "iconName": "book",
+    "sidebar_position": 4
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Aplicaciones LLM",
+    "permalink": "/Studio/entrenamiento/Develop"
+  },
+  "next": {
+    "title": "RAG",
+    "permalink": "/Studio/entrenamiento/rag"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "entrenamiento/rag",
+  "title": "RAG",
+  "description": "Utilización de RAG en DAIANA STUDIO",
+  "source": "@site/Studio/entrenamiento/rag.md",
+  "sourceDirName": "entrenamiento",
+  "slug": "/entrenamiento/rag",
+  "permalink": "/Studio/entrenamiento/rag",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "RAG",
+    "iconName": "book",
+    "sidebar_position": 4
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Nodos",
+    "permalink": "/Studio/entrenamiento/nodos"
+  }
+}
