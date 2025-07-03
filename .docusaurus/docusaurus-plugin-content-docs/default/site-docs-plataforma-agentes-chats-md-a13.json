@@ -1,0 +1,29 @@
+{
+  "id": "Plataforma/agentes/chats",
+  "title": "Chats",
+  "description": "La vista Chats permite interactuar con los asistentes conversacionales disponibles para el usuario. Desde esta pantalla se pueden explorar conversaciones pasadas, continuar chats activos o iniciar nuevas interacciones con distintos agentes.",
+  "source": "@site/docs/Plataforma/agentes/chats.md",
+  "sourceDirName": "Plataforma/agentes",
+  "slug": "/Plataforma/agentes/chats",
+  "permalink": "/docs/2.0.0/Plataforma/agentes/chats",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/agentes/chats.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Chats",
+    "iconName": "chats",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Agentes",
+    "permalink": "/docs/2.0.0/Plataforma/agentes/"
+  },
+  "next": {
+    "title": "Administrar",
+    "permalink": "/docs/2.0.0/Plataforma/agentes/administrar"
+  }
+}

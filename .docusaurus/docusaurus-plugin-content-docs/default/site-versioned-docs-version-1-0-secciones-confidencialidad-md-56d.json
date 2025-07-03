@@ -1,0 +1,28 @@
+{
+  "id": "Secciones/Confidencialidad",
+  "title": "Política de Privacidad de Daiana",
+  "description": "En Daiana, la confidencialidad y la privacidad de nuestros usuarios y sus contactos son de la máxima prioridad. Hemos implementado políticas y procedimientos estrictos para asegurar que la información personal se maneje de manera segura y conforme a todas las leyes aplicables de protección de datos.",
+  "source": "@site/versioned_docs/version-1.0/Secciones/Confidencialidad.md",
+  "sourceDirName": "Secciones",
+  "slug": "/Secciones/Confidencialidad",
+  "permalink": "/docs/1.0/Secciones/Confidencialidad",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/Secciones/Confidencialidad.md",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "Política de Privacidad"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Operación del Sistema",
+    "permalink": "/docs/1.0/Secciones/operaciones"
+  },
+  "next": {
+    "title": "Seguridad de Datos",
+    "permalink": "/docs/1.0/Secciones/seguridad"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ConfiguracióndeEntorno/onbording",
+  "title": "Onbording",
+  "description": "Simplificando la experiencia a cualquier tipo de usuario, creamos un inicio donde se podrá configurar rápidamente el entorno de trabajo y su primer agente",
+  "source": "@site/docs/ConfiguracióndeEntorno/onbording.md",
+  "sourceDirName": "ConfiguracióndeEntorno",
+  "slug": "/ConfiguracióndeEntorno/onbording",
+  "permalink": "/docs/2.0.0/ConfiguracióndeEntorno/onbording",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/ConfiguracióndeEntorno/onbording.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Onboarding",
+    "title": "Onbording",
+    "iconName": "planeDeparture"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Empieza ahora",
+    "permalink": "/docs/2.0.0/category/empieza-ahora"
+  },
+  "next": {
+    "title": "Primer agente",
+    "permalink": "/docs/2.0.0/ConfiguracióndeEntorno/primer"
+  }
+}

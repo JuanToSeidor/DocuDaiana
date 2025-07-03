@@ -1,0 +1,25 @@
+{
+  "id": "Plataforma/wizzard",
+  "title": "Wizard de Agentes",
+  "description": "El Wizard de Agentes es una guía asistida para crear nuevos asistentes conversacionales de manera rápida, intuitiva y personalizada. Paso a paso, te permite configurar aspectos clave del agente y prepararlo para funcionar con las fuentes de conocimiento que elijas.",
+  "source": "@site/docs/Plataforma/wizzard.md",
+  "sourceDirName": "Plataforma",
+  "slug": "/Plataforma/wizzard",
+  "permalink": "/docs/2.0.0/Plataforma/wizzard",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/wizzard.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Wizard de Agentes",
+    "iconName": "bolt",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Historial de conversaciones",
+    "permalink": "/docs/2.0.0/Plataforma/historial"
+  }
+}

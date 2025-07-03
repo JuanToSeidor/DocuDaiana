@@ -1,0 +1,28 @@
+{
+  "id": "secciones/embled",
+  "title": "Incrustar chat",
+  "description": "Aprenda a personalizar e integrar nuestro widget de chat.",
+  "source": "@site/Studio/secciones/embled.md",
+  "sourceDirName": "secciones",
+  "slug": "/secciones/embled",
+  "permalink": "/Studio/secciones/embled",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Incrustar chat",
+    "iconName": "code",
+    "sidebar_position": 4
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Document Stores",
+    "permalink": "/Studio/secciones/docs"
+  },
+  "next": {
+    "title": "Variables",
+    "permalink": "/Studio/secciones/variables"
+  }
+}

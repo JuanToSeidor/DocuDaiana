@@ -1,0 +1,27 @@
+{
+  "id": "Secciones/seguridad",
+  "title": "Seguridad de Datos",
+  "description": "La seguridad de los datos es un pilar fundamental en la operativa de Daiana. Nuestro compromiso con la protección de la información se extiende más allá de las mejores prácticas estándar, integrando tecnologías avanzadas y procedimientos rigurosos para salvaguardar cada aspecto del flujo de datos.",
+  "source": "@site/versioned_docs/version-1.0/Secciones/seguridad.md",
+  "sourceDirName": "Secciones",
+  "slug": "/Secciones/seguridad",
+  "permalink": "/docs/1.0/Secciones/seguridad",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/Secciones/seguridad.md",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Política de Privacidad",
+    "permalink": "/docs/1.0/Secciones/Confidencialidad"
+  },
+  "next": {
+    "title": "Políticas de Mantenimiento",
+    "permalink": "/docs/1.0/Secciones/mantenimiento"
+  }
+}

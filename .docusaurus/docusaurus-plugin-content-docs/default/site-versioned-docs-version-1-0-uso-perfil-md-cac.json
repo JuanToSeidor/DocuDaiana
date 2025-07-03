@@ -1,0 +1,26 @@
+{
+  "id": "uso/perfil",
+  "title": "Implementación SSO",
+  "description": "(Single Sign On) en maquinas virtuales de daiana",
+  "source": "@site/versioned_docs/version-1.0/uso/perfil.md",
+  "sourceDirName": "uso",
+  "slug": "/uso/perfil",
+  "permalink": "/docs/1.0/uso/perfil",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/uso/perfil.md",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "SSO",
+    "sidebar_position": 1,
+    "title": "Implementación SSO",
+    "iconName": "key"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cuenta",
+    "permalink": "/docs/1.0/configuración/cuenta"
+  }
+}

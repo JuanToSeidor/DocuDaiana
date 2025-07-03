@@ -1,0 +1,28 @@
+{
+  "id": "Paginas/conversaciones",
+  "title": "Conversaciones",
+  "description": "La pantalla de Conversaciones en Daiana permite a los usuarios revisar y gestionar las interacciones realizadas con los asistentes virtuales. Aquí se puede ver el historial de mensajes entre un usuario específico y un asistente virtual, proporcionando una visión detallada de las conversaciones y su contexto.",
+  "source": "@site/versioned_docs/version-1.0/Paginas/conversaciones.md",
+  "sourceDirName": "Paginas",
+  "slug": "/Paginas/conversaciones",
+  "permalink": "/docs/1.0/Paginas/conversaciones",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/Paginas/conversaciones.md",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Conversaciones",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Seguridad",
+    "permalink": "/docs/1.0/Paginas/seguridad"
+  },
+  "next": {
+    "title": "SharePoint",
+    "permalink": "/docs/1.0/conexiones/sharepoint"
+  }
+}

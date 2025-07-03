@@ -12,13 +12,14 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "sidebar_label": "onboarding",
-    "title": "Onbording"
+    "sidebar_label": "Onboarding",
+    "title": "Onbording",
+    "iconName": "planeDeparture"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Introduccion",
-    "permalink": "/docs/2.0.0/intro"
+    "title": "Empieza ahora",
+    "permalink": "/docs/2.0.0/category/empieza-ahora"
   },
   "next": {
     "title": "Steps test",

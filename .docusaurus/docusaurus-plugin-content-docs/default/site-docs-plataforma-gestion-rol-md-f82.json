@@ -1,0 +1,29 @@
+{
+  "id": "Plataforma/gestion/rol",
+  "title": "Roles",
+  "description": "La sección Roles permite gestionar los diferentes perfiles de acceso dentro de la plataforma. Desde aquí podrás crear, editar y configurar los permisos y experiencias de usuario que tendrá cada rol.",
+  "source": "@site/docs/Plataforma/gestion/rol.md",
+  "sourceDirName": "Plataforma/gestion",
+  "slug": "/Plataforma/gestion/rol",
+  "permalink": "/docs/2.0.0/Plataforma/gestion/rol",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/gestion/rol.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Roles",
+    "iconName": "user",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Usuarios",
+    "permalink": "/docs/2.0.0/Plataforma/gestion/usuarios"
+  },
+  "next": {
+    "title": "Métodos de acceso",
+    "permalink": "/docs/2.0.0/Plataforma/gestion/acceso"
+  }
+}

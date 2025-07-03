@@ -1,0 +1,27 @@
+{
+  "id": "Plataforma/agentes/index",
+  "title": "Agentes",
+  "description": "La sección Agente es el núcleo operativo de Daiana, donde se concentran todas las funcionalidades relacionadas con el uso y la configuración de asistentes conversacionales.",
+  "source": "@site/docs/Plataforma/agentes/index.md",
+  "sourceDirName": "Plataforma/agentes",
+  "slug": "/Plataforma/agentes/",
+  "permalink": "/docs/2.0.0/Plataforma/agentes/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/agentes/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Agentes",
+    "iconName": "chats"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mi Daiana",
+    "permalink": "/docs/2.0.0/Plataforma/dashboard/midainaa"
+  },
+  "next": {
+    "title": "Chats",
+    "permalink": "/docs/2.0.0/Plataforma/agentes/chats"
+  }
+}

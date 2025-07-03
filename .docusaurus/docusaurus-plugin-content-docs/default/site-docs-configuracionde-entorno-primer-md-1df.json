@@ -1,0 +1,27 @@
+{
+  "id": "ConfiguracióndeEntorno/primer",
+  "title": "Primer agente",
+  "description": "",
+  "source": "@site/docs/ConfiguracióndeEntorno/primer.md",
+  "sourceDirName": "ConfiguracióndeEntorno",
+  "slug": "/ConfiguracióndeEntorno/primer",
+  "permalink": "/docs/2.0.0/ConfiguracióndeEntorno/primer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/ConfiguracióndeEntorno/primer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Primer agente",
+    "iconName": "squareFace"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Onboarding",
+    "permalink": "/docs/2.0.0/ConfiguracióndeEntorno/onbording"
+  },
+  "next": {
+    "title": "Estadísticas",
+    "permalink": "/docs/2.0.0/Plataforma/dashboard/estadisticas"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Plataforma/gestion/acceso",
+  "title": "Métodos de acceso",
+  "description": "En la pestaña Acceso, los administradores pueden definir los métodos de autenticación disponibles para los usuarios que acceden a la plataforma Daiana.",
+  "source": "@site/docs/Plataforma/gestion/acceso.md",
+  "sourceDirName": "Plataforma/gestion",
+  "slug": "/Plataforma/gestion/acceso",
+  "permalink": "/docs/2.0.0/Plataforma/gestion/acceso",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/gestion/acceso.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Métodos de acceso",
+    "iconName": "lock",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Roles",
+    "permalink": "/docs/2.0.0/Plataforma/gestion/rol"
+  },
+  "next": {
+    "title": "Historial de conversaciones",
+    "permalink": "/docs/2.0.0/Plataforma/historial"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Plataforma/dashboard/dashborard",
+  "title": "Dashboard",
+  "description": "",
+  "source": "@site/docs/Plataforma/dashboard/dashborard.md",
+  "sourceDirName": "Plataforma/dashboard",
+  "slug": "/Plataforma/dashboard/dashborard",
+  "permalink": "/docs/2.0.0/Plataforma/dashboard/dashborard",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/dashboard/dashborard.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Dashboard",
+    "iconName": "bars",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Loguin",
+    "permalink": "/docs/2.0.0/Plataforma/Loguin"
+  }
+}

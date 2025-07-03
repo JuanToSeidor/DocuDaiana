@@ -1,0 +1,41 @@
+{
+  "permalink": "/blog/welcome",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-08-26-welcome/buenaspracticas.md",
+  "source": "@site/blog/2024-08-26-welcome/buenaspracticas.md",
+  "title": "Buenas prácticas",
+  "description": "Buenas prácticas para la creación y manejo de Prompts",
+  "date": "2024-08-26T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Facebook",
+      "permalink": "/blog/tags/facebook",
+      "description": "Facebook tag description"
+    },
+    {
+      "inline": false,
+      "label": "Hello",
+      "permalink": "/blog/tags/hello",
+      "description": "Hello tag description"
+    },
+    {
+      "inline": false,
+      "label": "Docusaurus",
+      "permalink": "/blog/tags/docusaurus",
+      "description": "Docusaurus tag description"
+    }
+  ],
+  "readingTime": 2.17,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Buenas prácticas",
+    "tags": [
+      "facebook",
+      "hello",
+      "docusaurus"
+    ]
+  },
+  "unlisted": false
+}

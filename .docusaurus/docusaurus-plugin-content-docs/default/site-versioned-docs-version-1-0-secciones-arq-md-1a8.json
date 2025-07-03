@@ -1,0 +1,24 @@
+{
+  "id": "Secciones/arq",
+  "title": "Arquitectura del sistema",
+  "description": "Descripción General",
+  "source": "@site/versioned_docs/version-1.0/Secciones/arq.md",
+  "sourceDirName": "Secciones",
+  "slug": "/Secciones/arq",
+  "permalink": "/docs/1.0/Secciones/arq",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/Secciones/arq.md",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Arquitectura del sistema",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Empezamos con DAIANA",
+    "permalink": "/docs/1.0/intro"
+  }
+}

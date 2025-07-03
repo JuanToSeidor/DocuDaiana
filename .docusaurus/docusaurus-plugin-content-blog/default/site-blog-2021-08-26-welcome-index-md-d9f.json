@@ -72,13 +72,5 @@
       "docusaurus"
     ]
   },
-  "unlisted": false,
-  "prevItem": {
-    "title": "El Futuro de la IA en las Empresas!",
-    "permalink": "/blog/greetings"
-  },
-  "nextItem": {
-    "title": "MDX Blog Post",
-    "permalink": "/blog/mdx-blog-post"
-  }
+  "unlisted": false
 }

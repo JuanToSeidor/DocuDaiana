@@ -1,0 +1,28 @@
+{
+  "id": "secciones/docs",
+  "title": "Document Stores",
+  "description": "Los Document Stores de Daiana Studio ofrecen un enfoque versátil para la gestión de datos, permitiéndote cargar, dividir y preparar tu conjunto de datos y hacer upsert en una única ubicación.",
+  "source": "@site/Studio/secciones/docs.md",
+  "sourceDirName": "secciones",
+  "slug": "/secciones/docs",
+  "permalink": "/Studio/secciones/docs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Document Stores",
+    "iconName": "file",
+    "sidebar_position": 3
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Sequential Agents",
+    "permalink": "/Studio/secciones/agentsflows/sequential-agents"
+  },
+  "next": {
+    "title": "Incrustar chat",
+    "permalink": "/Studio/secciones/embled"
+  }
+}

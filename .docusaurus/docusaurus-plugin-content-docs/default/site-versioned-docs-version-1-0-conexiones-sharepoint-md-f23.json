@@ -1,0 +1,28 @@
+{
+  "id": "conexiones/sharepoint",
+  "title": "SharePoint",
+  "description": "Herramientas necesarias: Acceso Azure Active directory, Postman",
+  "source": "@site/versioned_docs/version-1.0/conexiones/sharepoint.md",
+  "sourceDirName": "conexiones",
+  "slug": "/conexiones/sharepoint",
+  "permalink": "/docs/1.0/conexiones/sharepoint",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/conexiones/sharepoint.md",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "SharePoint",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conversaciones",
+    "permalink": "/docs/1.0/Paginas/conversaciones"
+  },
+  "next": {
+    "title": "One Drive",
+    "permalink": "/docs/1.0/conexiones/onedrive"
+  }
+}

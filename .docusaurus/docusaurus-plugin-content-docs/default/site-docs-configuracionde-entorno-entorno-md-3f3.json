@@ -1,0 +1,24 @@
+{
+  "id": "ConfiguracióndeEntorno/entorno",
+  "title": "entorno",
+  "description": "",
+  "source": "@site/docs/ConfiguracióndeEntorno/entorno.md",
+  "sourceDirName": "ConfiguracióndeEntorno",
+  "slug": "/ConfiguracióndeEntorno/entorno",
+  "permalink": "/docs/2.0.0/ConfiguracióndeEntorno/entorno",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/ConfiguracióndeEntorno/entorno.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Empieza ahora",
+    "permalink": "/docs/2.0.0/category/empieza-ahora"
+  },
+  "next": {
+    "title": "Onboarding",
+    "permalink": "/docs/2.0.0/ConfiguracióndeEntorno/onbording"
+  }
+}

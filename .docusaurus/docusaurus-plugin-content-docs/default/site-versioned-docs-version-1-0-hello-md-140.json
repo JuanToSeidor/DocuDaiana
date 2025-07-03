@@ -1,7 +1,7 @@
 {
   "id": "hello",
-  "title": "Hello",
-  "description": "This is my first Docusaurus document!",
+  "title": "Daianna",
+  "description": "Bienvenido a la Documentación Técnica de Daiana, la cual es una solución que permite la creación de asistentes virtuales impulsados por AI, utiliza tecnologías de procesamiento del lenguaje natural y aprendizaje automático para brindar respuestas rápidas y precisas a las preguntas de los usuarios. Esta documentación está destinada a proporcionar a los usuarios, desarrolladores y administradores del sistema una guía detallada sobre la arquitectura, configuración, operación y mantenimiento de Daiana, asegurando una comprensión completa y efectiva utilización de la plataforma.",
   "source": "@site/versioned_docs/version-1.0/hello.md",
   "sourceDirName": ".",
   "slug": "/hello",
@@ -13,12 +13,13 @@
   "version": "1.0",
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_label": "Hi!",
-    "sidebar_position": 1
+    "sidebar_label": "Daiana",
+    "sidebar_position": 1,
+    "title": "Daianna"
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Tutorial Intro",
+    "title": "Empezamos con DAIANA",
     "permalink": "/docs/1.0/intro"
   }
 }

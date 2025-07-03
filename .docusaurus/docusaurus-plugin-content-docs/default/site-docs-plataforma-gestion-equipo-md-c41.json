@@ -1,0 +1,29 @@
+{
+  "id": "Plataforma/gestion/equipo",
+  "title": "Equipo",
+  "description": "En la sección Equipos podés gestionar de manera centralizada todos los grupos de trabajo creados dentro de la plataforma Daiana. Esta vista te permite tener control total sobre la organización, usuarios y asistentes asignados a cada equipo.",
+  "source": "@site/docs/Plataforma/gestion/equipo.md",
+  "sourceDirName": "Plataforma/gestion",
+  "slug": "/Plataforma/gestion/equipo",
+  "permalink": "/docs/2.0.0/Plataforma/gestion/equipo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/gestion/equipo.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Equipo",
+    "iconName": "users",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gestión de Plataforma",
+    "permalink": "/docs/2.0.0/Plataforma/gestion/"
+  },
+  "next": {
+    "title": "Usuarios",
+    "permalink": "/docs/2.0.0/Plataforma/gestion/usuarios"
+  }
+}

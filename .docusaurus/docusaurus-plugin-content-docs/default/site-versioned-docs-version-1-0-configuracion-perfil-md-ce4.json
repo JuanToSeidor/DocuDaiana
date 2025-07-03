@@ -1,0 +1,30 @@
+{
+  "id": "configuración/perfil",
+  "title": "Perfil",
+  "description": "La pantalla de Configuración de Perfil en Daiana permite a los usuarios gestionar y actualizar su información personal y preferencias de cuenta. Esta interfaz facilita la modificación de datos como el nombre, apellido, teléfono y dirección de correo electrónico.",
+  "source": "@site/versioned_docs/version-1.0/configuración/perfil.md",
+  "sourceDirName": "configuración",
+  "slug": "/configuración/perfil",
+  "permalink": "/docs/1.0/configuración/perfil",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/configuración/perfil.md",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Perfil",
+    "sidebar_position": 1,
+    "title": "Perfil",
+    "iconName": "user"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WhatsApp",
+    "permalink": "/docs/1.0/integraciones/whatsapp"
+  },
+  "next": {
+    "title": "Cuenta",
+    "permalink": "/docs/1.0/configuración/cuenta"
+  }
+}

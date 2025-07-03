@@ -1,0 +1,27 @@
+{
+  "id": "integraciones/whatsapp",
+  "title": "WhatsApp",
+  "description": "Creación de un Webhook para WhatsApp",
+  "source": "@site/versioned_docs/version-1.0/integraciones/whatsapp.md",
+  "sourceDirName": "integraciones",
+  "slug": "/integraciones/whatsapp",
+  "permalink": "/docs/1.0/integraciones/whatsapp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/integraciones/whatsapp.md",
+  "tags": [],
+  "version": "1.0",
+  "frontMatter": {
+    "title": "WhatsApp",
+    "iconName": "Whatsapp"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Microsoft Teams",
+    "permalink": "/docs/1.0/integraciones/teams"
+  },
+  "next": {
+    "title": "Perfil",
+    "permalink": "/docs/1.0/configuración/perfil"
+  }
+}

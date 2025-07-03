@@ -1,0 +1,27 @@
+{
+  "id": "Paginas/Chats",
+  "title": "Chats",
+  "description": "La pantalla de Chat de Asistentes Virtuales en Daiana permite a los usuarios interactuar con asistentes virtuales específicos para obtener respuestas instantáneas y soporte sobre diversas políticas y procedimientos de la empresa. Esta interfaz está organizada en secciones que facilitan la navegación y el uso eficiente de los asistentes.",
+  "source": "@site/versioned_docs/version-1.0/Paginas/Chats.md",
+  "sourceDirName": "Paginas",
+  "slug": "/Paginas/Chats",
+  "permalink": "/docs/1.0/Paginas/Chats",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/Paginas/Chats.md",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Asistentes Virtuales",
+    "permalink": "/docs/1.0/Paginas/AsistentesVirtuales"
+  },
+  "next": {
+    "title": "Equipos",
+    "permalink": "/docs/1.0/Paginas/equipos"
+  }
+}

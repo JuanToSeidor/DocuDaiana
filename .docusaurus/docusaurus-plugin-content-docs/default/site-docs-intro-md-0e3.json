@@ -1,0 +1,26 @@
+{
+  "id": "intro",
+  "title": "Introducción",
+  "description": "Bienvenido a la Documentación Técnica de Daiana 2.0, la nueva generación de nuestra plataforma de asistentes virtuales impulsados por inteligencia artificial. Esta versión marca un importante avance en capacidad, flexibilidad y experiencia de uso. Con una interfaz completamente renovada y un enfoque centrado en la personalización, Daiana 2.0 permite a las organizaciones crear agentes conversacionales más potentes, inteligentes y adaptables a distintos contextos empresariales.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/2.0.0/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Introduccion",
+    "title": "Introducción",
+    "sidebar_position": 1,
+    "iconName": "house"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Empieza ahora",
+    "permalink": "/docs/2.0.0/category/empieza-ahora"
+  }
+}

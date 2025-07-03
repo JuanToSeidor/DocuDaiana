@@ -16,18 +16,88 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "ConfiguracióndeEntorno/primer",
+              "path": "/docs/2.0.0/ConfiguracióndeEntorno/primer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/docs/2.0.0/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Plataforma/Conexion",
-              "path": "/docs/2.0.0/Plataforma/Conexion",
+              "id": "Plataforma/agentes/administrar",
+              "path": "/docs/2.0.0/Plataforma/agentes/administrar",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Plataforma/Loguin",
-              "path": "/docs/2.0.0/Plataforma/Loguin",
+              "id": "Plataforma/agentes/chats",
+              "path": "/docs/2.0.0/Plataforma/agentes/chats",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Plataforma/agentes/crear",
+              "path": "/docs/2.0.0/Plataforma/agentes/crear",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Plataforma/agentes/index",
+              "path": "/docs/2.0.0/Plataforma/agentes/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Plataforma/dashboard/estadisticas",
+              "path": "/docs/2.0.0/Plataforma/dashboard/estadisticas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Plataforma/dashboard/midainaa",
+              "path": "/docs/2.0.0/Plataforma/dashboard/midainaa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Plataforma/dashboard/reportes",
+              "path": "/docs/2.0.0/Plataforma/dashboard/reportes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Plataforma/gestion/acceso",
+              "path": "/docs/2.0.0/Plataforma/gestion/acceso",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Plataforma/gestion/equipo",
+              "path": "/docs/2.0.0/Plataforma/gestion/equipo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Plataforma/gestion/index",
+              "path": "/docs/2.0.0/Plataforma/gestion/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Plataforma/gestion/rol",
+              "path": "/docs/2.0.0/Plataforma/gestion/rol",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Plataforma/gestion/usuarios",
+              "path": "/docs/2.0.0/Plataforma/gestion/usuarios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Plataforma/historial",
+              "path": "/docs/2.0.0/Plataforma/historial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Plataforma/wizzard",
+              "path": "/docs/2.0.0/Plataforma/wizzard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/empieza-ahora",
+              "path": "/docs/2.0.0/category/empieza-ahora",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -49,8 +119,43 @@
           "mainDocId": "hello",
           "docs": [
             {
+              "id": "anexos",
+              "path": "/docs/1.0/anexos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "conexiones/onedrive",
+              "path": "/docs/1.0/conexiones/onedrive",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "conexiones/sharepoint",
+              "path": "/docs/1.0/conexiones/sharepoint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "configuración/cuenta",
+              "path": "/docs/1.0/configuración/cuenta",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "configuración/perfil",
+              "path": "/docs/1.0/configuración/perfil",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "hello",
               "path": "/docs/1.0/hello",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integraciones/teams",
+              "path": "/docs/1.0/integraciones/teams",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integraciones/whatsapp",
+              "path": "/docs/1.0/integraciones/whatsapp",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -59,78 +164,83 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "ReleaseNotes/1-9-9",
-              "path": "/docs/1.0/ReleaseNotes/1-9-9",
+              "id": "Paginas/AsistentesVirtuales",
+              "path": "/docs/1.0/Paginas/AsistentesVirtuales",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "ReleaseNotes/2-0-0",
-              "path": "/docs/1.0/ReleaseNotes/2-0-0",
+              "id": "Paginas/Chats",
+              "path": "/docs/1.0/Paginas/Chats",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "ReleaseNotes/2-0-1",
-              "path": "/docs/1.0/ReleaseNotes/2-0-1",
+              "id": "Paginas/conversaciones",
+              "path": "/docs/1.0/Paginas/conversaciones",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "ReleaseNotes/index",
-              "path": "/docs/1.0/ReleaseNotes/",
+              "id": "Paginas/Dashboard",
+              "path": "/docs/1.0/Paginas/Dashboard",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/1.0/tutorial-basics/congratulations",
+              "id": "Paginas/equipos",
+              "path": "/docs/1.0/Paginas/equipos",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/1.0/tutorial-basics/create-a-blog-post",
+              "id": "Paginas/seguridad",
+              "path": "/docs/1.0/Paginas/seguridad",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/1.0/tutorial-basics/create-a-document",
+              "id": "Secciones/Anexos",
+              "path": "/docs/1.0/Secciones/Anexos",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/1.0/tutorial-basics/create-a-page",
+              "id": "Secciones/Arquitectura",
+              "path": "/docs/1.0/Secciones/Arquitectura",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/1.0/tutorial-basics/deploy-your-site",
+              "id": "Secciones/Confidencialidad",
+              "path": "/docs/1.0/Secciones/Confidencialidad",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/1.0/tutorial-basics/markdown-features",
+              "id": "Secciones/log",
+              "path": "/docs/1.0/Secciones/log",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/1.0/tutorial-extras/manage-docs-versions",
+              "id": "Secciones/mantenimiento",
+              "path": "/docs/1.0/Secciones/mantenimiento",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/1.0/tutorial-extras/translate-your-site",
+              "id": "Secciones/operaciones",
+              "path": "/docs/1.0/Secciones/operaciones",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/realece-notes",
-              "path": "/docs/1.0/category/realece-notes",
+              "id": "Secciones/seguridad",
+              "path": "/docs/1.0/Secciones/seguridad",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---basics",
-              "path": "/docs/1.0/category/tutorial---basics",
+              "id": "terminosycondiciones",
+              "path": "/docs/1.0/terminosycondiciones",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/1.0/category/tutorial---extras",
+              "id": "uso/consola",
+              "path": "/docs/1.0/uso/consola",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "uso/sso",
+              "path": "/docs/1.0/uso/sso",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -139,7 +249,7 @@
             "tutorialSidebar": {
               "link": {
                 "path": "/docs/1.0/hello",
-                "label": "Hi!"
+                "label": "Daiana"
               }
             }
           }
@@ -160,26 +270,6 @@
             {
               "id": "110",
               "path": "/ReleaseNotes/110",
-              "sidebar": "defaultSidebar"
-            },
-            {
-              "id": "120",
-              "path": "/ReleaseNotes/120",
-              "sidebar": "defaultSidebar"
-            },
-            {
-              "id": "150",
-              "path": "/ReleaseNotes/150",
-              "sidebar": "defaultSidebar"
-            },
-            {
-              "id": "170",
-              "path": "/ReleaseNotes/170",
-              "sidebar": "defaultSidebar"
-            },
-            {
-              "id": "180",
-              "path": "/ReleaseNotes/180",
               "sidebar": "defaultSidebar"
             },
             {
@@ -257,13 +347,33 @@
               "sidebar": "defaultSidebar"
             },
             {
+              "id": "secciones/api/index",
+              "path": "/Studio/secciones/api/",
+              "sidebar": "defaultSidebar"
+            },
+            {
               "id": "secciones/chatflows",
               "path": "/Studio/secciones/chatflows",
               "sidebar": "defaultSidebar"
             },
             {
+              "id": "secciones/docs",
+              "path": "/Studio/secciones/docs",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "secciones/embled",
+              "path": "/Studio/secciones/embled",
+              "sidebar": "defaultSidebar"
+            },
+            {
               "id": "secciones/index",
               "path": "/Studio/secciones/",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "secciones/variables",
+              "path": "/Studio/secciones/variables",
               "sidebar": "defaultSidebar"
             }
           ],

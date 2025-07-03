@@ -1,0 +1,29 @@
+{
+  "id": "Plataforma/agentes/administrar",
+  "title": "Administrar",
+  "description": "La sección Administrar permite visualizar y gestionar todos los agentes creados dentro de la organización. Desde aquí podés acceder rápidamente a su configuración, revisar sus propiedades principales y realizar ediciones.",
+  "source": "@site/docs/Plataforma/agentes/administrar.md",
+  "sourceDirName": "Plataforma/agentes",
+  "slug": "/Plataforma/agentes/administrar",
+  "permalink": "/docs/2.0.0/Plataforma/agentes/administrar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/agentes/administrar.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Administrar",
+    "iconName": "gear",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chats",
+    "permalink": "/docs/2.0.0/Plataforma/agentes/chats"
+  },
+  "next": {
+    "title": "Crear agente",
+    "permalink": "/docs/2.0.0/Plataforma/agentes/crear"
+  }
+}

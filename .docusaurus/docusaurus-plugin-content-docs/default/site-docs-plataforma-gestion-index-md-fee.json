@@ -1,0 +1,27 @@
+{
+  "id": "Plataforma/gestion/index",
+  "title": "Gestión de Plataforma",
+  "description": "La sección Gestión de Plataforma permite a los administradores configurar los aspectos clave del entorno de Daiana: desde la organización interna por equipos, la administración de usuarios, sus permisos, los métodos de acceso y la información del plan contratado.",
+  "source": "@site/docs/Plataforma/gestion/index.md",
+  "sourceDirName": "Plataforma/gestion",
+  "slug": "/Plataforma/gestion/",
+  "permalink": "/docs/2.0.0/Plataforma/gestion/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/gestion/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Gestión de Plataforma",
+    "iconName": "user"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Crear agente",
+    "permalink": "/docs/2.0.0/Plataforma/agentes/crear"
+  },
+  "next": {
+    "title": "Equipo",
+    "permalink": "/docs/2.0.0/Plataforma/gestion/equipo"
+  }
+}

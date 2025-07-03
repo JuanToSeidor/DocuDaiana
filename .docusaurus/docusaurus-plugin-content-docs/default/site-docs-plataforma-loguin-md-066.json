@@ -1,0 +1,26 @@
+{
+  "id": "Plataforma/Loguin",
+  "title": "Loguin",
+  "description": "Test de entrada para cargar desde decap",
+  "source": "@site/docs/Plataforma/Loguin.md",
+  "sourceDirName": "Plataforma",
+  "slug": "/Plataforma/Loguin",
+  "permalink": "/docs/2.0.0/Plataforma/Loguin",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/Loguin.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Loguin"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Historial de conversaciones",
+    "permalink": "/docs/2.0.0/Plataforma/historial"
+  },
+  "next": {
+    "title": "Equipo",
+    "permalink": "/docs/2.0.0/Plataforma/gestion/equipo"
+  }
+}

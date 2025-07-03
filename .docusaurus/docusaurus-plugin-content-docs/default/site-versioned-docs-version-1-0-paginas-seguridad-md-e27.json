@@ -1,0 +1,28 @@
+{
+  "id": "Paginas/seguridad",
+  "title": "Seguridad",
+  "description": "La pantalla de Seguridad en Daiana permite a los administradores gestionar los usuarios de la plataforma, incluyendo la creación, edición y eliminación de cuentas de usuario. También ofrece una visión general de los roles y estados de los usuarios.",
+  "source": "@site/versioned_docs/version-1.0/Paginas/seguridad.md",
+  "sourceDirName": "Paginas",
+  "slug": "/Paginas/seguridad",
+  "permalink": "/docs/1.0/Paginas/seguridad",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/Paginas/seguridad.md",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Seguridad",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Equipos",
+    "permalink": "/docs/1.0/Paginas/equipos"
+  },
+  "next": {
+    "title": "Conversaciones",
+    "permalink": "/docs/1.0/Paginas/conversaciones"
+  }
+}

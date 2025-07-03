@@ -1,0 +1,28 @@
+{
+  "id": "integraciones/teams",
+  "title": "Microsoft Teams",
+  "description": "Integracion con Microsoft Teams.",
+  "source": "@site/versioned_docs/version-1.0/integraciones/teams.md",
+  "sourceDirName": "integraciones",
+  "slug": "/integraciones/teams",
+  "permalink": "/docs/1.0/integraciones/teams",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/integraciones/teams.md",
+  "tags": [],
+  "version": "1.0",
+  "frontMatter": {
+    "title": "Microsoft Teams",
+    "iconName": "Teams",
+    "useBrand": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "One Drive",
+    "permalink": "/docs/1.0/conexiones/onedrive"
+  },
+  "next": {
+    "title": "WhatsApp",
+    "permalink": "/docs/1.0/integraciones/whatsapp"
+  }
+}

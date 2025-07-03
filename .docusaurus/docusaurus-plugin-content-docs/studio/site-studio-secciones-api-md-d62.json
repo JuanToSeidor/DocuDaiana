@@ -1,0 +1,28 @@
+{
+  "id": "secciones/api",
+  "title": "api",
+  "description": "Aprende más sobre los detalles de algunas de las APIs más utilizadas: prediction, vector-upsert",
+  "source": "@site/Studio/secciones/api.md",
+  "sourceDirName": "secciones",
+  "slug": "/secciones/api",
+  "permalink": "/Studio/secciones/api",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "api",
+    "iconName": "key",
+    "sidebar_position": 5
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Incrustar chat",
+    "permalink": "/Studio/secciones/embled"
+  },
+  "next": {
+    "title": "Variables",
+    "permalink": "/Studio/secciones/variables"
+  }
+}

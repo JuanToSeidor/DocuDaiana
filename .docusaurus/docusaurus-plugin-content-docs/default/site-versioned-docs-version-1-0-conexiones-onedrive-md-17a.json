@@ -1,0 +1,28 @@
+{
+  "id": "conexiones/onedrive",
+  "title": "One Drive",
+  "description": "Herramientas necesarias",
+  "source": "@site/versioned_docs/version-1.0/conexiones/onedrive.md",
+  "sourceDirName": "conexiones",
+  "slug": "/conexiones/onedrive",
+  "permalink": "/docs/1.0/conexiones/onedrive",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/conexiones/onedrive.md",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "One Drive",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SharePoint",
+    "permalink": "/docs/1.0/conexiones/sharepoint"
+  },
+  "next": {
+    "title": "Microsoft Teams",
+    "permalink": "/docs/1.0/integraciones/teams"
+  }
+}

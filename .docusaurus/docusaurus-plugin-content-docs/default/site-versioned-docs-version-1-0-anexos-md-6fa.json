@@ -1,0 +1,24 @@
+{
+  "id": "anexos",
+  "title": "Anexos",
+  "description": "Anexo A: Glosario de Términos Técnicos",
+  "source": "@site/versioned_docs/version-1.0/anexos.md",
+  "sourceDirName": ".",
+  "slug": "/anexos",
+  "permalink": "/docs/1.0/anexos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/anexos.md",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "title": "Anexos"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Términos Y Condiciones",
+    "permalink": "/docs/1.0/terminosycondiciones"
+  }
+}

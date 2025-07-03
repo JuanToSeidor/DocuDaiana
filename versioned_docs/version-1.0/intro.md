@@ -1,47 +1,45 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
+title: "Empezamos con DAIANA"
 ---
+Empecemos por configurar todos los elementos necesarios para tu primer asistente 
 
-# Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes** andamos aprendiendo.
 
-## Getting Started
+## Crear un equipo
 
-Get started by **creating a new site**.
+Para este paso, iniciaremos creando y configurando un equipo que se encargará de gestionar la información proporcionada por el asistente virtual. Esto es esencial, ya que únicamente los miembros del equipo tendrán acceso a la información retornada por el asistente, asegurando así la seguridad y el manejo adecuado de los datos.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+![](img/screenshots/msedge_3kdw1331zq.gif)
 
-### What you'll need
+## Genere tu primer asistente virtual 
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Una vez que el equipo esté creado, podremos generar nuestro primer asistente virtual, que estará disponible exclusivamente para los miembros del equipo. (Para obtener información sobre los miembros del equipo, consulte este enlace).
 
-## Generate a new site
+Para esto nos dirigiremos a la sección de [Virtual Assistant](https://daianadmo.seidoranalytics.com/virtual-assistants) en la barra de navegación.  
+ 
+![](img/screenshots/va.gif)
 
-Generate a new Docusaurus site using the **classic template**.
 
-The classic template will automatically be added to your project after you run the command:
+Una vez en esta sección generaremos nuestro asistente virtual con el botón **“New virtual assistant”** ubicado en la parte derecha superior de la sección.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Ahora configuraremos los elementos fundamentales de nuestro asistente, incluyendo el nombre y el equipo que tendrá acceso al asistente virtual, así como el tipo de conexión que utilizará, ya sea a través de datos de una base de datos o de documentos de texto y/o videos. También ajustaremos detalles estéticos como el color del chat, el avatar y la descripción.
 
-## Start your site
+![](img/screenshots/configboot.gif)
 
-Run the development server:
+### Alimentemos al asistente virtual
 
-```bash
-cd my-website
-npm run start
-```
+los asistentes virtuales de Daiana solo son alimentados por la información que carguemos a nuestros asistentes virtuales. No solo para mantener tus datos seguros, sino además para brindar solo las respuestas necesarias para tu compañía.  
+En este ejemplo cargaremos documentos para el aprendizaje de este asistente, pero sí requiere configurar para base de datos, por favor consulte el siguiente enlace. 
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+![](img/screenshots/alimentar.gif)
+  
+Una vez seleccionado el archivo, entrenaremos a nuestro asistente con esta información.
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+![](img/screenshots/cargar.gif)
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+ Podrá verificar, desactivar y eliminar todos los documentos cargados al robot en la sección final de esta página.
+
+![](img/screenshots/captura_de_pantalla_8-8-2024_174521_daianadmo.seidoranalytics.com.jpeg)

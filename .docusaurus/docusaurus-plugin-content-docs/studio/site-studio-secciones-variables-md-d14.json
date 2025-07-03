@@ -1,0 +1,28 @@
+{
+  "id": "secciones/variables",
+  "title": "Variables",
+  "description": "Flowise permite a los usuarios crear variables que pueden ser utilizadas en los nodos. Las variables pueden ser Estáticas o de Tiempo de Ejecución.",
+  "source": "@site/Studio/secciones/variables.md",
+  "sourceDirName": "secciones",
+  "slug": "/secciones/variables",
+  "permalink": "/Studio/secciones/variables",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Variables",
+    "iconName": "code",
+    "sidebar_position": 5
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Incrustar chat",
+    "permalink": "/Studio/secciones/embled"
+  },
+  "next": {
+    "title": "API",
+    "permalink": "/Studio/secciones/api/"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Plataforma/dashboard/midainaa",
+  "title": "Mi Daiana",
+  "description": "",
+  "source": "@site/docs/Plataforma/dashboard/midainaa.md",
+  "sourceDirName": "Plataforma/dashboard",
+  "slug": "/Plataforma/dashboard/midainaa",
+  "permalink": "/docs/2.0.0/Plataforma/dashboard/midainaa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/dashboard/midainaa.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Mi Daiana",
+    "iconName": "bars",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reportes",
+    "permalink": "/docs/2.0.0/Plataforma/dashboard/reportes"
+  },
+  "next": {
+    "title": "Agentes",
+    "permalink": "/docs/2.0.0/Plataforma/agentes/"
+  }
+}

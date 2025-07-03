@@ -1,0 +1,28 @@
+{
+  "id": "Paginas/equipos",
+  "title": "Equipos",
+  "description": "La pantalla de Equipos en Daiana permite a los usuarios ver, gestionar y crear equipos que agrupan a los asistentes virtuales por áreas o departamentos específicos. Esta vista ofrece una lista clara y organizada de todos los equipos creados, con opciones para administrar, editar o eliminar cada equipo.",
+  "source": "@site/versioned_docs/version-1.0/Paginas/equipos.md",
+  "sourceDirName": "Paginas",
+  "slug": "/Paginas/equipos",
+  "permalink": "/docs/1.0/Paginas/equipos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/Paginas/equipos.md",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Equipos",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chats",
+    "permalink": "/docs/1.0/Paginas/Chats"
+  },
+  "next": {
+    "title": "Seguridad",
+    "permalink": "/docs/1.0/Paginas/seguridad"
+  }
+}

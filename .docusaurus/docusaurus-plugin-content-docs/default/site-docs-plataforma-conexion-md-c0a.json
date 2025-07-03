@@ -1,0 +1,26 @@
+{
+  "id": "Plataforma/Conexion",
+  "title": "Steps test",
+  "description": "",
+  "source": "@site/docs/Plataforma/Conexion.md",
+  "sourceDirName": "Plataforma",
+  "slug": "/Plataforma/Conexion",
+  "permalink": "/docs/2.0.0/Plataforma/Conexion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/Conexion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Steps test"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Historial de conversaciones",
+    "permalink": "/docs/2.0.0/Plataforma/historial"
+  },
+  "next": {
+    "title": "Loguin",
+    "permalink": "/docs/2.0.0/Plataforma/Loguin"
+  }
+}

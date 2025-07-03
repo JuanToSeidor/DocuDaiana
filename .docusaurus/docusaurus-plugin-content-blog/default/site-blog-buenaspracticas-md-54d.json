@@ -1,0 +1,42 @@
+{
+  "permalink": "/blog/welcome",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/buenaspracticas.md",
+  "source": "@site/blog/buenaspracticas.md",
+  "title": "Buenas prácticas",
+  "description": "Buenas prácticas para la creación y manejo de Prompts",
+  "date": "2025-03-25T14:46:14.338Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "Buenas prácticas",
+      "permalink": "/blog/tags/buenas-practicas"
+    },
+    {
+      "inline": true,
+      "label": "promp",
+      "permalink": "/blog/tags/promp"
+    },
+    {
+      "inline": true,
+      "label": "IA",
+      "permalink": "/blog/tags/ia"
+    }
+  ],
+  "readingTime": 2.17,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Buenas prácticas",
+    "tags": [
+      "Buenas prácticas",
+      "promp",
+      "IA"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "IA en acción: productividad sin límites",
+    "permalink": "/blog/Agentes IA"
+  }
+}

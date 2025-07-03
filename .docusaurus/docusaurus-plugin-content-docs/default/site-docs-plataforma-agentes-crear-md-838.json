@@ -1,0 +1,27 @@
+{
+  "id": "Plataforma/agentes/crear",
+  "title": "Crear agente",
+  "description": "La página Crear Agente guía al usuario a través de un proceso asistido (wizard) para configurar paso a paso un nuevo agente conversacional en Daiana. Este enfoque guiado facilita la creación sin requerir conocimientos técnicos avanzados.",
+  "source": "@site/docs/Plataforma/agentes/crear.md",
+  "sourceDirName": "Plataforma/agentes",
+  "slug": "/Plataforma/agentes/crear",
+  "permalink": "/docs/2.0.0/Plataforma/agentes/crear",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/agentes/crear.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Crear agente",
+    "iconName": "chats"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Administrar",
+    "permalink": "/docs/2.0.0/Plataforma/agentes/administrar"
+  },
+  "next": {
+    "title": "Gestión de Plataforma",
+    "permalink": "/docs/2.0.0/Plataforma/gestion/"
+  }
+}

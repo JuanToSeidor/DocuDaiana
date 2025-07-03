@@ -1,0 +1,27 @@
+{
+  "id": "Paginas/Dashboard",
+  "title": "Dashboard",
+  "description": "El Dashboard es la pantalla principal que proporciona una vista resumida y analítica de la actividad y los datos gestionados en la plataforma. Está diseñado para ofrecer una visión rápida y clara del estado de los documentos, asistentes virtuales, equipos, y mensajes recibidos.",
+  "source": "@site/versioned_docs/version-1.0/Paginas/Dashboard.md",
+  "sourceDirName": "Paginas",
+  "slug": "/Paginas/Dashboard",
+  "permalink": "/docs/1.0/Paginas/Dashboard",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/Paginas/Dashboard.md",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Anexos",
+    "permalink": "/docs/1.0/Secciones/Anexos"
+  },
+  "next": {
+    "title": "Asistentes Virtuales",
+    "permalink": "/docs/1.0/Paginas/AsistentesVirtuales"
+  }
+}

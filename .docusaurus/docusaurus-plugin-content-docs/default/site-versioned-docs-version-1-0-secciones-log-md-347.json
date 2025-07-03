@@ -1,0 +1,28 @@
+{
+  "id": "Secciones/log",
+  "title": "Registros de cambios",
+  "description": "Esta sección documenta el historial de revisiones y actualizaciones realizadas en la plataforma Daiana, proporcionando a los usuarios y desarrolladores una visión clara de la evolución del software. El registro de cambios ayuda a entender las mejoras, correcciones y nuevas funcionalidades introducidas en cada versión.",
+  "source": "@site/versioned_docs/version-1.0/Secciones/log.md",
+  "sourceDirName": "Secciones",
+  "slug": "/Secciones/log",
+  "permalink": "/docs/1.0/Secciones/log",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/Secciones/log.md",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Registros de cambios",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Políticas de Mantenimiento",
+    "permalink": "/docs/1.0/Secciones/mantenimiento"
+  },
+  "next": {
+    "title": "Anexos",
+    "permalink": "/docs/1.0/Secciones/Anexos"
+  }
+}

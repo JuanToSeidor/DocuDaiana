@@ -1,0 +1,28 @@
+{
+  "id": "terminosycondiciones",
+  "title": "Términos Y Condiciones",
+  "description": "1\\. DEFINICIONES.",
+  "source": "@site/versioned_docs/version-1.0/terminosycondiciones.md",
+  "sourceDirName": ".",
+  "slug": "/terminosycondiciones",
+  "permalink": "/docs/1.0/terminosycondiciones",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/terminosycondiciones.md",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "title": "Términos Y Condiciones"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Consola de Entrenamiento",
+    "permalink": "/docs/1.0/uso/consola"
+  },
+  "next": {
+    "title": "Anexos",
+    "permalink": "/docs/1.0/anexos"
+  }
+}

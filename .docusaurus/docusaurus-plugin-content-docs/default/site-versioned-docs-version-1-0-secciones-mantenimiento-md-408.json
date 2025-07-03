@@ -1,0 +1,28 @@
+{
+  "id": "Secciones/mantenimiento",
+  "title": "Políticas de Mantenimiento",
+  "description": "Esta sección detalla las políticas de contribución y mantenimiento para la plataforma Daiana, estableciendo las directrices que deben seguir los colaboradores externos e internos para mantener la integridad y la calidad del sistema mientras se fomenta la innovación y la colaboración comunitaria.",
+  "source": "@site/versioned_docs/version-1.0/Secciones/mantenimiento.md",
+  "sourceDirName": "Secciones",
+  "slug": "/Secciones/mantenimiento",
+  "permalink": "/docs/1.0/Secciones/mantenimiento",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/Secciones/mantenimiento.md",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Políticas de Mantenimiento",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Seguridad de Datos",
+    "permalink": "/docs/1.0/Secciones/seguridad"
+  },
+  "next": {
+    "title": "Registros de cambios",
+    "permalink": "/docs/1.0/Secciones/log"
+  }
+}

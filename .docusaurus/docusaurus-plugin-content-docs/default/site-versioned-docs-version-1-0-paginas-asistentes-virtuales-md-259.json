@@ -1,0 +1,28 @@
+{
+  "id": "Paginas/AsistentesVirtuales",
+  "title": "Asistentes Virtuales",
+  "description": "La pantalla de Asistentes Virtuales en Seidor Analytics permite a los usuarios ver, buscar y gestionar los asistentes virtuales disponibles en la plataforma. Esta pantalla ofrece una vista de tarjetas de los asistentes virtuales, cada una proporcionando información clave y accesos directos a funcionalidades específicas.",
+  "source": "@site/versioned_docs/version-1.0/Paginas/AsistentesVirtuales.md",
+  "sourceDirName": "Paginas",
+  "slug": "/Paginas/AsistentesVirtuales",
+  "permalink": "/docs/1.0/Paginas/AsistentesVirtuales",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/Paginas/AsistentesVirtuales.md",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Asistentes Virtuales"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dashboard",
+    "permalink": "/docs/1.0/Paginas/Dashboard"
+  },
+  "next": {
+    "title": "Chats",
+    "permalink": "/docs/1.0/Paginas/Chats"
+  }
+}

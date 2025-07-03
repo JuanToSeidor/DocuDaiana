@@ -2,34 +2,16 @@
   "title": "Recent posts",
   "items": [
     {
-      "title": "El Futuro de la IA en las Empresas!",
-      "permalink": "/blog/greetings",
+      "title": "IA en acción: productividad sin límites",
+      "permalink": "/blog/Agentes IA",
       "unlisted": false,
-      "date": "2025-03-25T18:19:38.000Z"
+      "date": "2025-06-23T15:42:54.143Z"
     },
     {
-      "title": "Welcome",
+      "title": "Buenas prácticas",
       "permalink": "/blog/welcome",
       "unlisted": false,
-      "date": "2021-08-26T00:00:00.000Z"
-    },
-    {
-      "title": "MDX Blog Post",
-      "permalink": "/blog/mdx-blog-post",
-      "unlisted": false,
-      "date": "2021-08-01T00:00:00.000Z"
-    },
-    {
-      "title": "Long Blog Post",
-      "permalink": "/blog/long-blog-post",
-      "unlisted": false,
-      "date": "2019-05-29T00:00:00.000Z"
-    },
-    {
-      "title": "First Blog Post",
-      "permalink": "/blog/first-blog-post",
-      "unlisted": false,
-      "date": "2019-05-28T00:00:00.000Z"
+      "date": "2025-03-25T14:46:14.338Z"
     }
   ]
 }

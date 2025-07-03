@@ -1,0 +1,29 @@
+{
+  "id": "Plataforma/gestion/usuarios",
+  "title": "Usuarios",
+  "description": "La sección Usuarios permite administrar todas las cuentas registradas en la plataforma. Desde aquí es posible visualizar, editar, eliminar o invitar nuevos usuarios, así como gestionar sus roles y accesos.",
+  "source": "@site/docs/Plataforma/gestion/usuarios.md",
+  "sourceDirName": "Plataforma/gestion",
+  "slug": "/Plataforma/gestion/usuarios",
+  "permalink": "/docs/2.0.0/Plataforma/gestion/usuarios",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/gestion/usuarios.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Usuarios",
+    "iconName": "user",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Equipo",
+    "permalink": "/docs/2.0.0/Plataforma/gestion/equipo"
+  },
+  "next": {
+    "title": "Roles",
+    "permalink": "/docs/2.0.0/Plataforma/gestion/rol"
+  }
+}

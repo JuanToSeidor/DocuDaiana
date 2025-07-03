@@ -1,0 +1,29 @@
+{
+  "id": "Plataforma/dashboard/estadisticas",
+  "title": "Estadísticas",
+  "description": "La sección Estadísticas del Dashboard permite visualizar de forma clara y segmentada cómo se utiliza la plataforma Daiana en tu organización. Proporciona información histórica, rankings y métricas personalizables para facilitar el seguimiento del uso, el rendimiento de los asistentes y la participación de los usuarios y equipos.",
+  "source": "@site/docs/Plataforma/dashboard/estadisticas.md",
+  "sourceDirName": "Plataforma/dashboard",
+  "slug": "/Plataforma/dashboard/estadisticas",
+  "permalink": "/docs/2.0.0/Plataforma/dashboard/estadisticas",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/dashboard/estadisticas.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Estadísticas",
+    "iconName": "bars",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Primer agente",
+    "permalink": "/docs/2.0.0/ConfiguracióndeEntorno/primer"
+  },
+  "next": {
+    "title": "Reportes",
+    "permalink": "/docs/2.0.0/Plataforma/dashboard/reportes"
+  }
+}

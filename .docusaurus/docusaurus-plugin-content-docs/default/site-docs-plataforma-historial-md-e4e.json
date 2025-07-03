@@ -1,0 +1,29 @@
+{
+  "id": "Plataforma/historial",
+  "title": "Historial de conversaciones",
+  "description": "La sección Historial de conversaciones permite visualizar y filtrar los mensajes intercambiados entre usuarios y asistentes dentro de un período determinado. Es útil para auditar interacciones, revisar respuestas automatizadas o realizar seguimiento de calidad y feedback.",
+  "source": "@site/docs/Plataforma/historial.md",
+  "sourceDirName": "Plataforma",
+  "slug": "/Plataforma/historial",
+  "permalink": "/docs/2.0.0/Plataforma/historial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/historial.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Historial de conversaciones",
+    "iconName": "arrowDownToLine",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Métodos de acceso",
+    "permalink": "/docs/2.0.0/Plataforma/gestion/acceso"
+  },
+  "next": {
+    "title": "Wizard de Agentes",
+    "permalink": "/docs/2.0.0/Plataforma/wizzard"
+  }
+}

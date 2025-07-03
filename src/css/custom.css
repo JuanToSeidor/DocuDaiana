@@ -53,3 +53,18 @@ img{
 }
 
 html { scroll-behavior: smooth; }
+
+.req{
+  font-size: .813rem;
+  background-color: #fe9800de;
+  color: #f1f5fa;
+  padding: 0.5em;
+  border-radius: 6px;
+}
+.opt{
+  font-size: .813rem;
+  background-color: #8b90bbde;
+  color: #f1f5fa;
+  padding: 0.5em;
+  border-radius: 6px;
+}

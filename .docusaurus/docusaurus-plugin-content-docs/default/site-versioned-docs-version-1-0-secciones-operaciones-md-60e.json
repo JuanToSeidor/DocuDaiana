@@ -1,0 +1,28 @@
+{
+  "id": "Secciones/operaciones",
+  "title": "Operación del Sistema",
+  "description": "Operación del Sistema",
+  "source": "@site/versioned_docs/version-1.0/Secciones/operaciones.md",
+  "sourceDirName": "Secciones",
+  "slug": "/Secciones/operaciones",
+  "permalink": "/docs/1.0/Secciones/operaciones",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/Secciones/operaciones.md",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Operación del Sistema",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Arquitectura del sistema",
+    "permalink": "/docs/1.0/Secciones/Arquitectura"
+  },
+  "next": {
+    "title": "Política de Privacidad",
+    "permalink": "/docs/1.0/Secciones/Confidencialidad"
+  }
+}
