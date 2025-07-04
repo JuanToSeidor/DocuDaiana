@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-1.0/conexiones/onedrive.md",
   "sourceDirName": "conexiones",
   "slug": "/conexiones/onedrive",
-  "permalink": "/docs/1.0/conexiones/onedrive",
+  "permalink": "/en/docs/1.0/conexiones/onedrive",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/conexiones/onedrive.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "SharePoint",
-    "permalink": "/docs/1.0/conexiones/sharepoint"
+    "permalink": "/en/docs/1.0/conexiones/sharepoint"
   },
   "next": {
     "title": "Microsoft Teams",
-    "permalink": "/docs/1.0/integraciones/teams"
+    "permalink": "/en/docs/1.0/integraciones/teams"
   }
 }

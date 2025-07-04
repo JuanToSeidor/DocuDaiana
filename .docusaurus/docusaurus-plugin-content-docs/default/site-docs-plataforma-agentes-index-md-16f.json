@@ -5,7 +5,7 @@
   "source": "@site/docs/Plataforma/agentes/index.md",
   "sourceDirName": "Plataforma/agentes",
   "slug": "/Plataforma/agentes/",
-  "permalink": "/docs/2.0.0/Plataforma/agentes/",
+  "permalink": "/en/docs/2.0.0/Plataforma/agentes/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/agentes/index.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Mi Daiana",
-    "permalink": "/docs/2.0.0/Plataforma/dashboard/midainaa"
+    "permalink": "/en/docs/2.0.0/Plataforma/dashboard/midainaa"
   },
   "next": {
     "title": "Chats",
-    "permalink": "/docs/2.0.0/Plataforma/agentes/chats"
+    "permalink": "/en/docs/2.0.0/Plataforma/agentes/chats"
   }
 }

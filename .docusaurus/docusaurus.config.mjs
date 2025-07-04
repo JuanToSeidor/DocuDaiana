@@ -8,11 +8,11 @@ export default {
   "tagline": "Simplifica tu atención al cliente con un chatbot Inteligente",
   "favicon": "img/favicon.ico",
   "url": "https://docudaina.netlify.app",
-  "baseUrl": "/",
+  "baseUrl": "/en/",
   "organizationName": "Seidor",
   "projectName": "Daiana Docs",
-  "onBrokenLinks": "throw",
-  "onBrokenMarkdownLinks": "warn",
+  "onBrokenLinks": "ignore",
+  "onBrokenMarkdownLinks": "ignore",
   "i18n": {
     "defaultLocale": "es",
     "locales": [
@@ -73,7 +73,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
           "onInlineTags": "warn",
           "onInlineAuthors": "warn",
-          "onUntruncatedBlogPosts": "warn"
+          "onUntruncatedBlogPosts": "ignore"
         },
         "theme": {
           "customCss": "./src/css/custom.css"

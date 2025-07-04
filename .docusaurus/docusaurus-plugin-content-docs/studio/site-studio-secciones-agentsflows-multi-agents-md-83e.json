@@ -5,7 +5,7 @@
   "source": "@site/Studio/secciones/agentsflows/Multi-Agents.md",
   "sourceDirName": "secciones/agentsflows",
   "slug": "/secciones/agentsflows/Multi-Agents",
-  "permalink": "/Studio/secciones/agentsflows/Multi-Agents",
+  "permalink": "/en/Studio/secciones/agentsflows/Multi-Agents",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "defaultSidebar",
   "previous": {
     "title": "Agentflows",
-    "permalink": "/Studio/secciones/agentsflows/"
+    "permalink": "/en/Studio/secciones/agentsflows/"
   },
   "next": {
     "title": "Sequential Agents",
-    "permalink": "/Studio/secciones/agentsflows/sequential-agents"
+    "permalink": "/en/Studio/secciones/agentsflows/sequential-agents"
   }
 }

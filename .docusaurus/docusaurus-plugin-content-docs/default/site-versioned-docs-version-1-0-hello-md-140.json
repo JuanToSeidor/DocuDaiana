@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-1.0/hello.md",
   "sourceDirName": ".",
   "slug": "/hello",
-  "permalink": "/docs/1.0/hello",
+  "permalink": "/en/docs/1.0/hello",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/hello.md",
@@ -20,6 +20,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Empezamos con DAIANA",
-    "permalink": "/docs/1.0/intro"
+    "permalink": "/en/docs/1.0/intro"
   }
 }

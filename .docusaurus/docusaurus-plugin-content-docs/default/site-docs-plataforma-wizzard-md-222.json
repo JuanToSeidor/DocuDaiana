@@ -5,7 +5,7 @@
   "source": "@site/docs/Plataforma/wizzard.md",
   "sourceDirName": "Plataforma",
   "slug": "/Plataforma/wizzard",
-  "permalink": "/docs/2.0.0/Plataforma/wizzard",
+  "permalink": "/en/docs/2.0.0/Plataforma/wizzard",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/wizzard.md",
@@ -20,6 +20,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Historial de conversaciones",
-    "permalink": "/docs/2.0.0/Plataforma/historial"
+    "permalink": "/en/docs/2.0.0/Plataforma/historial"
   }
 }

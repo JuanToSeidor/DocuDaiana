@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-1.0/Secciones/Arquitectura.md",
   "sourceDirName": "Secciones",
   "slug": "/Secciones/Arquitectura",
-  "permalink": "/docs/1.0/Secciones/Arquitectura",
+  "permalink": "/en/docs/1.0/Secciones/Arquitectura",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/Secciones/Arquitectura.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Empezamos con DAIANA",
-    "permalink": "/docs/1.0/intro"
+    "permalink": "/en/docs/1.0/intro"
   },
   "next": {
     "title": "Operación del Sistema",
-    "permalink": "/docs/1.0/Secciones/operaciones"
+    "permalink": "/en/docs/1.0/Secciones/operaciones"
   }
 }

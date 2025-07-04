@@ -5,7 +5,7 @@
   "source": "@site/docs/Plataforma/gestion/acceso.md",
   "sourceDirName": "Plataforma/gestion",
   "slug": "/Plataforma/gestion/acceso",
-  "permalink": "/docs/2.0.0/Plataforma/gestion/acceso",
+  "permalink": "/en/docs/2.0.0/Plataforma/gestion/acceso",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/gestion/acceso.md",
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Roles",
-    "permalink": "/docs/2.0.0/Plataforma/gestion/rol"
+    "permalink": "/en/docs/2.0.0/Plataforma/gestion/rol"
   },
   "next": {
     "title": "Historial de conversaciones",
-    "permalink": "/docs/2.0.0/Plataforma/historial"
+    "permalink": "/en/docs/2.0.0/Plataforma/historial"
   }
 }

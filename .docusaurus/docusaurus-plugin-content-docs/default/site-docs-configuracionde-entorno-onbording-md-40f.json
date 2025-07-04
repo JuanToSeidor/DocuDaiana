@@ -5,7 +5,7 @@
   "source": "@site/docs/ConfiguracióndeEntorno/onbording.md",
   "sourceDirName": "ConfiguracióndeEntorno",
   "slug": "/ConfiguracióndeEntorno/onbording",
-  "permalink": "/docs/2.0.0/ConfiguracióndeEntorno/onbording",
+  "permalink": "/en/docs/2.0.0/ConfiguracióndeEntorno/onbording",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/ConfiguracióndeEntorno/onbording.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Empieza ahora",
-    "permalink": "/docs/2.0.0/category/empieza-ahora"
+    "permalink": "/en/docs/2.0.0/category/empieza-ahora"
   },
   "next": {
     "title": "Primer agente",
-    "permalink": "/docs/2.0.0/ConfiguracióndeEntorno/primer"
+    "permalink": "/en/docs/2.0.0/ConfiguracióndeEntorno/primer"
   }
 }

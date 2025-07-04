@@ -2,16 +2,16 @@
   "title": "Recent posts",
   "items": [
     {
-      "title": "IA en acción: productividad sin límites",
-      "permalink": "/blog/Agentes IA",
+      "title": "Buenas prácticas",
+      "permalink": "/en/blog/welcome",
       "unlisted": false,
-      "date": "2025-06-23T15:42:54.143Z"
+      "date": "2025-07-03T19:22:11.000Z"
     },
     {
-      "title": "Buenas prácticas",
-      "permalink": "/blog/welcome",
+      "title": "IA en acción: productividad sin límites",
+      "permalink": "/en/blog/Agentes IA",
       "unlisted": false,
-      "date": "2025-03-25T14:46:14.338Z"
+      "date": "2025-07-03T19:22:11.000Z"
     }
   ]
 }

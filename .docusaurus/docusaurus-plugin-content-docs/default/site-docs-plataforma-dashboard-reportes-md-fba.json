@@ -5,7 +5,7 @@
   "source": "@site/docs/Plataforma/dashboard/reportes.md",
   "sourceDirName": "Plataforma/dashboard",
   "slug": "/Plataforma/dashboard/reportes",
-  "permalink": "/docs/2.0.0/Plataforma/dashboard/reportes",
+  "permalink": "/en/docs/2.0.0/Plataforma/dashboard/reportes",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/dashboard/reportes.md",
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Estadísticas",
-    "permalink": "/docs/2.0.0/Plataforma/dashboard/estadisticas"
+    "permalink": "/en/docs/2.0.0/Plataforma/dashboard/estadisticas"
   },
   "next": {
     "title": "Mi Daiana",
-    "permalink": "/docs/2.0.0/Plataforma/dashboard/midainaa"
+    "permalink": "/en/docs/2.0.0/Plataforma/dashboard/midainaa"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/ConfiguracióndeEntorno/primer.md",
   "sourceDirName": "ConfiguracióndeEntorno",
   "slug": "/ConfiguracióndeEntorno/primer",
-  "permalink": "/docs/2.0.0/ConfiguracióndeEntorno/primer",
+  "permalink": "/en/docs/2.0.0/ConfiguracióndeEntorno/primer",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/ConfiguracióndeEntorno/primer.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Onboarding",
-    "permalink": "/docs/2.0.0/ConfiguracióndeEntorno/onbording"
+    "permalink": "/en/docs/2.0.0/ConfiguracióndeEntorno/onbording"
   },
   "next": {
     "title": "Estadísticas",
-    "permalink": "/docs/2.0.0/Plataforma/dashboard/estadisticas"
+    "permalink": "/en/docs/2.0.0/Plataforma/dashboard/estadisticas"
   }
 }

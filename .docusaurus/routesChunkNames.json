@@ -1,487 +1,444 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/en/blog-b99": {
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "36994c47"
     },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/blog-736": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogb-55-cbd"
+        "content": "f0226769"
       },
       {
-        "content": "content---blogf-02-e2e"
+        "content": "b55d0460"
       }
     ],
-    "__props": "__props---blogc-15-573"
+    "__props": "22f9ffc3"
   },
-  "/blog/Agentes IA-c12": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/en/blog/Agentes IA-c7c": {
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-agentes-i-aace-0dd"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-agentes-ia-3-a-5-7f4"
+    "sidebar": "814f3328",
+    "content": "3a596363"
   },
-  "/blog/archive-182": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+  "/en/blog/archive-d28": {
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "__props": "__props---blog-archivef-81-229"
+    "__props": "c5fd9dbb"
   },
-  "/blog/authors-0b7": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---blog-agentes-i-aace-0dd"
-      },
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authorsef-8-44f"
-  },
-  "/blog/authors/all-sebastien-lorber-articles-495": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+  "/en/blog/authors-32d": {
+    "__comp": "621db11d",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-agentes-i-aace-0dd"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "81ec5f34"
+  },
+  "/en/blog/authors/all-sebastien-lorber-articles-ec4": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
     },
     "items": [],
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-all-sebastien-lorber-articlesc-9-c-639"
+    "sidebar": "814f3328",
+    "__props": "339d1b83"
   },
-  "/blog/authors/yangshun-7c6": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+  "/en/blog/authors/yangshun-a2e": {
+    "__comp": "33fc5bb8",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-agentes-i-aace-0dd"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
     "items": [],
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-yangshun-1-de-d0c"
+    "sidebar": "814f3328",
+    "__props": "ffa2c7a5"
   },
-  "/blog/tags-287": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+  "/en/blog/tags-fb7": {
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-tags-3-a-2-fa2"
+    "sidebar": "814f3328",
+    "__props": "5311454b"
   },
-  "/blog/tags/buenas-practicas-bc4": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/en/blog/tags/buenas-practicas-25d": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogb-55-cbd"
+        "content": "f0226769"
       },
       {
-        "content": "content---blogf-02-e2e"
+        "content": "b55d0460"
       }
     ],
-    "__props": "__props---blog-tags-buenas-practicase-60-cb3"
+    "__props": "bf1f723b"
   },
-  "/blog/tags/ia-c8c": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/en/blog/tags/ia-640": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogb-55-cbd"
+        "content": "f0226769"
       },
       {
-        "content": "content---blogf-02-e2e"
+        "content": "b55d0460"
       }
     ],
-    "__props": "__props---blog-tags-ia-41-c-cc7"
+    "__props": "89921d78"
   },
-  "/blog/tags/promp-94d": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/en/blog/tags/promp-37b": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogb-55-cbd"
+        "content": "f0226769"
       },
       {
-        "content": "content---blogf-02-e2e"
+        "content": "b55d0460"
       }
     ],
-    "__props": "__props---blog-tags-promp-0-ea-fe8"
+    "__props": "43ec1c8a"
   },
-  "/blog/welcome-813": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/en/blog/welcome-09a": {
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-agentes-i-aace-0dd"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-welcome-54-d-cbf"
+    "sidebar": "814f3328",
+    "content": "54d76c69"
   },
-  "/markdown-page-3d7": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+  "/en/markdown-page-63b": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "a7456010"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "393be207"
   },
-  "/search-5de": {
-    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+  "/en/search-5d6": {
+    "__comp": "1a4e3797",
     "__context": {
-      "plugin": "plugin---searchc-14-0ea"
+      "plugin": "c141421f"
     }
   },
-  "/docs-c7c": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+  "/en/docs-1f3": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "aba21aa0"
     }
   },
-  "/docs/1.0-00b": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-1-0-f-52-0f5"
+  "/en/docs/1.0-fdf": {
+    "__comp": "a7bd4aaa",
+    "__props": "7b509ef3"
   },
-  "/docs/1.0-ddc": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/en/docs/1.0-a69": {
+    "__comp": "a94703ab"
   },
-  "/docs/1.0/anexos-ee4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-anexos-6-fa-c97"
+  "/en/docs/1.0/anexos-666": {
+    "__comp": "17896441",
+    "content": "6faabf50"
   },
-  "/docs/1.0/conexiones/onedrive-fc8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-conexiones-onedrive-17-a-8c0"
+  "/en/docs/1.0/conexiones/onedrive-2af": {
+    "__comp": "17896441",
+    "content": "17a7c54d"
   },
-  "/docs/1.0/conexiones/sharepoint-ae0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-conexiones-sharepointf-23-d1b"
+  "/en/docs/1.0/conexiones/sharepoint-6bd": {
+    "__comp": "17896441",
+    "content": "f236b11c"
   },
-  "/docs/1.0/configuración/cuenta-8b1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-configuracion-cuentae-23-555"
+  "/en/docs/1.0/configuración/cuenta-48e": {
+    "__comp": "17896441",
+    "content": "e23f56ab"
   },
-  "/docs/1.0/configuración/perfil-509": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-configuracion-perfilce-4-bdc"
+  "/en/docs/1.0/configuración/perfil-1ed": {
+    "__comp": "17896441",
+    "content": "ce4bf867"
   },
-  "/docs/1.0/hello-78a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-hello-140-478"
+  "/en/docs/1.0/hello-f05": {
+    "__comp": "17896441",
+    "content": "14004a7c"
   },
-  "/docs/1.0/integraciones/teams-a05": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-integraciones-teamse-04-e39"
+  "/en/docs/1.0/integraciones/teams-ec1": {
+    "__comp": "17896441",
+    "content": "e040f1d1"
   },
-  "/docs/1.0/integraciones/whatsapp-3c8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-integraciones-whatsappc-2-d-e6f"
+  "/en/docs/1.0/integraciones/whatsapp-7a8": {
+    "__comp": "17896441",
+    "content": "c2da0c5e"
   },
-  "/docs/1.0/intro-31e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-intro-7-bd-2e1"
+  "/en/docs/1.0/intro-a55": {
+    "__comp": "17896441",
+    "content": "7bd8db71"
   },
-  "/docs/1.0/Paginas/AsistentesVirtuales-b06": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-paginas-asistentes-virtuales-259-fea"
+  "/en/docs/1.0/Paginas/AsistentesVirtuales-7c6": {
+    "__comp": "17896441",
+    "content": "259346b5"
   },
-  "/docs/1.0/Paginas/Chats-7b0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-paginas-chatse-3-d-dc2"
+  "/en/docs/1.0/Paginas/Chats-8de": {
+    "__comp": "17896441",
+    "content": "e3dfbd44"
   },
-  "/docs/1.0/Paginas/conversaciones-349": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-paginas-conversaciones-282-7c6"
+  "/en/docs/1.0/Paginas/conversaciones-ff9": {
+    "__comp": "17896441",
+    "content": "282f9c25"
   },
-  "/docs/1.0/Paginas/Dashboard-2f2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-paginas-dashboard-0-b-6-ae1"
+  "/en/docs/1.0/Paginas/Dashboard-429": {
+    "__comp": "17896441",
+    "content": "0b682168"
   },
-  "/docs/1.0/Paginas/equipos-51b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-paginas-equiposbac-161"
+  "/en/docs/1.0/Paginas/equipos-9a7": {
+    "__comp": "17896441",
+    "content": "bac2b3bb"
   },
-  "/docs/1.0/Paginas/seguridad-dd0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-paginas-seguridade-27-d48"
+  "/en/docs/1.0/Paginas/seguridad-783": {
+    "__comp": "17896441",
+    "content": "e270d784"
   },
-  "/docs/1.0/Secciones/Anexos-7b8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-secciones-anexosb-14-397"
+  "/en/docs/1.0/Secciones/Anexos-4f8": {
+    "__comp": "17896441",
+    "content": "b140f0bf"
   },
-  "/docs/1.0/Secciones/Arquitectura-20d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-secciones-arquitecturaff-3-156"
+  "/en/docs/1.0/Secciones/Arquitectura-915": {
+    "__comp": "17896441",
+    "content": "ff3b2982"
   },
-  "/docs/1.0/Secciones/Confidencialidad-29e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-secciones-confidencialidad-56-d-77b"
+  "/en/docs/1.0/Secciones/Confidencialidad-f18": {
+    "__comp": "17896441",
+    "content": "56d79521"
   },
-  "/docs/1.0/Secciones/log-a73": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-secciones-log-347-399"
+  "/en/docs/1.0/Secciones/log-bdd": {
+    "__comp": "17896441",
+    "content": "3473d17d"
   },
-  "/docs/1.0/Secciones/mantenimiento-c69": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-secciones-mantenimiento-408-01b"
+  "/en/docs/1.0/Secciones/mantenimiento-117": {
+    "__comp": "17896441",
+    "content": "408ec3a8"
   },
-  "/docs/1.0/Secciones/operaciones-59b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-secciones-operaciones-60-e-2a0"
+  "/en/docs/1.0/Secciones/operaciones-f88": {
+    "__comp": "17896441",
+    "content": "60ee0505"
   },
-  "/docs/1.0/Secciones/seguridad-3d5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-secciones-seguridadcfe-56d"
+  "/en/docs/1.0/Secciones/seguridad-38f": {
+    "__comp": "17896441",
+    "content": "cfe7086e"
   },
-  "/docs/1.0/terminosycondiciones-d14": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-terminosycondiciones-50-b-ace"
+  "/en/docs/1.0/terminosycondiciones-ee6": {
+    "__comp": "17896441",
+    "content": "50b5f7c3"
   },
-  "/docs/1.0/uso/consola-0e0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-uso-consola-044-11f"
+  "/en/docs/1.0/uso/consola-f1f": {
+    "__comp": "17896441",
+    "content": "0440776d"
   },
-  "/docs/1.0/uso/sso-a92": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-1-0-uso-sso-892-ccc"
+  "/en/docs/1.0/uso/sso-c08": {
+    "__comp": "17896441",
+    "content": "8920a255"
   },
-  "/docs/2.0.0-fa3": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-2-0-05-f-0-4cf"
+  "/en/docs/2.0.0-940": {
+    "__comp": "a7bd4aaa",
+    "__props": "fa4ecf27"
   },
-  "/docs/2.0.0-176": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/en/docs/2.0.0-26b": {
+    "__comp": "a94703ab"
   },
-  "/docs/2.0.0/category/empieza-ahora-a4c": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-2-0-0-category-empieza-ahora-45-f-6f5"
+  "/en/docs/2.0.0/category/empieza-ahora-222": {
+    "__comp": "14eb3368",
+    "__props": "04cd22cf"
   },
-  "/docs/2.0.0/ConfiguracióndeEntorno/onbording-b43": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-0-0-configuracionde-entorno-onbording-40-f-328"
+  "/en/docs/2.0.0/ConfiguracióndeEntorno/onbording-b14": {
+    "__comp": "17896441",
+    "content": "40f7a890"
   },
-  "/docs/2.0.0/ConfiguracióndeEntorno/primer-cd5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-0-0-configuracionde-entorno-primer-1-df-2d4"
+  "/en/docs/2.0.0/ConfiguracióndeEntorno/primer-1a6": {
+    "__comp": "17896441",
+    "content": "1dfefef9"
   },
-  "/docs/2.0.0/intro-950": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-0-0-intro-0-e-3-5de"
+  "/en/docs/2.0.0/intro-9c8": {
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
-  "/docs/2.0.0/Plataforma/agentes/-2ab": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-0-0-plataforma-agentes-16-f-2f5"
+  "/en/docs/2.0.0/Plataforma/agentes/-8fc": {
+    "__comp": "17896441",
+    "content": "16f65968"
   },
-  "/docs/2.0.0/Plataforma/agentes/administrar-190": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-0-0-plataforma-agentes-administrarb-5-f-2da"
+  "/en/docs/2.0.0/Plataforma/agentes/administrar-045": {
+    "__comp": "17896441",
+    "content": "b5feb14c"
   },
-  "/docs/2.0.0/Plataforma/agentes/chats-f26": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-0-0-plataforma-agentes-chatsa-13-b82"
+  "/en/docs/2.0.0/Plataforma/agentes/chats-379": {
+    "__comp": "17896441",
+    "content": "a13e0bf3"
   },
-  "/docs/2.0.0/Plataforma/agentes/crear-f79": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-0-0-plataforma-agentes-crear-838-8c4"
+  "/en/docs/2.0.0/Plataforma/agentes/crear-173": {
+    "__comp": "17896441",
+    "content": "8389cdbf"
   },
-  "/docs/2.0.0/Plataforma/dashboard/estadisticas-fd5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-0-0-plataforma-dashboard-estadisticasf-4-d-556"
+  "/en/docs/2.0.0/Plataforma/dashboard/estadisticas-2cc": {
+    "__comp": "17896441",
+    "content": "f4de6760"
   },
-  "/docs/2.0.0/Plataforma/dashboard/midainaa-641": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-0-0-plataforma-dashboard-midainaa-4-be-04c"
+  "/en/docs/2.0.0/Plataforma/dashboard/midainaa-b81": {
+    "__comp": "17896441",
+    "content": "4be9c074"
   },
-  "/docs/2.0.0/Plataforma/dashboard/reportes-4ae": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-0-0-plataforma-dashboard-reportesfba-c61"
+  "/en/docs/2.0.0/Plataforma/dashboard/reportes-46a": {
+    "__comp": "17896441",
+    "content": "fbaef273"
   },
-  "/docs/2.0.0/Plataforma/gestion/-d4a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-0-0-plataforma-gestion-fee-e68"
+  "/en/docs/2.0.0/Plataforma/gestion/-d3d": {
+    "__comp": "17896441",
+    "content": "feee3711"
   },
-  "/docs/2.0.0/Plataforma/gestion/acceso-fbe": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-0-0-plataforma-gestion-acceso-432-13a"
+  "/en/docs/2.0.0/Plataforma/gestion/acceso-431": {
+    "__comp": "17896441",
+    "content": "43295b82"
   },
-  "/docs/2.0.0/Plataforma/gestion/equipo-432": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-0-0-plataforma-gestion-equipoc-41-3f0"
+  "/en/docs/2.0.0/Plataforma/gestion/equipo-666": {
+    "__comp": "17896441",
+    "content": "c41abecf"
   },
-  "/docs/2.0.0/Plataforma/gestion/rol-8d3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-0-0-plataforma-gestion-rolf-82-626"
+  "/en/docs/2.0.0/Plataforma/gestion/rol-578": {
+    "__comp": "17896441",
+    "content": "f823c50f"
   },
-  "/docs/2.0.0/Plataforma/gestion/usuarios-032": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-0-0-plataforma-gestion-usuarios-308-5a7"
+  "/en/docs/2.0.0/Plataforma/gestion/usuarios-e60": {
+    "__comp": "17896441",
+    "content": "30848f35"
   },
-  "/docs/2.0.0/Plataforma/historial-ce9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-0-0-plataforma-historiale-4-e-ed5"
+  "/en/docs/2.0.0/Plataforma/historial-736": {
+    "__comp": "17896441",
+    "content": "e4ece1ce"
   },
-  "/docs/2.0.0/Plataforma/wizzard-9b9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-0-0-plataforma-wizzard-222-608"
+  "/en/docs/2.0.0/Plataforma/wizzard-b9e": {
+    "__comp": "17896441",
+    "content": "222d78af"
   },
-  "/ReleaseNotes-c9e": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+  "/en/ReleaseNotes-4c3": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---release-notes-26-a-588"
+      "plugin": "26a8cf36"
     }
   },
-  "/ReleaseNotes-a11": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---release-notesaea-ac9"
+  "/en/ReleaseNotes-1e2": {
+    "__comp": "a7bd4aaa",
+    "__props": "f97ca40d"
   },
-  "/ReleaseNotes-446": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/en/ReleaseNotes-ee3": {
+    "__comp": "a94703ab"
   },
-  "/ReleaseNotes/-4ee": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---release-notes-534-f78"
+  "/en/ReleaseNotes/-f0e": {
+    "__comp": "17896441",
+    "content": "534b08d5"
   },
-  "/ReleaseNotes/110-787": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---release-notes-110626-f67"
+  "/en/ReleaseNotes/110-a0c": {
+    "__comp": "17896441",
+    "content": "62632b1d"
   },
-  "/Studio-2ab": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+  "/en/Studio-d55": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---studio-57-d-6a8"
+      "plugin": "57dd0954"
     }
   },
-  "/Studio-7f4": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---studio-6-d-1-fbe"
+  "/en/Studio-22a": {
+    "__comp": "a7bd4aaa",
+    "__props": "a54d636d"
   },
-  "/Studio-0ce": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/en/Studio-18d": {
+    "__comp": "a94703ab"
   },
-  "/Studio/-0a8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---studio-17-b-f58"
+  "/en/Studio/-750": {
+    "__comp": "17896441",
+    "content": "17bb0c29"
   },
-  "/Studio/entrenamiento/-401": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---studio-entrenamiento-52-d-e83"
+  "/en/Studio/entrenamiento/-674": {
+    "__comp": "17896441",
+    "content": "52df24e4"
   },
-  "/Studio/entrenamiento/Develop-466": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---studio-entrenamiento-develop-456-cd6"
+  "/en/Studio/entrenamiento/Develop-fa4": {
+    "__comp": "17896441",
+    "content": "4564d387"
   },
-  "/Studio/entrenamiento/general-5f9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---studio-entrenamiento-general-1-fe-309"
+  "/en/Studio/entrenamiento/general-3cf": {
+    "__comp": "17896441",
+    "content": "1fe29c51"
   },
-  "/Studio/entrenamiento/nodos-c40": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---studio-entrenamiento-nodos-0-c-4-e5f"
+  "/en/Studio/entrenamiento/nodos-630": {
+    "__comp": "17896441",
+    "content": "0c48edf2"
   },
-  "/Studio/entrenamiento/rag-55d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---studio-entrenamiento-rag-4-be-7a3"
+  "/en/Studio/entrenamiento/rag-ab2": {
+    "__comp": "17896441",
+    "content": "4be4d681"
   },
-  "/Studio/secciones/-352": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---studio-secciones-e-35-e17"
+  "/en/Studio/secciones/-fb7": {
+    "__comp": "17896441",
+    "content": "e35f6bfc"
   },
-  "/Studio/secciones/agentsflows/-84c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---studio-secciones-agentsflows-828-76e"
+  "/en/Studio/secciones/agentsflows/-34c": {
+    "__comp": "17896441",
+    "content": "8284fab3"
   },
-  "/Studio/secciones/agentsflows/Multi-Agents-e29": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---studio-secciones-agentsflows-multi-agents-83-e-033"
+  "/en/Studio/secciones/agentsflows/Multi-Agents-bba": {
+    "__comp": "17896441",
+    "content": "83e5f9d3"
   },
-  "/Studio/secciones/agentsflows/sequential-agents-c29": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---studio-secciones-agentsflows-sequential-agents-20-b-0dc"
+  "/en/Studio/secciones/agentsflows/sequential-agents-d3e": {
+    "__comp": "17896441",
+    "content": "20bf8b4e"
   },
-  "/Studio/secciones/api/-eef": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---studio-secciones-api-760-f4c"
+  "/en/Studio/secciones/api/-f0f": {
+    "__comp": "17896441",
+    "content": "760c2de6"
   },
-  "/Studio/secciones/chatflows-c00": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---studio-secciones-chatflowsb-13-b70"
+  "/en/Studio/secciones/chatflows-12e": {
+    "__comp": "17896441",
+    "content": "b13c5ec5"
   },
-  "/Studio/secciones/docs-348": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---studio-secciones-docsf-01-064"
+  "/en/Studio/secciones/docs-03a": {
+    "__comp": "17896441",
+    "content": "f01b8b4a"
   },
-  "/Studio/secciones/embled-a9b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---studio-secciones-embled-5-bd-a89"
+  "/en/Studio/secciones/embled-376": {
+    "__comp": "17896441",
+    "content": "5bd283d6"
   },
-  "/Studio/secciones/variables-7af": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---studio-secciones-variablesd-14-cfd"
+  "/en/Studio/secciones/variables-649": {
+    "__comp": "17896441",
+    "content": "d140576a"
   },
-  "/-e5f": {
-    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+  "/en/-6c2": {
+    "__comp": "1df93b7f",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "a7456010"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }

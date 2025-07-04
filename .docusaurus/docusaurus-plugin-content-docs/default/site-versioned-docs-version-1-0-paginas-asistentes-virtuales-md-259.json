@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-1.0/Paginas/AsistentesVirtuales.md",
   "sourceDirName": "Paginas",
   "slug": "/Paginas/AsistentesVirtuales",
-  "permalink": "/docs/1.0/Paginas/AsistentesVirtuales",
+  "permalink": "/en/docs/1.0/Paginas/AsistentesVirtuales",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/Paginas/AsistentesVirtuales.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Dashboard",
-    "permalink": "/docs/1.0/Paginas/Dashboard"
+    "permalink": "/en/docs/1.0/Paginas/Dashboard"
   },
   "next": {
     "title": "Chats",
-    "permalink": "/docs/1.0/Paginas/Chats"
+    "permalink": "/en/docs/1.0/Paginas/Chats"
   }
 }

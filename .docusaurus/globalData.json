@@ -1,103 +1,103 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/en/docs",
       "versions": [
         {
           "name": "current",
           "label": "Current",
           "isLast": true,
-          "path": "/docs/2.0.0",
+          "path": "/en/docs/2.0.0",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "ConfiguracióndeEntorno/onbording",
-              "path": "/docs/2.0.0/ConfiguracióndeEntorno/onbording",
+              "path": "/en/docs/2.0.0/ConfiguracióndeEntorno/onbording",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "ConfiguracióndeEntorno/primer",
-              "path": "/docs/2.0.0/ConfiguracióndeEntorno/primer",
+              "path": "/en/docs/2.0.0/ConfiguracióndeEntorno/primer",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/docs/2.0.0/intro",
+              "path": "/en/docs/2.0.0/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Plataforma/agentes/administrar",
-              "path": "/docs/2.0.0/Plataforma/agentes/administrar",
+              "path": "/en/docs/2.0.0/Plataforma/agentes/administrar",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Plataforma/agentes/chats",
-              "path": "/docs/2.0.0/Plataforma/agentes/chats",
+              "path": "/en/docs/2.0.0/Plataforma/agentes/chats",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Plataforma/agentes/crear",
-              "path": "/docs/2.0.0/Plataforma/agentes/crear",
+              "path": "/en/docs/2.0.0/Plataforma/agentes/crear",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Plataforma/agentes/index",
-              "path": "/docs/2.0.0/Plataforma/agentes/",
+              "path": "/en/docs/2.0.0/Plataforma/agentes/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Plataforma/dashboard/estadisticas",
-              "path": "/docs/2.0.0/Plataforma/dashboard/estadisticas",
+              "path": "/en/docs/2.0.0/Plataforma/dashboard/estadisticas",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Plataforma/dashboard/midainaa",
-              "path": "/docs/2.0.0/Plataforma/dashboard/midainaa",
+              "path": "/en/docs/2.0.0/Plataforma/dashboard/midainaa",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Plataforma/dashboard/reportes",
-              "path": "/docs/2.0.0/Plataforma/dashboard/reportes",
+              "path": "/en/docs/2.0.0/Plataforma/dashboard/reportes",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Plataforma/gestion/acceso",
-              "path": "/docs/2.0.0/Plataforma/gestion/acceso",
+              "path": "/en/docs/2.0.0/Plataforma/gestion/acceso",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Plataforma/gestion/equipo",
-              "path": "/docs/2.0.0/Plataforma/gestion/equipo",
+              "path": "/en/docs/2.0.0/Plataforma/gestion/equipo",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Plataforma/gestion/index",
-              "path": "/docs/2.0.0/Plataforma/gestion/",
+              "path": "/en/docs/2.0.0/Plataforma/gestion/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Plataforma/gestion/rol",
-              "path": "/docs/2.0.0/Plataforma/gestion/rol",
+              "path": "/en/docs/2.0.0/Plataforma/gestion/rol",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Plataforma/gestion/usuarios",
-              "path": "/docs/2.0.0/Plataforma/gestion/usuarios",
+              "path": "/en/docs/2.0.0/Plataforma/gestion/usuarios",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Plataforma/historial",
-              "path": "/docs/2.0.0/Plataforma/historial",
+              "path": "/en/docs/2.0.0/Plataforma/historial",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Plataforma/wizzard",
-              "path": "/docs/2.0.0/Plataforma/wizzard",
+              "path": "/en/docs/2.0.0/Plataforma/wizzard",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/empieza-ahora",
-              "path": "/docs/2.0.0/category/empieza-ahora",
+              "path": "/en/docs/2.0.0/category/empieza-ahora",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -105,7 +105,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/2.0.0/intro",
+                "path": "/en/docs/2.0.0/intro",
                 "label": "Introduccion"
               }
             }
@@ -115,132 +115,132 @@
           "name": "1.0",
           "label": "1.0",
           "isLast": false,
-          "path": "/docs/1.0",
+          "path": "/en/docs/1.0",
           "mainDocId": "hello",
           "docs": [
             {
               "id": "anexos",
-              "path": "/docs/1.0/anexos",
+              "path": "/en/docs/1.0/anexos",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "conexiones/onedrive",
-              "path": "/docs/1.0/conexiones/onedrive",
+              "path": "/en/docs/1.0/conexiones/onedrive",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "conexiones/sharepoint",
-              "path": "/docs/1.0/conexiones/sharepoint",
+              "path": "/en/docs/1.0/conexiones/sharepoint",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "configuración/cuenta",
-              "path": "/docs/1.0/configuración/cuenta",
+              "path": "/en/docs/1.0/configuración/cuenta",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "configuración/perfil",
-              "path": "/docs/1.0/configuración/perfil",
+              "path": "/en/docs/1.0/configuración/perfil",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "hello",
-              "path": "/docs/1.0/hello",
+              "path": "/en/docs/1.0/hello",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "integraciones/teams",
-              "path": "/docs/1.0/integraciones/teams",
+              "path": "/en/docs/1.0/integraciones/teams",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "integraciones/whatsapp",
-              "path": "/docs/1.0/integraciones/whatsapp",
+              "path": "/en/docs/1.0/integraciones/whatsapp",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/docs/1.0/intro",
+              "path": "/en/docs/1.0/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Paginas/AsistentesVirtuales",
-              "path": "/docs/1.0/Paginas/AsistentesVirtuales",
+              "path": "/en/docs/1.0/Paginas/AsistentesVirtuales",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Paginas/Chats",
-              "path": "/docs/1.0/Paginas/Chats",
+              "path": "/en/docs/1.0/Paginas/Chats",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Paginas/conversaciones",
-              "path": "/docs/1.0/Paginas/conversaciones",
+              "path": "/en/docs/1.0/Paginas/conversaciones",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Paginas/Dashboard",
-              "path": "/docs/1.0/Paginas/Dashboard",
+              "path": "/en/docs/1.0/Paginas/Dashboard",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Paginas/equipos",
-              "path": "/docs/1.0/Paginas/equipos",
+              "path": "/en/docs/1.0/Paginas/equipos",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Paginas/seguridad",
-              "path": "/docs/1.0/Paginas/seguridad",
+              "path": "/en/docs/1.0/Paginas/seguridad",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Secciones/Anexos",
-              "path": "/docs/1.0/Secciones/Anexos",
+              "path": "/en/docs/1.0/Secciones/Anexos",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Secciones/Arquitectura",
-              "path": "/docs/1.0/Secciones/Arquitectura",
+              "path": "/en/docs/1.0/Secciones/Arquitectura",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Secciones/Confidencialidad",
-              "path": "/docs/1.0/Secciones/Confidencialidad",
+              "path": "/en/docs/1.0/Secciones/Confidencialidad",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Secciones/log",
-              "path": "/docs/1.0/Secciones/log",
+              "path": "/en/docs/1.0/Secciones/log",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Secciones/mantenimiento",
-              "path": "/docs/1.0/Secciones/mantenimiento",
+              "path": "/en/docs/1.0/Secciones/mantenimiento",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Secciones/operaciones",
-              "path": "/docs/1.0/Secciones/operaciones",
+              "path": "/en/docs/1.0/Secciones/operaciones",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Secciones/seguridad",
-              "path": "/docs/1.0/Secciones/seguridad",
+              "path": "/en/docs/1.0/Secciones/seguridad",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "terminosycondiciones",
-              "path": "/docs/1.0/terminosycondiciones",
+              "path": "/en/docs/1.0/terminosycondiciones",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "uso/consola",
-              "path": "/docs/1.0/uso/consola",
+              "path": "/en/docs/1.0/uso/consola",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "uso/sso",
-              "path": "/docs/1.0/uso/sso",
+              "path": "/en/docs/1.0/uso/sso",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -248,7 +248,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/1.0/hello",
+                "path": "/en/docs/1.0/hello",
                 "label": "Daiana"
               }
             }
@@ -258,23 +258,23 @@
       "breadcrumbs": true
     },
     "realece": {
-      "path": "/ReleaseNotes",
+      "path": "/en/ReleaseNotes",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/ReleaseNotes",
+          "path": "/en/ReleaseNotes",
           "mainDocId": "index",
           "docs": [
             {
               "id": "110",
-              "path": "/ReleaseNotes/110",
+              "path": "/en/ReleaseNotes/110",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "index",
-              "path": "/ReleaseNotes/",
+              "path": "/en/ReleaseNotes/",
               "sidebar": "defaultSidebar"
             }
           ],
@@ -282,7 +282,7 @@
           "sidebars": {
             "defaultSidebar": {
               "link": {
-                "path": "/ReleaseNotes/",
+                "path": "/en/ReleaseNotes/",
                 "label": "index"
               }
             }
@@ -292,88 +292,88 @@
       "breadcrumbs": true
     },
     "studio": {
-      "path": "/Studio",
+      "path": "/en/Studio",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/Studio",
+          "path": "/en/Studio",
           "mainDocId": "index",
           "docs": [
             {
               "id": "entrenamiento/Develop",
-              "path": "/Studio/entrenamiento/Develop",
+              "path": "/en/Studio/entrenamiento/Develop",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "entrenamiento/general",
-              "path": "/Studio/entrenamiento/general",
+              "path": "/en/Studio/entrenamiento/general",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "entrenamiento/index",
-              "path": "/Studio/entrenamiento/",
+              "path": "/en/Studio/entrenamiento/",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "entrenamiento/nodos",
-              "path": "/Studio/entrenamiento/nodos",
+              "path": "/en/Studio/entrenamiento/nodos",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "entrenamiento/rag",
-              "path": "/Studio/entrenamiento/rag",
+              "path": "/en/Studio/entrenamiento/rag",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "index",
-              "path": "/Studio/",
+              "path": "/en/Studio/",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "secciones/agentsflows/index",
-              "path": "/Studio/secciones/agentsflows/",
+              "path": "/en/Studio/secciones/agentsflows/",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "secciones/agentsflows/Multi-Agents",
-              "path": "/Studio/secciones/agentsflows/Multi-Agents",
+              "path": "/en/Studio/secciones/agentsflows/Multi-Agents",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "secciones/agentsflows/sequential-agents",
-              "path": "/Studio/secciones/agentsflows/sequential-agents",
+              "path": "/en/Studio/secciones/agentsflows/sequential-agents",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "secciones/api/index",
-              "path": "/Studio/secciones/api/",
+              "path": "/en/Studio/secciones/api/",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "secciones/chatflows",
-              "path": "/Studio/secciones/chatflows",
+              "path": "/en/Studio/secciones/chatflows",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "secciones/docs",
-              "path": "/Studio/secciones/docs",
+              "path": "/en/Studio/secciones/docs",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "secciones/embled",
-              "path": "/Studio/secciones/embled",
+              "path": "/en/Studio/secciones/embled",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "secciones/index",
-              "path": "/Studio/secciones/",
+              "path": "/en/Studio/secciones/",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "secciones/variables",
-              "path": "/Studio/secciones/variables",
+              "path": "/en/Studio/secciones/variables",
               "sidebar": "defaultSidebar"
             }
           ],
@@ -381,7 +381,7 @@
           "sidebars": {
             "defaultSidebar": {
               "link": {
-                "path": "/Studio/",
+                "path": "/en/Studio/",
                 "label": "index"
               }
             }

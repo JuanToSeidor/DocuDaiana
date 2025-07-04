@@ -5,7 +5,7 @@
   "source": "@site/Studio/index.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/Studio/",
+  "permalink": "/en/Studio/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -19,6 +19,6 @@
   "sidebar": "defaultSidebar",
   "next": {
     "title": "Interfaz de Usuario",
-    "permalink": "/Studio/secciones/"
+    "permalink": "/en/Studio/secciones/"
   }
 }

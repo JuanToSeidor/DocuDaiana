@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-1.0/integraciones/teams.md",
   "sourceDirName": "integraciones",
   "slug": "/integraciones/teams",
-  "permalink": "/docs/1.0/integraciones/teams",
+  "permalink": "/en/docs/1.0/integraciones/teams",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/integraciones/teams.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "One Drive",
-    "permalink": "/docs/1.0/conexiones/onedrive"
+    "permalink": "/en/docs/1.0/conexiones/onedrive"
   },
   "next": {
     "title": "WhatsApp",
-    "permalink": "/docs/1.0/integraciones/whatsapp"
+    "permalink": "/en/docs/1.0/integraciones/whatsapp"
   }
 }

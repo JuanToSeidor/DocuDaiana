@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-1.0/Secciones/seguridad.md",
   "sourceDirName": "Secciones",
   "slug": "/Secciones/seguridad",
-  "permalink": "/docs/1.0/Secciones/seguridad",
+  "permalink": "/en/docs/1.0/Secciones/seguridad",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/Secciones/seguridad.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Política de Privacidad",
-    "permalink": "/docs/1.0/Secciones/Confidencialidad"
+    "permalink": "/en/docs/1.0/Secciones/Confidencialidad"
   },
   "next": {
     "title": "Políticas de Mantenimiento",
-    "permalink": "/docs/1.0/Secciones/mantenimiento"
+    "permalink": "/en/docs/1.0/Secciones/mantenimiento"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/Studio/secciones/variables.md",
   "sourceDirName": "secciones",
   "slug": "/secciones/variables",
-  "permalink": "/Studio/secciones/variables",
+  "permalink": "/en/Studio/secciones/variables",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "defaultSidebar",
   "previous": {
     "title": "Incrustar chat",
-    "permalink": "/Studio/secciones/embled"
+    "permalink": "/en/Studio/secciones/embled"
   },
   "next": {
     "title": "API",
-    "permalink": "/Studio/secciones/api/"
+    "permalink": "/en/Studio/secciones/api/"
   }
 }
