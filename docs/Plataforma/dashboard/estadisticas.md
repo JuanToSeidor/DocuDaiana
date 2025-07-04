@@ -13,7 +13,7 @@ La sección **Estadísticas** del Dashboard permite visualizar de forma clara y 
 Muestra un resumen de los elementos más utilizados desde que se activó el entorno:
 
 <p align="center">
-![top usuarios](/img/dashboard/TOp.png)
+![top usuarios](/img/dashboard/TOP.png)
 </p>
 
 1. Equipos más activos
