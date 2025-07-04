@@ -5,7 +5,7 @@
   "source": "@site/Studio/secciones/embled.md",
   "sourceDirName": "secciones",
   "slug": "/secciones/embled",
-  "permalink": "/en/Studio/secciones/embled",
+  "permalink": "/Studio/secciones/embled",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "defaultSidebar",
   "previous": {
     "title": "Document Stores",
-    "permalink": "/en/Studio/secciones/docs"
+    "permalink": "/Studio/secciones/docs"
   },
   "next": {
     "title": "Variables",
-    "permalink": "/en/Studio/secciones/variables"
+    "permalink": "/Studio/secciones/variables"
   }
 }

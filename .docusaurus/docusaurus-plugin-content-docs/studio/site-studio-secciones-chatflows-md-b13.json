@@ -5,7 +5,7 @@
   "source": "@site/Studio/secciones/chatflows.md",
   "sourceDirName": "secciones",
   "slug": "/secciones/chatflows",
-  "permalink": "/en/Studio/secciones/chatflows",
+  "permalink": "/Studio/secciones/chatflows",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "defaultSidebar",
   "previous": {
     "title": "Interfaz de Usuario",
-    "permalink": "/en/Studio/secciones/"
+    "permalink": "/Studio/secciones/"
   },
   "next": {
     "title": "Agentflows",
-    "permalink": "/en/Studio/secciones/agentsflows/"
+    "permalink": "/Studio/secciones/agentsflows/"
   }
 }

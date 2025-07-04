@@ -1,0 +1,24 @@
+{
+  "id": "Plataforma/agentes/editar/editrar",
+  "title": "editrar",
+  "description": "",
+  "source": "@site/docs/Plataforma/agentes/editar/editrar.md",
+  "sourceDirName": "Plataforma/agentes/editar",
+  "slug": "/Plataforma/agentes/editar/editrar",
+  "permalink": "/docs/2.0.0/Plataforma/agentes/editar/editrar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/agentes/editar/editrar.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Crear agente",
+    "permalink": "/docs/2.0.0/Plataforma/agentes/crear"
+  },
+  "next": {
+    "title": "Gestión de Plataforma",
+    "permalink": "/docs/2.0.0/Plataforma/gestion/"
+  }
+}

@@ -3,229 +3,264 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/en/blog',
-    component: ComponentCreator('/en/blog', 'b99'),
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
     exact: true
   },
   {
-    path: '/en/blog/Agentes IA',
-    component: ComponentCreator('/en/blog/Agentes IA', 'c7c'),
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
     exact: true
   },
   {
-    path: '/en/blog/archive',
-    component: ComponentCreator('/en/blog/archive', 'd28'),
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
     exact: true
   },
   {
-    path: '/en/blog/authors',
-    component: ComponentCreator('/en/blog/authors', '32d'),
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
     exact: true
   },
   {
-    path: '/en/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/en/blog/authors/all-sebastien-lorber-articles', 'ec4'),
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
     exact: true
   },
   {
-    path: '/en/blog/authors/yangshun',
-    component: ComponentCreator('/en/blog/authors/yangshun', 'a2e'),
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
     exact: true
   },
   {
-    path: '/en/blog/tags',
-    component: ComponentCreator('/en/blog/tags', 'fb7'),
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
     exact: true
   },
   {
-    path: '/en/blog/tags/buenas-practicas',
-    component: ComponentCreator('/en/blog/tags/buenas-practicas', '25d'),
+    path: '/blog',
+    component: ComponentCreator('/blog', '16f'),
     exact: true
   },
   {
-    path: '/en/blog/tags/ia',
-    component: ComponentCreator('/en/blog/tags/ia', '640'),
+    path: '/blog/Agentes IA',
+    component: ComponentCreator('/blog/Agentes IA', 'c12'),
     exact: true
   },
   {
-    path: '/en/blog/tags/promp',
-    component: ComponentCreator('/en/blog/tags/promp', '37b'),
+    path: '/blog/archive',
+    component: ComponentCreator('/blog/archive', '182'),
     exact: true
   },
   {
-    path: '/en/blog/welcome',
-    component: ComponentCreator('/en/blog/welcome', '09a'),
+    path: '/blog/authors',
+    component: ComponentCreator('/blog/authors', '0b7'),
     exact: true
   },
   {
-    path: '/en/markdown-page',
-    component: ComponentCreator('/en/markdown-page', '63b'),
+    path: '/blog/authors/all-sebastien-lorber-articles',
+    component: ComponentCreator('/blog/authors/all-sebastien-lorber-articles', '495'),
     exact: true
   },
   {
-    path: '/en/search',
-    component: ComponentCreator('/en/search', '5d6'),
+    path: '/blog/authors/yangshun',
+    component: ComponentCreator('/blog/authors/yangshun', '7c6'),
     exact: true
   },
   {
-    path: '/en/docs',
-    component: ComponentCreator('/en/docs', '1f3'),
+    path: '/blog/tags',
+    component: ComponentCreator('/blog/tags', '287'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/buenas-practicas',
+    component: ComponentCreator('/blog/tags/buenas-practicas', 'e8f'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/ia',
+    component: ComponentCreator('/blog/tags/ia', '61d'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/promp',
+    component: ComponentCreator('/blog/tags/promp', '3b2'),
+    exact: true
+  },
+  {
+    path: '/blog/welcome',
+    component: ComponentCreator('/blog/welcome', '813'),
+    exact: true
+  },
+  {
+    path: '/markdown-page',
+    component: ComponentCreator('/markdown-page', '3d7'),
+    exact: true
+  },
+  {
+    path: '/search',
+    component: ComponentCreator('/search', '5de'),
+    exact: true
+  },
+  {
+    path: '/docs',
+    component: ComponentCreator('/docs', '8d1'),
     routes: [
       {
-        path: '/en/docs/1.0',
-        component: ComponentCreator('/en/docs/1.0', 'fdf'),
+        path: '/docs/1.0',
+        component: ComponentCreator('/docs/1.0', '00b'),
         routes: [
           {
-            path: '/en/docs/1.0',
-            component: ComponentCreator('/en/docs/1.0', 'a69'),
+            path: '/docs/1.0',
+            component: ComponentCreator('/docs/1.0', 'ddc'),
             routes: [
               {
-                path: '/en/docs/1.0/anexos',
-                component: ComponentCreator('/en/docs/1.0/anexos', '666'),
+                path: '/docs/1.0/anexos',
+                component: ComponentCreator('/docs/1.0/anexos', 'ee4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/conexiones/onedrive',
-                component: ComponentCreator('/en/docs/1.0/conexiones/onedrive', '2af'),
+                path: '/docs/1.0/conexiones/onedrive',
+                component: ComponentCreator('/docs/1.0/conexiones/onedrive', 'fc8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/conexiones/sharepoint',
-                component: ComponentCreator('/en/docs/1.0/conexiones/sharepoint', '6bd'),
+                path: '/docs/1.0/conexiones/sharepoint',
+                component: ComponentCreator('/docs/1.0/conexiones/sharepoint', 'ae0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/configuración/cuenta',
-                component: ComponentCreator('/en/docs/1.0/configuración/cuenta', '48e'),
+                path: '/docs/1.0/configuración/cuenta',
+                component: ComponentCreator('/docs/1.0/configuración/cuenta', '8b1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/configuración/perfil',
-                component: ComponentCreator('/en/docs/1.0/configuración/perfil', '1ed'),
+                path: '/docs/1.0/configuración/perfil',
+                component: ComponentCreator('/docs/1.0/configuración/perfil', '509'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/hello',
-                component: ComponentCreator('/en/docs/1.0/hello', 'f05'),
+                path: '/docs/1.0/hello',
+                component: ComponentCreator('/docs/1.0/hello', '78a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/integraciones/teams',
-                component: ComponentCreator('/en/docs/1.0/integraciones/teams', 'ec1'),
+                path: '/docs/1.0/integraciones/teams',
+                component: ComponentCreator('/docs/1.0/integraciones/teams', 'a05'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/integraciones/whatsapp',
-                component: ComponentCreator('/en/docs/1.0/integraciones/whatsapp', '7a8'),
+                path: '/docs/1.0/integraciones/whatsapp',
+                component: ComponentCreator('/docs/1.0/integraciones/whatsapp', '3c8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/intro',
-                component: ComponentCreator('/en/docs/1.0/intro', 'a55'),
+                path: '/docs/1.0/intro',
+                component: ComponentCreator('/docs/1.0/intro', '31e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/Paginas/AsistentesVirtuales',
-                component: ComponentCreator('/en/docs/1.0/Paginas/AsistentesVirtuales', '7c6'),
+                path: '/docs/1.0/Paginas/AsistentesVirtuales',
+                component: ComponentCreator('/docs/1.0/Paginas/AsistentesVirtuales', 'b06'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/Paginas/Chats',
-                component: ComponentCreator('/en/docs/1.0/Paginas/Chats', '8de'),
+                path: '/docs/1.0/Paginas/Chats',
+                component: ComponentCreator('/docs/1.0/Paginas/Chats', '7b0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/Paginas/conversaciones',
-                component: ComponentCreator('/en/docs/1.0/Paginas/conversaciones', 'ff9'),
+                path: '/docs/1.0/Paginas/conversaciones',
+                component: ComponentCreator('/docs/1.0/Paginas/conversaciones', '349'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/Paginas/Dashboard',
-                component: ComponentCreator('/en/docs/1.0/Paginas/Dashboard', '429'),
+                path: '/docs/1.0/Paginas/Dashboard',
+                component: ComponentCreator('/docs/1.0/Paginas/Dashboard', '2f2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/Paginas/equipos',
-                component: ComponentCreator('/en/docs/1.0/Paginas/equipos', '9a7'),
+                path: '/docs/1.0/Paginas/equipos',
+                component: ComponentCreator('/docs/1.0/Paginas/equipos', '51b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/Paginas/seguridad',
-                component: ComponentCreator('/en/docs/1.0/Paginas/seguridad', '783'),
+                path: '/docs/1.0/Paginas/seguridad',
+                component: ComponentCreator('/docs/1.0/Paginas/seguridad', 'dd0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/Secciones/Anexos',
-                component: ComponentCreator('/en/docs/1.0/Secciones/Anexos', '4f8'),
+                path: '/docs/1.0/Secciones/Anexos',
+                component: ComponentCreator('/docs/1.0/Secciones/Anexos', '7b8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/Secciones/Arquitectura',
-                component: ComponentCreator('/en/docs/1.0/Secciones/Arquitectura', '915'),
+                path: '/docs/1.0/Secciones/Arquitectura',
+                component: ComponentCreator('/docs/1.0/Secciones/Arquitectura', '20d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/Secciones/Confidencialidad',
-                component: ComponentCreator('/en/docs/1.0/Secciones/Confidencialidad', 'f18'),
+                path: '/docs/1.0/Secciones/Confidencialidad',
+                component: ComponentCreator('/docs/1.0/Secciones/Confidencialidad', '29e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/Secciones/log',
-                component: ComponentCreator('/en/docs/1.0/Secciones/log', 'bdd'),
+                path: '/docs/1.0/Secciones/log',
+                component: ComponentCreator('/docs/1.0/Secciones/log', 'a73'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/Secciones/mantenimiento',
-                component: ComponentCreator('/en/docs/1.0/Secciones/mantenimiento', '117'),
+                path: '/docs/1.0/Secciones/mantenimiento',
+                component: ComponentCreator('/docs/1.0/Secciones/mantenimiento', 'c69'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/Secciones/operaciones',
-                component: ComponentCreator('/en/docs/1.0/Secciones/operaciones', 'f88'),
+                path: '/docs/1.0/Secciones/operaciones',
+                component: ComponentCreator('/docs/1.0/Secciones/operaciones', '59b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/Secciones/seguridad',
-                component: ComponentCreator('/en/docs/1.0/Secciones/seguridad', '38f'),
+                path: '/docs/1.0/Secciones/seguridad',
+                component: ComponentCreator('/docs/1.0/Secciones/seguridad', '3d5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/terminosycondiciones',
-                component: ComponentCreator('/en/docs/1.0/terminosycondiciones', 'ee6'),
+                path: '/docs/1.0/terminosycondiciones',
+                component: ComponentCreator('/docs/1.0/terminosycondiciones', 'd14'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/uso/consola',
-                component: ComponentCreator('/en/docs/1.0/uso/consola', 'f1f'),
+                path: '/docs/1.0/uso/consola',
+                component: ComponentCreator('/docs/1.0/uso/consola', '0e0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/1.0/uso/sso',
-                component: ComponentCreator('/en/docs/1.0/uso/sso', 'c08'),
+                path: '/docs/1.0/uso/sso',
+                component: ComponentCreator('/docs/1.0/uso/sso', 'a92'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -234,118 +269,142 @@ export default [
         ]
       },
       {
-        path: '/en/docs/2.0.0',
-        component: ComponentCreator('/en/docs/2.0.0', '940'),
+        path: '/docs/2.0.0',
+        component: ComponentCreator('/docs/2.0.0', '907'),
         routes: [
           {
-            path: '/en/docs/2.0.0',
-            component: ComponentCreator('/en/docs/2.0.0', '26b'),
+            path: '/docs/2.0.0',
+            component: ComponentCreator('/docs/2.0.0', 'd37'),
             routes: [
               {
-                path: '/en/docs/2.0.0/category/empieza-ahora',
-                component: ComponentCreator('/en/docs/2.0.0/category/empieza-ahora', '222'),
+                path: '/docs/2.0.0/category/empieza-ahora',
+                component: ComponentCreator('/docs/2.0.0/category/empieza-ahora', 'a4c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/2.0.0/ConfiguracióndeEntorno/onbording',
-                component: ComponentCreator('/en/docs/2.0.0/ConfiguracióndeEntorno/onbording', 'b14'),
+                path: '/docs/2.0.0/ConfiguracióndeEntorno/onbording',
+                component: ComponentCreator('/docs/2.0.0/ConfiguracióndeEntorno/onbording', 'b43'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/2.0.0/ConfiguracióndeEntorno/primer',
-                component: ComponentCreator('/en/docs/2.0.0/ConfiguracióndeEntorno/primer', '1a6'),
+                path: '/docs/2.0.0/ConfiguracióndeEntorno/primer',
+                component: ComponentCreator('/docs/2.0.0/ConfiguracióndeEntorno/primer', 'cd5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/2.0.0/intro',
-                component: ComponentCreator('/en/docs/2.0.0/intro', '9c8'),
+                path: '/docs/2.0.0/intro',
+                component: ComponentCreator('/docs/2.0.0/intro', '950'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/2.0.0/Plataforma/agentes/',
-                component: ComponentCreator('/en/docs/2.0.0/Plataforma/agentes/', '8fc'),
+                path: '/docs/2.0.0/Plataforma/agentes/',
+                component: ComponentCreator('/docs/2.0.0/Plataforma/agentes/', '2ab'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/2.0.0/Plataforma/agentes/administrar',
-                component: ComponentCreator('/en/docs/2.0.0/Plataforma/agentes/administrar', '045'),
+                path: '/docs/2.0.0/Plataforma/agentes/administrar',
+                component: ComponentCreator('/docs/2.0.0/Plataforma/agentes/administrar', '190'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/2.0.0/Plataforma/agentes/chats',
-                component: ComponentCreator('/en/docs/2.0.0/Plataforma/agentes/chats', '379'),
+                path: '/docs/2.0.0/Plataforma/agentes/chats',
+                component: ComponentCreator('/docs/2.0.0/Plataforma/agentes/chats', 'f26'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/2.0.0/Plataforma/agentes/crear',
-                component: ComponentCreator('/en/docs/2.0.0/Plataforma/agentes/crear', '173'),
+                path: '/docs/2.0.0/Plataforma/agentes/crear',
+                component: ComponentCreator('/docs/2.0.0/Plataforma/agentes/crear', 'f79'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/2.0.0/Plataforma/dashboard/estadisticas',
-                component: ComponentCreator('/en/docs/2.0.0/Plataforma/dashboard/estadisticas', '2cc'),
+                path: '/docs/2.0.0/Plataforma/agentes/editar/',
+                component: ComponentCreator('/docs/2.0.0/Plataforma/agentes/editar/', '90a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/2.0.0/Plataforma/dashboard/midainaa',
-                component: ComponentCreator('/en/docs/2.0.0/Plataforma/dashboard/midainaa', 'b81'),
+                path: '/docs/2.0.0/Plataforma/agentes/editar/consola',
+                component: ComponentCreator('/docs/2.0.0/Plataforma/agentes/editar/consola', '67e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/2.0.0/Plataforma/dashboard/reportes',
-                component: ComponentCreator('/en/docs/2.0.0/Plataforma/dashboard/reportes', '46a'),
+                path: '/docs/2.0.0/Plataforma/agentes/editar/integraciones/teams',
+                component: ComponentCreator('/docs/2.0.0/Plataforma/agentes/editar/integraciones/teams', 'e7a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/2.0.0/Plataforma/gestion/',
-                component: ComponentCreator('/en/docs/2.0.0/Plataforma/gestion/', 'd3d'),
+                path: '/docs/2.0.0/Plataforma/agentes/editar/integraciones/whatsapp',
+                component: ComponentCreator('/docs/2.0.0/Plataforma/agentes/editar/integraciones/whatsapp', '7a8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/2.0.0/Plataforma/gestion/acceso',
-                component: ComponentCreator('/en/docs/2.0.0/Plataforma/gestion/acceso', '431'),
+                path: '/docs/2.0.0/Plataforma/dashboard/estadisticas',
+                component: ComponentCreator('/docs/2.0.0/Plataforma/dashboard/estadisticas', 'fd5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/2.0.0/Plataforma/gestion/equipo',
-                component: ComponentCreator('/en/docs/2.0.0/Plataforma/gestion/equipo', '666'),
+                path: '/docs/2.0.0/Plataforma/dashboard/reportes',
+                component: ComponentCreator('/docs/2.0.0/Plataforma/dashboard/reportes', '4ae'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/2.0.0/Plataforma/gestion/rol',
-                component: ComponentCreator('/en/docs/2.0.0/Plataforma/gestion/rol', '578'),
+                path: '/docs/2.0.0/Plataforma/gestion/',
+                component: ComponentCreator('/docs/2.0.0/Plataforma/gestion/', 'd4a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/2.0.0/Plataforma/gestion/usuarios',
-                component: ComponentCreator('/en/docs/2.0.0/Plataforma/gestion/usuarios', 'e60'),
+                path: '/docs/2.0.0/Plataforma/gestion/acceso',
+                component: ComponentCreator('/docs/2.0.0/Plataforma/gestion/acceso', 'fbe'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/2.0.0/Plataforma/historial',
-                component: ComponentCreator('/en/docs/2.0.0/Plataforma/historial', '736'),
+                path: '/docs/2.0.0/Plataforma/gestion/equipo',
+                component: ComponentCreator('/docs/2.0.0/Plataforma/gestion/equipo', '432'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/en/docs/2.0.0/Plataforma/wizzard',
-                component: ComponentCreator('/en/docs/2.0.0/Plataforma/wizzard', 'b9e'),
+                path: '/docs/2.0.0/Plataforma/gestion/rol',
+                component: ComponentCreator('/docs/2.0.0/Plataforma/gestion/rol', '8d3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/2.0.0/Plataforma/gestion/usuarios',
+                component: ComponentCreator('/docs/2.0.0/Plataforma/gestion/usuarios', '032'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/2.0.0/Plataforma/historial',
+                component: ComponentCreator('/docs/2.0.0/Plataforma/historial', 'ce9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/2.0.0/Plataforma/perfil',
+                component: ComponentCreator('/docs/2.0.0/Plataforma/perfil', 'e05'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/2.0.0/Plataforma/wizzard',
+                component: ComponentCreator('/docs/2.0.0/Plataforma/wizzard', '9b9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -356,26 +415,26 @@ export default [
     ]
   },
   {
-    path: '/en/ReleaseNotes',
-    component: ComponentCreator('/en/ReleaseNotes', '4c3'),
+    path: '/ReleaseNotes',
+    component: ComponentCreator('/ReleaseNotes', 'c9e'),
     routes: [
       {
-        path: '/en/ReleaseNotes',
-        component: ComponentCreator('/en/ReleaseNotes', '1e2'),
+        path: '/ReleaseNotes',
+        component: ComponentCreator('/ReleaseNotes', 'a11'),
         routes: [
           {
-            path: '/en/ReleaseNotes',
-            component: ComponentCreator('/en/ReleaseNotes', 'ee3'),
+            path: '/ReleaseNotes',
+            component: ComponentCreator('/ReleaseNotes', '446'),
             routes: [
               {
-                path: '/en/ReleaseNotes/',
-                component: ComponentCreator('/en/ReleaseNotes/', 'f0e'),
+                path: '/ReleaseNotes/',
+                component: ComponentCreator('/ReleaseNotes/', '4ee'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/en/ReleaseNotes/110',
-                component: ComponentCreator('/en/ReleaseNotes/110', 'a0c'),
+                path: '/ReleaseNotes/110',
+                component: ComponentCreator('/ReleaseNotes/110', '787'),
                 exact: true,
                 sidebar: "defaultSidebar"
               }
@@ -386,104 +445,104 @@ export default [
     ]
   },
   {
-    path: '/en/Studio',
-    component: ComponentCreator('/en/Studio', 'd55'),
+    path: '/Studio',
+    component: ComponentCreator('/Studio', '2ab'),
     routes: [
       {
-        path: '/en/Studio',
-        component: ComponentCreator('/en/Studio', '22a'),
+        path: '/Studio',
+        component: ComponentCreator('/Studio', '7f4'),
         routes: [
           {
-            path: '/en/Studio',
-            component: ComponentCreator('/en/Studio', '18d'),
+            path: '/Studio',
+            component: ComponentCreator('/Studio', '0ce'),
             routes: [
               {
-                path: '/en/Studio/',
-                component: ComponentCreator('/en/Studio/', '750'),
+                path: '/Studio/',
+                component: ComponentCreator('/Studio/', '0a8'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/en/Studio/entrenamiento/',
-                component: ComponentCreator('/en/Studio/entrenamiento/', '674'),
+                path: '/Studio/entrenamiento/',
+                component: ComponentCreator('/Studio/entrenamiento/', '401'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/en/Studio/entrenamiento/Develop',
-                component: ComponentCreator('/en/Studio/entrenamiento/Develop', 'fa4'),
+                path: '/Studio/entrenamiento/Develop',
+                component: ComponentCreator('/Studio/entrenamiento/Develop', '466'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/en/Studio/entrenamiento/general',
-                component: ComponentCreator('/en/Studio/entrenamiento/general', '3cf'),
+                path: '/Studio/entrenamiento/general',
+                component: ComponentCreator('/Studio/entrenamiento/general', '5f9'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/en/Studio/entrenamiento/nodos',
-                component: ComponentCreator('/en/Studio/entrenamiento/nodos', '630'),
+                path: '/Studio/entrenamiento/nodos',
+                component: ComponentCreator('/Studio/entrenamiento/nodos', 'c40'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/en/Studio/entrenamiento/rag',
-                component: ComponentCreator('/en/Studio/entrenamiento/rag', 'ab2'),
+                path: '/Studio/entrenamiento/rag',
+                component: ComponentCreator('/Studio/entrenamiento/rag', '55d'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/en/Studio/secciones/',
-                component: ComponentCreator('/en/Studio/secciones/', 'fb7'),
+                path: '/Studio/secciones/',
+                component: ComponentCreator('/Studio/secciones/', '352'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/en/Studio/secciones/agentsflows/',
-                component: ComponentCreator('/en/Studio/secciones/agentsflows/', '34c'),
+                path: '/Studio/secciones/agentsflows/',
+                component: ComponentCreator('/Studio/secciones/agentsflows/', '84c'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/en/Studio/secciones/agentsflows/Multi-Agents',
-                component: ComponentCreator('/en/Studio/secciones/agentsflows/Multi-Agents', 'bba'),
+                path: '/Studio/secciones/agentsflows/Multi-Agents',
+                component: ComponentCreator('/Studio/secciones/agentsflows/Multi-Agents', 'e29'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/en/Studio/secciones/agentsflows/sequential-agents',
-                component: ComponentCreator('/en/Studio/secciones/agentsflows/sequential-agents', 'd3e'),
+                path: '/Studio/secciones/agentsflows/sequential-agents',
+                component: ComponentCreator('/Studio/secciones/agentsflows/sequential-agents', 'c29'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/en/Studio/secciones/api/',
-                component: ComponentCreator('/en/Studio/secciones/api/', 'f0f'),
+                path: '/Studio/secciones/api/',
+                component: ComponentCreator('/Studio/secciones/api/', 'eef'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/en/Studio/secciones/chatflows',
-                component: ComponentCreator('/en/Studio/secciones/chatflows', '12e'),
+                path: '/Studio/secciones/chatflows',
+                component: ComponentCreator('/Studio/secciones/chatflows', 'c00'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/en/Studio/secciones/docs',
-                component: ComponentCreator('/en/Studio/secciones/docs', '03a'),
+                path: '/Studio/secciones/docs',
+                component: ComponentCreator('/Studio/secciones/docs', '348'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/en/Studio/secciones/embled',
-                component: ComponentCreator('/en/Studio/secciones/embled', '376'),
+                path: '/Studio/secciones/embled',
+                component: ComponentCreator('/Studio/secciones/embled', 'a9b'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/en/Studio/secciones/variables',
-                component: ComponentCreator('/en/Studio/secciones/variables', '649'),
+                path: '/Studio/secciones/variables',
+                component: ComponentCreator('/Studio/secciones/variables', '7af'),
                 exact: true,
                 sidebar: "defaultSidebar"
               }
@@ -494,8 +553,8 @@ export default [
     ]
   },
   {
-    path: '/en/',
-    component: ComponentCreator('/en/', '6c2'),
+    path: '/',
+    component: ComponentCreator('/', 'e5f'),
     exact: true
   },
   {

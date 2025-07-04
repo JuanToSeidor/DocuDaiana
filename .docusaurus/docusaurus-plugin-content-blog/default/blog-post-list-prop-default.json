@@ -3,13 +3,13 @@
   "items": [
     {
       "title": "Buenas prácticas",
-      "permalink": "/en/blog/welcome",
+      "permalink": "/blog/welcome",
       "unlisted": false,
       "date": "2025-07-03T19:22:11.000Z"
     },
     {
       "title": "IA en acción: productividad sin límites",
-      "permalink": "/en/blog/Agentes IA",
+      "permalink": "/blog/Agentes IA",
       "unlisted": false,
       "date": "2025-07-03T19:22:11.000Z"
     }

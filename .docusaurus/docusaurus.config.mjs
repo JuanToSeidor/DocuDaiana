@@ -8,7 +8,7 @@ export default {
   "tagline": "Simplifica tu atención al cliente con un chatbot Inteligente",
   "favicon": "img/favicon.ico",
   "url": "https://docudaina.netlify.app",
-  "baseUrl": "/en/",
+  "baseUrl": "/",
   "organizationName": "Seidor",
   "projectName": "Daiana Docs",
   "onBrokenLinks": "ignore",
@@ -141,12 +141,6 @@ export default {
           "type": "docsVersionDropdown",
           "position": "right",
           "label": "Version",
-          "dropdownItemsBefore": [],
-          "dropdownItemsAfter": []
-        },
-        {
-          "type": "localeDropdown",
-          "position": "right",
           "dropdownItemsBefore": [],
           "dropdownItemsAfter": []
         }

@@ -5,7 +5,7 @@
   "source": "@site/docs/Plataforma/gestion/index.md",
   "sourceDirName": "Plataforma/gestion",
   "slug": "/Plataforma/gestion/",
-  "permalink": "/en/docs/2.0.0/Plataforma/gestion/",
+  "permalink": "/docs/2.0.0/Plataforma/gestion/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/gestion/index.md",
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Crear agente",
-    "permalink": "/en/docs/2.0.0/Plataforma/agentes/crear"
+    "title": "WhatsApp",
+    "permalink": "/docs/2.0.0/Plataforma/agentes/editar/integraciones/whatsapp"
   },
   "next": {
     "title": "Equipo",
-    "permalink": "/en/docs/2.0.0/Plataforma/gestion/equipo"
+    "permalink": "/docs/2.0.0/Plataforma/gestion/equipo"
   }
 }

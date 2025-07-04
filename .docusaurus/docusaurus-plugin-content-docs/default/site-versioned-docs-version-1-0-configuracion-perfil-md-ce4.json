@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-1.0/configuración/perfil.md",
   "sourceDirName": "configuración",
   "slug": "/configuración/perfil",
-  "permalink": "/en/docs/1.0/configuración/perfil",
+  "permalink": "/docs/1.0/configuración/perfil",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/configuración/perfil.md",
@@ -21,10 +21,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "WhatsApp",
-    "permalink": "/en/docs/1.0/integraciones/whatsapp"
+    "permalink": "/docs/1.0/integraciones/whatsapp"
   },
   "next": {
     "title": "Cuenta",
-    "permalink": "/en/docs/1.0/configuración/cuenta"
+    "permalink": "/docs/1.0/configuración/cuenta"
   }
 }

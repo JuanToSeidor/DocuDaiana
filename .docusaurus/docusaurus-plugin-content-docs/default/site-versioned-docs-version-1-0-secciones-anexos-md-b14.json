@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-1.0/Secciones/Anexos.md",
   "sourceDirName": "Secciones",
   "slug": "/Secciones/Anexos",
-  "permalink": "/en/docs/1.0/Secciones/Anexos",
+  "permalink": "/docs/1.0/Secciones/Anexos",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/Secciones/Anexos.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Registros de cambios",
-    "permalink": "/en/docs/1.0/Secciones/log"
+    "permalink": "/docs/1.0/Secciones/log"
   },
   "next": {
     "title": "Dashboard",
-    "permalink": "/en/docs/1.0/Paginas/Dashboard"
+    "permalink": "/docs/1.0/Paginas/Dashboard"
   }
 }

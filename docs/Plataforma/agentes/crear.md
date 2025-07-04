@@ -1,6 +1,7 @@
 ---
 title: Crear agente
 iconName: "chats"
+sidebar_position: 3
 ---
 import {Banerimg} from '../../../Studio/efectsstudio.tsx'
 

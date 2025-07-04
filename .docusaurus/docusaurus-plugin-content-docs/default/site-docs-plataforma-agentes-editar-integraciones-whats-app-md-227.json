@@ -1,0 +1,24 @@
+{
+  "id": "Plataforma/agentes/editar/integraciones/WhatsApp",
+  "title": "WhatsApp",
+  "description": "",
+  "source": "@site/docs/Plataforma/agentes/editar/integraciones/WhatsApp.md",
+  "sourceDirName": "Plataforma/agentes/editar/integraciones",
+  "slug": "/Plataforma/agentes/editar/integraciones/WhatsApp",
+  "permalink": "/docs/2.0.0/Plataforma/agentes/editar/integraciones/WhatsApp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/agentes/editar/integraciones/WhatsApp.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Consola de entrenamiento",
+    "permalink": "/docs/2.0.0/Plataforma/agentes/editar/consola"
+  },
+  "next": {
+    "title": "teams",
+    "permalink": "/docs/2.0.0/Plataforma/agentes/editar/integraciones/teams"
+  }
+}

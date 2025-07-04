@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-1.0/Paginas/seguridad.md",
   "sourceDirName": "Paginas",
   "slug": "/Paginas/seguridad",
-  "permalink": "/en/docs/1.0/Paginas/seguridad",
+  "permalink": "/docs/1.0/Paginas/seguridad",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/Paginas/seguridad.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Equipos",
-    "permalink": "/en/docs/1.0/Paginas/equipos"
+    "permalink": "/docs/1.0/Paginas/equipos"
   },
   "next": {
     "title": "Conversaciones",
-    "permalink": "/en/docs/1.0/Paginas/conversaciones"
+    "permalink": "/docs/1.0/Paginas/conversaciones"
   }
 }

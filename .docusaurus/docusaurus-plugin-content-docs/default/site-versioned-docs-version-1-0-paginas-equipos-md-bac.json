@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-1.0/Paginas/equipos.md",
   "sourceDirName": "Paginas",
   "slug": "/Paginas/equipos",
-  "permalink": "/en/docs/1.0/Paginas/equipos",
+  "permalink": "/docs/1.0/Paginas/equipos",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/Paginas/equipos.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chats",
-    "permalink": "/en/docs/1.0/Paginas/Chats"
+    "permalink": "/docs/1.0/Paginas/Chats"
   },
   "next": {
     "title": "Seguridad",
-    "permalink": "/en/docs/1.0/Paginas/seguridad"
+    "permalink": "/docs/1.0/Paginas/seguridad"
   }
 }

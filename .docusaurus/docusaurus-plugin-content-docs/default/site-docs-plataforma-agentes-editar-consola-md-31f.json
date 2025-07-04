@@ -1,0 +1,29 @@
+{
+  "id": "Plataforma/agentes/editar/consola",
+  "title": "Consola de entrenamiento",
+  "description": "",
+  "source": "@site/docs/Plataforma/agentes/editar/consola.md",
+  "sourceDirName": "Plataforma/agentes/editar",
+  "slug": "/Plataforma/agentes/editar/consola",
+  "permalink": "/docs/2.0.0/Plataforma/agentes/editar/consola",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/agentes/editar/consola.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Consola de entrenamiento",
+    "iconName": "code",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Editar agentes",
+    "permalink": "/docs/2.0.0/Plataforma/agentes/editar/"
+  },
+  "next": {
+    "title": "Microsoft Teams",
+    "permalink": "/docs/2.0.0/Plataforma/agentes/editar/integraciones/teams"
+  }
+}

@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-1.0/Paginas/conversaciones.md",
   "sourceDirName": "Paginas",
   "slug": "/Paginas/conversaciones",
-  "permalink": "/en/docs/1.0/Paginas/conversaciones",
+  "permalink": "/docs/1.0/Paginas/conversaciones",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/Paginas/conversaciones.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Seguridad",
-    "permalink": "/en/docs/1.0/Paginas/seguridad"
+    "permalink": "/docs/1.0/Paginas/seguridad"
   },
   "next": {
     "title": "SharePoint",
-    "permalink": "/en/docs/1.0/conexiones/sharepoint"
+    "permalink": "/docs/1.0/conexiones/sharepoint"
   }
 }

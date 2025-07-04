@@ -1,0 +1,25 @@
+{
+  "id": "Plataforma/perfil",
+  "title": "Perfil",
+  "description": "La sección Perfil permite a cada usuario personalizar su experiencia en Daiana y gestionar datos personales de manera sencilla y segura.",
+  "source": "@site/docs/Plataforma/perfil.md",
+  "sourceDirName": "Plataforma",
+  "slug": "/Plataforma/perfil",
+  "permalink": "/docs/2.0.0/Plataforma/perfil",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/perfil.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Perfil",
+    "iconName": "user",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wizard de Agentes",
+    "permalink": "/docs/2.0.0/Plataforma/wizzard"
+  }
+}

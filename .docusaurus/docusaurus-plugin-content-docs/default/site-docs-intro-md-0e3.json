@@ -5,7 +5,7 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/en/docs/2.0.0/intro",
+  "permalink": "/docs/2.0.0/intro",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/intro.md",
@@ -21,6 +21,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Empieza ahora",
-    "permalink": "/en/docs/2.0.0/category/empieza-ahora"
+    "permalink": "/docs/2.0.0/category/empieza-ahora"
   }
 }

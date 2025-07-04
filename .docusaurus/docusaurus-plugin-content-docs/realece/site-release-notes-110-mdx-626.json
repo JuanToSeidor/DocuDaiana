@@ -5,7 +5,7 @@
   "source": "@site/ReleaseNotes/110.mdx",
   "sourceDirName": ".",
   "slug": "/110",
-  "permalink": "/en/ReleaseNotes/110",
+  "permalink": "/ReleaseNotes/110",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,6 +16,6 @@
   "sidebar": "defaultSidebar",
   "previous": {
     "title": "Release Notes",
-    "permalink": "/en/ReleaseNotes/"
+    "permalink": "/ReleaseNotes/"
   }
 }

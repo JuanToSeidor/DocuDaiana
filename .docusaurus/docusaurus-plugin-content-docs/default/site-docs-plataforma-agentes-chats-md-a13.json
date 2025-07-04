@@ -5,7 +5,7 @@
   "source": "@site/docs/Plataforma/agentes/chats.md",
   "sourceDirName": "Plataforma/agentes",
   "slug": "/Plataforma/agentes/chats",
-  "permalink": "/en/docs/2.0.0/Plataforma/agentes/chats",
+  "permalink": "/docs/2.0.0/Plataforma/agentes/chats",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/agentes/chats.md",
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Agentes",
-    "permalink": "/en/docs/2.0.0/Plataforma/agentes/"
+    "permalink": "/docs/2.0.0/Plataforma/agentes/"
   },
   "next": {
     "title": "Administrar",
-    "permalink": "/en/docs/2.0.0/Plataforma/agentes/administrar"
+    "permalink": "/docs/2.0.0/Plataforma/agentes/administrar"
   }
 }

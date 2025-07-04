@@ -153,10 +153,7 @@ const config: Config = {
           position: 'right',
           label: 'Version'
         },
-        {
-          type: 'localeDropdown',
-          position: 'right'
-        },
+        
       ],
     },
     footer: {

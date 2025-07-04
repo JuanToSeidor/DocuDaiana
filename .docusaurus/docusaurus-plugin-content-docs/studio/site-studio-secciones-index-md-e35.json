@@ -5,7 +5,7 @@
   "source": "@site/Studio/secciones/index.md",
   "sourceDirName": "secciones",
   "slug": "/secciones/",
-  "permalink": "/en/Studio/secciones/",
+  "permalink": "/Studio/secciones/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "defaultSidebar",
   "previous": {
     "title": "Daiana Studio",
-    "permalink": "/en/Studio/"
+    "permalink": "/Studio/"
   },
   "next": {
     "title": "Chatflows",
-    "permalink": "/en/Studio/secciones/chatflows"
+    "permalink": "/Studio/secciones/chatflows"
   }
 }

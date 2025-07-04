@@ -1,0 +1,27 @@
+{
+  "id": "Plataforma/agentes/editar/index",
+  "title": "Editar agentes",
+  "description": "La pantalla Editar Agente permite modificar todas las configuraciones existentes de un agente ya creado, así como acceder a opciones avanzadas que no están disponibles durante la creación inicial.",
+  "source": "@site/docs/Plataforma/agentes/editar/index.md",
+  "sourceDirName": "Plataforma/agentes/editar",
+  "slug": "/Plataforma/agentes/editar/",
+  "permalink": "/docs/2.0.0/Plataforma/agentes/editar/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/agentes/editar/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Editar agentes",
+    "iconName": "gear"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Crear agente",
+    "permalink": "/docs/2.0.0/Plataforma/agentes/crear"
+  },
+  "next": {
+    "title": "Consola de entrenamiento",
+    "permalink": "/docs/2.0.0/Plataforma/agentes/editar/consola"
+  }
+}

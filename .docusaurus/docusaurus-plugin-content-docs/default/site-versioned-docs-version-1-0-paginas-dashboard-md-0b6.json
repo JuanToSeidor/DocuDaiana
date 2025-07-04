@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-1.0/Paginas/Dashboard.md",
   "sourceDirName": "Paginas",
   "slug": "/Paginas/Dashboard",
-  "permalink": "/en/docs/1.0/Paginas/Dashboard",
+  "permalink": "/docs/1.0/Paginas/Dashboard",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/versioned_docs/version-1.0/Paginas/Dashboard.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Anexos",
-    "permalink": "/en/docs/1.0/Secciones/Anexos"
+    "permalink": "/docs/1.0/Secciones/Anexos"
   },
   "next": {
     "title": "Asistentes Virtuales",
-    "permalink": "/en/docs/1.0/Paginas/AsistentesVirtuales"
+    "permalink": "/docs/1.0/Paginas/AsistentesVirtuales"
   }
 }

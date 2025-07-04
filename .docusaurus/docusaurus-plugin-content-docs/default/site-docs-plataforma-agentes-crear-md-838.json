@@ -5,23 +5,25 @@
   "source": "@site/docs/Plataforma/agentes/crear.md",
   "sourceDirName": "Plataforma/agentes",
   "slug": "/Plataforma/agentes/crear",
-  "permalink": "/en/docs/2.0.0/Plataforma/agentes/crear",
+  "permalink": "/docs/2.0.0/Plataforma/agentes/crear",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/agentes/crear.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 3,
   "frontMatter": {
     "title": "Crear agente",
-    "iconName": "chats"
+    "iconName": "chats",
+    "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Administrar",
-    "permalink": "/en/docs/2.0.0/Plataforma/agentes/administrar"
+    "permalink": "/docs/2.0.0/Plataforma/agentes/administrar"
   },
   "next": {
-    "title": "Gestión de Plataforma",
-    "permalink": "/en/docs/2.0.0/Plataforma/gestion/"
+    "title": "Editar agentes",
+    "permalink": "/docs/2.0.0/Plataforma/agentes/editar/"
   }
 }

@@ -1,6 +1,7 @@
 ---
 title: Agentes
 iconName: "chats"
+
 ---
 import {Banerimg} from '../../../Studio/efectsstudio.tsx'
 import {Cardcre} from '../../cards/cards.tsx'

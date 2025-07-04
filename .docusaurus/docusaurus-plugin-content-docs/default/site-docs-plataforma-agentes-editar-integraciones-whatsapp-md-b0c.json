@@ -1,0 +1,28 @@
+{
+  "id": "Plataforma/agentes/editar/integraciones/whatsapp",
+  "title": "WhatsApp",
+  "description": "Introducción",
+  "source": "@site/docs/Plataforma/agentes/editar/integraciones/whatsapp.md",
+  "sourceDirName": "Plataforma/agentes/editar/integraciones",
+  "slug": "/Plataforma/agentes/editar/integraciones/whatsapp",
+  "permalink": "/docs/2.0.0/Plataforma/agentes/editar/integraciones/whatsapp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/agentes/editar/integraciones/whatsapp.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WhatsApp",
+    "iconName": "Whatsapp",
+    "useBrand": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Microsoft Teams",
+    "permalink": "/docs/2.0.0/Plataforma/agentes/editar/integraciones/teams"
+  },
+  "next": {
+    "title": "Gestión de Plataforma",
+    "permalink": "/docs/2.0.0/Plataforma/gestion/"
+  }
+}

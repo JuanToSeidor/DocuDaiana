@@ -1,5 +1,5 @@
 {
-  "permalink": "/en/blog/Agentes IA",
+  "permalink": "/blog/Agentes IA",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/resoluciondeproblemas.md",
   "source": "@site/blog/resoluciondeproblemas.md",
   "title": "IA en acción: productividad sin límites",
@@ -9,17 +9,17 @@
     {
       "inline": true,
       "label": "Buenas prácticas",
-      "permalink": "/en/blog/tags/buenas-practicas"
+      "permalink": "/blog/tags/buenas-practicas"
     },
     {
       "inline": true,
       "label": "promp",
-      "permalink": "/en/blog/tags/promp"
+      "permalink": "/blog/tags/promp"
     },
     {
       "inline": true,
       "label": "IA",
-      "permalink": "/en/blog/tags/ia"
+      "permalink": "/blog/tags/ia"
     }
   ],
   "readingTime": 2.38,
@@ -37,6 +37,6 @@
   "unlisted": false,
   "prevItem": {
     "title": "Buenas prácticas",
-    "permalink": "/en/blog/welcome"
+    "permalink": "/blog/welcome"
   }
 }
