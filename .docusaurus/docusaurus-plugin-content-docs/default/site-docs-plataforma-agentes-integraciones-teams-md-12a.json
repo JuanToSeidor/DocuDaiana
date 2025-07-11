@@ -1,0 +1,30 @@
+{
+  "id": "Plataforma/agentes/integraciones/teams",
+  "title": "Microsoft Teams",
+  "description": "Integracion con Microsoft Teams.",
+  "source": "@site/docs/Plataforma/agentes/integraciones/teams.md",
+  "sourceDirName": "Plataforma/agentes/integraciones",
+  "slug": "/Plataforma/agentes/integraciones/teams",
+  "permalink": "/docs/2.0.0/Plataforma/agentes/integraciones/teams",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/JuanToSeidor/DocuDaiana/tree/master/docs/Plataforma/agentes/integraciones/teams.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Microsoft Teams",
+    "iconName": "Teams",
+    "useBrand": true,
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Consola de entrenamiento",
+    "permalink": "/docs/2.0.0/Plataforma/agentes/editar/consola"
+  },
+  "next": {
+    "title": "WhatsApp",
+    "permalink": "/docs/2.0.0/Plataforma/agentes/integraciones/whatsapp"
+  }
+}

@@ -4,77 +4,76 @@ import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 import Link from '@docusaurus/Link';
 import config from '@site/docusaurus.config';
-
+import Translate from '@docusaurus/Translate';
 
 type FeatureItem = {
-  title: string;
- description: ReactNode;
+  title: ReactNode;
+  description: ReactNode;
   img: string;
   link: string;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Get started',
+    title: <Translate id="homepage.feature.getStarted.title">Comenzar</Translate>,
     img: './img/index/Start.png',
     description: (
-      <>
-        Welcome to Daiana docs. get started faster by learn some basic
-      </>
+      <Translate id="homepage.feature.getStarted.description">
+        Bienvenido a la documentación de Daiana. Comienza rápidamente aprendiendo lo básico.
+      </Translate>
     ),
     link: 'intro'
   },
   {
-    title: 'Agents',
+    title: <Translate id="homepage.feature.agents.title">Agentes</Translate>,
     img: './img/index/agent.png',
     description: (
-      <>
-        Welcome to Daiana docs. get started faster by learn some basic
-      </>
+      <Translate id="homepage.feature.agents.description">
+        Descubre cómo funcionan los agentes en Daiana y cómo configurarlos.
+      </Translate>
     ),
     link: 'intro'
   },
   {
-    title: 'Knowledge bases',
+    title: <Translate id="homepage.feature.knowledgeBases.title">Bases de conocimiento</Translate>,
     img: './img/index/knowledge.png',
     description: (
-      <>
-        Welcome to Daiana docs. get started faster by learn some basic
-      </>
+      <Translate id="homepage.feature.knowledgeBases.description">
+        Aprende a gestionar y utilizar bases de conocimiento en Daiana.
+      </Translate>
     ),
     link: 'intro'
   },
   {
-    title: 'Integrations',
+    title: <Translate id="homepage.feature.integrations.title">Integraciones</Translate>,
     img: './img/index/integrations.png',
     description: (
-      <>
-        Welcome to Daiana docs. get started faster by learn some basic
-      </>
+      <Translate id="homepage.feature.integrations.description">
+        Conoce las integraciones disponibles y cómo conectarlas con Daiana.
+      </Translate>
     ),
     link: 'intro'
   },
   {
-    title: 'Reports and dashboards',
+    title: <Translate id="homepage.feature.reports.title">Reportes y tableros</Translate>,
     img: './img/index/reports.png',
     description: (
-      <>
-        Welcome to Daiana docs. get started faster by learn some basic
-      </>
+      <Translate id="homepage.feature.reports.description">
+        Visualiza y analiza datos con los reportes y tableros de Daiana.
+      </Translate>
     ),
     link: 'intro'
   },
   {
-    title: 'History',
+    title: <Translate id="homepage.feature.history.title">Historial</Translate>,
     img: './img/index/history.png',
     description: (
-      <>
-        Welcome to Daiana docs. get started faster by learn some basic
-      </>
+      <Translate id="homepage.feature.history.description">
+        Consulta el historial de actividades y eventos en Daiana.
+      </Translate>
     ),
     link: 'intro'
   },
-
 ];
 
 function Feature({title, description, img, link}: FeatureItem) {
@@ -103,7 +102,11 @@ export default function HomepageFeatures(): ReactNode {
     <section className={styles.features}> 
       <div className="container">
       <div className='name'>
-        <h3>Explore by topics </h3>
+        <h3>
+          <Translate id="homepage.title_topics">
+            Explora por temas
+          </Translate>
+        </h3>
       </div>
         <div className="row">
           {FeatureList.map((props, idx) => (

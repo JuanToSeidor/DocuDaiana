@@ -1,7 +1,7 @@
 {
   "id": "Plataforma/agentes/editar/consola",
   "title": "Consola de entrenamiento",
-  "description": "",
+  "description": "¿Qué es la consola de entrenamiento ?",
   "source": "@site/docs/Plataforma/agentes/editar/consola.md",
   "sourceDirName": "Plataforma/agentes/editar",
   "slug": "/Plataforma/agentes/editar/consola",
@@ -24,6 +24,6 @@
   },
   "next": {
     "title": "Microsoft Teams",
-    "permalink": "/docs/2.0.0/Plataforma/agentes/editar/integraciones/teams"
+    "permalink": "/docs/2.0.0/Plataforma/agentes/integraciones/teams"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "homepage.getStartedNow": "Get started now",
+  "homepage.title": "Help Center",
+  "homepage.subtitle": "Create virtual assistants powered by artificial intelligence, train them for areas such as sales, human resources or customer support, and get valuable insights directly from your dashboards.",
+  "title_topics": "Explore by topics",
+
+  "homepage.feature.getStarted.title":  "Get started",
+  "homepage.feature.getStarted.description": "Welcome to Daiana docs. get started faster by learn some basic",
+  "homepage.feature.agents.title" : "Agents",
+  "homepage.feature.agents.description": "Welcome to Daiana docs. get started faster by learn some basic",
+  "homepage.feature.knowledgeBases.title": "Knowledge bases",
+  "homepage.feature.knowledgeBases.description": "Welcome to Daiana docs. get started faster by learn some basic",
+  "homepage.feature.integrations.title": "Integrations",
+  "homepage.feature.integrations.description": "Welcome to Daiana docs. get started faster by learn some basic",
+  "homepage.feature.reports.title": "Reports and dashboards",
+  "homepage.feature.reports.description": "Welcome to Daiana docs. get started faster by learn some basic",
+  "homepage.feature.history.title": "History",  
+  "homepage.feature.history.description": "Welcome to Daiana docs. get started faster by learn some basic"
+}
+      

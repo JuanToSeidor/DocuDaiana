@@ -7,9 +7,10 @@
   "date": "2025-07-03T19:22:11.000Z",
   "tags": [
     {
-      "inline": true,
+      "inline": false,
       "label": "Buenas prácticas",
-      "permalink": "/blog/tags/buenas-practicas"
+      "permalink": "/blog/tags/buenas-practicas",
+      "description": "Buenas prácticas tag description"
     },
     {
       "inline": true,

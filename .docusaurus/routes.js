@@ -104,7 +104,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '8d1'),
+    component: ComponentCreator('/docs', '6e4'),
     routes: [
       {
         path: '/docs/1.0',
@@ -270,11 +270,11 @@ export default [
       },
       {
         path: '/docs/2.0.0',
-        component: ComponentCreator('/docs/2.0.0', '907'),
+        component: ComponentCreator('/docs/2.0.0', '311'),
         routes: [
           {
             path: '/docs/2.0.0',
-            component: ComponentCreator('/docs/2.0.0', 'd37'),
+            component: ComponentCreator('/docs/2.0.0', '6df'),
             routes: [
               {
                 path: '/docs/2.0.0/category/empieza-ahora',
@@ -291,6 +291,12 @@ export default [
               {
                 path: '/docs/2.0.0/ConfiguracióndeEntorno/primer',
                 component: ComponentCreator('/docs/2.0.0/ConfiguracióndeEntorno/primer', 'cd5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/2.0.0/implementacion',
+                component: ComponentCreator('/docs/2.0.0/implementacion', '09d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -337,14 +343,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/2.0.0/Plataforma/agentes/editar/integraciones/teams',
-                component: ComponentCreator('/docs/2.0.0/Plataforma/agentes/editar/integraciones/teams', 'e7a'),
+                path: '/docs/2.0.0/Plataforma/agentes/integraciones/teams',
+                component: ComponentCreator('/docs/2.0.0/Plataforma/agentes/integraciones/teams', 'dc2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/2.0.0/Plataforma/agentes/editar/integraciones/whatsapp',
-                component: ComponentCreator('/docs/2.0.0/Plataforma/agentes/editar/integraciones/whatsapp', '7a8'),
+                path: '/docs/2.0.0/Plataforma/agentes/integraciones/whatsapp',
+                component: ComponentCreator('/docs/2.0.0/Plataforma/agentes/integraciones/whatsapp', '4ba'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

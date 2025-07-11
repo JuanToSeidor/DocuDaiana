@@ -15,14 +15,18 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <small>Get started now</small>
-          <h1>Help Center</h1>
+        <small>
+          <Translate id="homepage.getStartedNow">Comienza ahora</Translate>
+        </small>
+          <h1>
+          <Translate id="homepage.title">Centro de ayuda</Translate>
+          </h1>
         <p className="hero__subtitle">
-          {/* <Translate>
-          {siteConfig.tagline}
-          </Translate> */}
-
-          Create virtual assistants powered by artificial intelligence, train them for areas such as sales, human resources or customer support, and get valuable insights directly from your dashboards.
+           <Translate>
+          Cree asistentes virtuales impulsados por inteligencia artificial, entrénelos para áreas como ventas, recursos humanos o atención al cliente, y obtenga información valiosa directamente desde sus paneles de control.
+          </Translate> 
+        
+          
         </p>
       
 

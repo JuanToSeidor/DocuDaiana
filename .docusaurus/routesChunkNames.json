@@ -191,7 +191,7 @@
       "plugin": "plugin---searchc-14-0ea"
     }
   },
-  "/docs-8d1": {
+  "/docs-6e4": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
@@ -304,11 +304,11 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-1-0-uso-sso-892-ccc"
   },
-  "/docs/2.0.0-907": {
+  "/docs/2.0.0-311": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-2-0-05-f-0-4cf"
   },
-  "/docs/2.0.0-d37": {
+  "/docs/2.0.0-6df": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/2.0.0/category/empieza-ahora-a4c": {
@@ -322,6 +322,10 @@
   "/docs/2.0.0/ConfiguracióndeEntorno/primer-cd5": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-2-0-0-configuracionde-entorno-primer-1-df-2d4"
+  },
+  "/docs/2.0.0/implementacion-09d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-2-0-0-implementacionfb-2-ce4"
   },
   "/docs/2.0.0/intro-950": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -351,13 +355,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-2-0-0-plataforma-agentes-editar-consola-31-f-abd"
   },
-  "/docs/2.0.0/Plataforma/agentes/editar/integraciones/teams-e7a": {
+  "/docs/2.0.0/Plataforma/agentes/integraciones/teams-dc2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-0-0-plataforma-agentes-editar-integraciones-teams-047-e44"
+    "content": "content---docs-2-0-0-plataforma-agentes-integraciones-teams-12-a-337"
   },
-  "/docs/2.0.0/Plataforma/agentes/editar/integraciones/whatsapp-7a8": {
+  "/docs/2.0.0/Plataforma/agentes/integraciones/whatsapp-4ba": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-2-0-0-plataforma-agentes-editar-integraciones-whatsappb-0-c-2c4"
+    "content": "content---docs-2-0-0-plataforma-agentes-integraciones-whatsapp-119-1ba"
   },
   "/docs/2.0.0/Plataforma/dashboard/estadisticas-fd5": {
     "__comp": "__comp---theme-doc-item-178-a40",

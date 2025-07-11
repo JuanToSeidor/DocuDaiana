@@ -21,6 +21,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "implementacion",
+              "path": "/docs/2.0.0/implementacion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/docs/2.0.0/intro",
               "sidebar": "tutorialSidebar"
@@ -51,18 +56,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Plataforma/agentes/editar/integraciones/teams",
-              "path": "/docs/2.0.0/Plataforma/agentes/editar/integraciones/teams",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Plataforma/agentes/editar/integraciones/whatsapp",
-              "path": "/docs/2.0.0/Plataforma/agentes/editar/integraciones/whatsapp",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Plataforma/agentes/index",
               "path": "/docs/2.0.0/Plataforma/agentes/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Plataforma/agentes/integraciones/teams",
+              "path": "/docs/2.0.0/Plataforma/agentes/integraciones/teams",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Plataforma/agentes/integraciones/whatsapp",
+              "path": "/docs/2.0.0/Plataforma/agentes/integraciones/whatsapp",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -21,5 +21,9 @@
   "previous": {
     "title": "Wizard de Agentes",
     "permalink": "/docs/2.0.0/Plataforma/wizzard"
+  },
+  "next": {
+    "title": "Implementación SSO",
+    "permalink": "/docs/2.0.0/implementacion"
   }
 }
